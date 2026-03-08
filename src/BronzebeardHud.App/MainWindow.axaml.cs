@@ -21,23 +21,26 @@ public partial class MainWindow : Window
         var service = new GameStateService(viewModel, LogPaths.DefaultLogsDir());
         _ = service.RunAsync(CancellationToken.None);
 
-        // HS window tracking timer
-        var hsService = new HsWindowService();
-        var timer = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(250) };
-        timer.Tick += (_, _) =>
+        // HS window tracking timer (Windows only — on Linux/WSL, just stay visible)
+        if (OperatingSystem.IsWindows())
         {
-            var rect = hsService.GetHsWindowRect();
-            if (rect != null)
+            var hsService = new HsWindowService();
+            var timer = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(250) };
+            timer.Tick += (_, _) =>
             {
-                Position = new Avalonia.PixelPoint(rect.X + rect.Width, rect.Y);
-                Height = rect.Height;
-            }
+                var rect = hsService.GetHsWindowRect();
+                if (rect != null)
+                {
+                    Position = new Avalonia.PixelPoint(rect.X + rect.Width, rect.Y);
+                    Height = rect.Height;
+                }
 
-            if (!hsService.IsHsForeground())
-                Hide();
-            else
-                Show();
-        };
-        timer.Start();
+                if (!hsService.IsHsForeground())
+                    Hide();
+                else
+                    Show();
+            };
+            timer.Start();
+        }
     }
 }

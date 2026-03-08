@@ -1,9 +1,37 @@
 <Window xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        xmlns:vm="using:BronzebeardHud.App.ViewModels"
         x:Class="BronzebeardHud.App.MainWindow"
-        Title="BronzebeardHud.App">
-    Welcome to Avalonia!
+        x:DataType="vm:MainViewModel"
+        x:CompileBindings="False"
+        Title="Bronzebeard HUD"
+        Width="400" Height="600"
+        Background="#B0000000"
+        Foreground="White"
+        FontFamily="Segoe UI"
+        SystemDecorations="None"
+        Topmost="True"
+        ShowInTaskbar="False"
+        TransparencyLevelHint="Transparent">
+
+    <StackPanel Margin="12">
+        <TextBlock Text="{Binding PhaseText}"
+                   FontSize="16" FontWeight="Bold"
+                   Foreground="White"
+                   Margin="0,0,0,8"/>
+
+        <!-- Hero Info - visible during Shopping, Combat, GameOver -->
+        <StackPanel IsVisible="False"
+                    Name="HeroPanel">
+            <TextBlock FontSize="14" Foreground="White">
+                <Run Text="{Binding State.Player.HeroCardId}"/>
+            </TextBlock>
+            <TextBlock FontSize="12" Foreground="LightGray">
+                <Run Text="HP: "/><Run Text="{Binding State.Player.Health}"/>
+                <Run Text=" | Armor: "/><Run Text="{Binding State.Player.Armor}"/>
+                <Run Text=" | Tier: "/><Run Text="{Binding State.Player.TavernTier}"/>
+                <Run Text=" | Gold: "/><Run Text="{Binding State.Player.Gold}"/>
+            </TextBlock>
+        </StackPanel>
+    </StackPanel>
 </Window>

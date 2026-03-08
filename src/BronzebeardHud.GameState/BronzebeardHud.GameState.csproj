@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Include="Data/bg_cards.tsv" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,4945 @@
+BG19_010	Sewer Rat
+BG19_010_G	Sewer Rat
+BG19_010_Gt	Half-Shell
+BG19_010t	Half-Shell
+BG20_100	Razorfen Geomancer
+BG20_100_G	Razorfen Geomancer
+BG20_101	Roadboar
+BG20_101_G	Roadboar
+BG20_102	Tough Tusk
+BG20_102_G	Tough Tusk
+BG20_102_Ge	Real Tough
+BG20_102e	Toughened
+BG20_103	Bristleback Brute
+BG20_103_G	Bristleback Brute
+BG20_104	Bonker
+BG20_104_G	Bonker
+BG20_105	Thorncaller
+BG20_105_G	Thorncaller
+BG20_106	Groundshaker
+BG20_106_G	Groundshaker
+BG20_106e	Groundshook
+BG20_201	Bannerboar
+BG20_201_G	Bannerboar
+BG20_203	Prophet of the Boar
+BG20_203_G	Prophet of the Boar
+BG20_204	Bristleback Knight
+BG20_204_G	Bristleback Knight
+BG20_205	Agamaggan, the Great Boar
+BG20_205_G	Agamaggan, the Great Boar
+BG20_206	Captain Flat Tusk
+BG20_206_G	Captain Flat Tusk
+BG20_301	Sun-Bacon Relaxer
+BG20_301_G	Sun-Bacon Relaxer
+BG20_302	Aggem Thorncurse
+BG20_302_G	Aggem Thorncurse
+BG20_303	Charlga
+BG20_303_G	Charlga
+BG20_304	Archdruid Hamuul
+BG20_304_G	Archdruid Hamuul
+BG20_GEM	Blood Gem
+BG20_GEM_No_Impact	Blood Gem No Impact
+BG20_GEM_No_Impact_No_Target	Blood Gem No Impact No Target
+BG20_GEMe	Blood Gem
+BG20_GEMe2	Blood Gems
+BG20_GEMt	Mass Blood Gem
+BG20_HERO_100	Rokara
+BG20_HERO_100_Buddy	Icesnarl the Mighty
+BG20_HERO_100_Buddy_G	Icesnarl the Mighty
+BG20_HERO_100_Buddy_e	Snarling
+BG20_HERO_100_SKIN_A4	Rokara, Arcane Warrior
+BG20_HERO_100_SKIN_B	Mrrkara
+BG20_HERO_100_SKIN_C	Rustlin' Rokara
+BG20_HERO_100_SKIN_D	Rocker Rokara
+BG20_HERO_100_SKIN_E	Keeper Rokara
+BG20_HERO_100_SKIN_F	Arena-Champion Rokara
+BG20_HERO_100_SKIN_G	Explorer Rokara
+BG20_HERO_100p	Glory of Combat
+BG20_HERO_100p_e2	Glory
+BG20_HERO_101	Xyrella
+BG20_HERO_101_Buddy	Baby Elekk
+BG20_HERO_101_Buddy_G	Baby Elekk
+BG20_HERO_101_Buddy_e	Elekk-tion
+BG20_HERO_101_SKIN_A	Empyreal Xyrella
+BG20_HERO_101_SKIN_B	Elekkhandler Xyrella
+BG20_HERO_101_SKIN_C	Xyrella the Elegant
+BG20_HERO_101_SKIN_D2	Festival Guardian Xyrella
+BG20_HERO_101_SKIN_E4	Xyrella, Mi'da's Champion
+BG20_HERO_101_SKIN_F	Lightkeeper Xyrella
+BG20_HERO_101_SKIN_G	Rapunzel Xyrella
+BG20_HERO_101_SKIN_H	Man'ari Xyrella
+BG20_HERO_101p	See the Light
+BG20_HERO_101pe2	Pledge of Peace
+BG20_HERO_102	Overlord Saurfang
+BG20_HERO_102_Buddy	Dranosh Saurfang
+BG20_HERO_102_Buddy_G	Dranosh Saurfang
+BG20_HERO_102_Buddye	Vigor of the Horde
+BG20_HERO_102_SKIN_A	Sea Admiral Saurfang
+BG20_HERO_102_SKIN_B	Chargeleader Saurfang
+BG20_HERO_102_SKIN_C	Guan Yu Saurfang
+BG20_HERO_102_SKIN_D	Colossal Dragonplate Saurfang
+BG20_HERO_102_SKIN_E4	Shadow Helm Saurfang
+BG20_HERO_102e	For the Horde!
+BG20_HERO_102p	For the Horde!
+BG20_HERO_102pe	Horde Hoard
+BG20_HERO_103	Death Speaker Blackthorn
+BG20_HERO_103_Buddy	Death's Head Sage
+BG20_HERO_103_Buddy_G	Death's Head Sage
+BG20_HERO_103_SKIN_A	Tidespeaker Blackthorn
+BG20_HERO_103_SKIN_B2	Torchbearer Blackthorn
+BG20_HERO_103_SKIN_C4	Deal Speaker Blackthorn
+BG20_HERO_103p	Bloodbound
+BG20_HERO_201	Vol'jin
+BG20_HERO_201_Buddy	Master Gadrin
+BG20_HERO_201_Buddy_G	Master Gadrin
+BG20_HERO_201_Buddye2	Master's Guidance
+BG20_HERO_201_SKIN_A	Chillin' Vol'jin
+BG20_HERO_201_SKIN_B	Vol'jin, Frostwolf Officer
+BG20_HERO_201_SKIN_C	Vol'jin of Blind Absolution
+BG20_HERO_201_SKIN_D	Punk-Pop Vol'jin
+BG20_HERO_201e3	Stats Set DEPRECATED
+BG20_HERO_201p	Spirit Swap
+BG20_HERO_201p2	Spirit Swap
+BG20_HERO_201p2e	Spirit Swapped
+BG20_HERO_201p2e2	Spirit Gained
+BG20_HERO_201p3e	Marked for Gain
+BG20_HERO_202	Master Nguyen
+BG20_HERO_202_Buddy	Lei Flamepaw
+BG20_HERO_202_Buddy_G	Lei Flamepaw
+BG20_HERO_202_SKIN_A	Ban-Lu Nguyen
+BG20_HERO_202_SKIN_B4	Mystical Mentor Nguyen
+BG20_HERO_202_SKIN_C	Sunwell Nguyen
+BG20_HERO_202_SKIN_D	M.V.P. Nguyen
+BG20_HERO_202_SKIN_E	Celebration Nguyen
+BG20_HERO_202p	Power of the Storm
+BG20_HERO_202pe	Shifting Hero Power
+BG20_HERO_202pt	Shift your Hero Power
+BG20_HERO_242	Guff Runetotem
+BG20_HERO_242_Buddy	Baby Kodo
+BG20_HERO_242_Buddy_G	Baby Kodo
+BG20_HERO_242_SKIN_A	Stormwind Guard Guff
+BG20_HERO_242_SKIN_B	Oasis Guff
+BG20_HERO_242_SKIN_C	Exodar Guff
+BG20_HERO_242_SKIN_D	Shimmermoth Guff
+BG20_HERO_242p	Natural Balance
+BG20_HERO_280	Kurtrus Ashfallen
+BG20_HERO_280_Buddy	Living Nightmare
+BG20_HERO_280_Buddy_G	Living Nightmare
+BG20_HERO_280_Buddye	Living Nightmare Player Enchant
+BG20_HERO_280_Buddye2	Nightshot
+BG20_HERO_280_SKIN_A	Suede Kurtrus
+BG20_HERO_280_SKIN_B2	Ashfallen Firewalker
+BG20_HERO_280_SKIN_C3	The Honorable Ashfallen
+BG20_HERO_280_SKIN_D	Mrrrtrus Ashfallen
+BG20_HERO_280_SKIN_E	Gunglaive Kurtrus
+BG20_HERO_280e	Kurtrus Watcher
+BG20_HERO_280p5	Glaive Ricochet
+BG20_HERO_282	Tamsin Roame
+BG20_HERO_282_Buddy	Monstrosity
+BG20_HERO_282_Buddy_G	Monstrosity
+BG20_HERO_282_Buddye	Monstrous
+BG20_HERO_282_SKIN_A	Ballroom Tamsin
+BG20_HERO_282_SKIN_B	Dancin' Tamsin
+BG20_HERO_282_SKIN_C4	Tamsin, Shadow Mage
+BG20_HERO_282_SKIN_D	Treason Tamsin
+BG20_HERO_282_SKIN_E	Hacker Tamsin
+BG20_HERO_282_SKIN_F	Dragonsworn Tamsin
+BG20_HERO_282e2	Impending Sacrifice
+BG20_HERO_282p	Fragrant Phylactery
+BG20_HERO_282pe	Fragrant
+BG20_HERO_282pe2	Impending Sacrifice
+BG20_HERO_283	Galewing
+BG20_HERO_283_Buddy	Flight Trainer
+BG20_HERO_283_Buddy_G	Flight Trainer
+BG20_HERO_283_SKIN_A	Starblast Galewing
+BG20_HERO_283_SKIN_B2	Galewing of Fire
+BG20_HERO_283_SKIN_C3	Gravewing Galewing
+BG20_HERO_283_SKIN_D4	Sky Sailor Galewing
+BG20_HERO_283_SKIN_E	Lantern Stringer Galewing
+BG20_HERO_283_SKIN_F	Eternal Galewing
+BG20_HERO_283_SKIN_G	Infinite Galewing
+BG20_HERO_283p	Dungar's Gryphon
+BG20_HERO_283p_t1	Westfall
+BG20_HERO_283p_t1e	Westfall
+BG20_HERO_283p_t2	Ironforge
+BG20_HERO_283p_t3	Eastern Plaguelands
+BG20_HERO_301	Mutanus the Devourer
+BG20_HERO_301_Buddy	Nightmare Ectoplasm
+BG20_HERO_301_Buddy_G	Nightmare Ectoplasm
+BG20_HERO_301_SKIN_A	Stonecrash
+BG20_HERO_301_SKIN_B	Mutanus the Insatiable
+BG20_HERO_301_SKIN_C	Hot Mess Mutanus
+BG20_HERO_301_SKIN_D2	Fire Eater Mutanus
+BG20_HERO_301_SKIN_E	Mutanus the Devoured
+BG20_HERO_301_SKIN_F	Custodian Mutanus
+BG20_HERO_301_SKIN_G	Castle Mutanus
+BG20_HERO_301p	Devour
+BG20_HERO_301pe	Spat Upon
+BG21_000	Leapfrogger
+BG21_000_G	Leapfrogger
+BG21_000_Ge	Leapfroggin'
+BG21_000e	Leapfroggin'
+BG21_001	Palescale Crocolisk
+BG21_001_G	Palescale Crocolisk
+BG21_001e	Palescales
+BG21_002	Bird Buddy
+BG21_002_G	Bird Buddy
+BG21_002e	Birds Well Fed
+BG21_004	Insatiable Ur'zul
+BG21_004_G	Insatiable Ur'zul
+BG21_004e	Sated
+BG21_005	Famished Felbat
+BG21_005_G	Famished Felbat
+BG21_005e	Fed by the Felbat
+BG21_006	Impulsive Trickster
+BG21_006_G	Impulsive Trickster
+BG21_006e	Impulsive
+BG21_007	Impatient Doomsayer
+BG21_007_G	Impatient Doomsayer
+BG21_008	Saltscale Honcho
+BG21_008_G	Saltscale Honcho
+BG21_008e	Saltscaled
+BG21_011	Seafood Slinger
+BG21_011_G	Seafood Slinger
+BG21_013	Whelp Smuggler
+BG21_013_G	Whelp Smuggler
+BG21_013e	Job Whelp Done
+BG21_014	Prized Promo-Drake
+BG21_014_G	Prized Promo-Drake
+BG21_014e	Promoted
+BG21_015	Tarecgosa
+BG21_015_G	Tarecgosa
+BG21_017	Briny Bootlegger
+BG21_017_G	Briny Bootlegger
+BG21_018	Defiant Shipwright
+BG21_018_G	Defiant Shipwright
+BG21_018e	Wright and Just
+BG21_020	Dazzling Lightspawn
+BG21_020_G	Dazzling Lightspawn
+BG21_020e	Dazzled
+BG21_020pe	Dazzling Lightspawn Player Enchant (DNT)
+BG21_021	Smogger
+BG21_021_G	Smogger
+BG21_021e	Smogged
+BG21_022	Pupbot
+BG21_022_G	Pupbot
+BG21_023	Mechano-Tank
+BG21_023_G	Mechano-Tank
+BG21_024	Grease Bot
+BG21_024_G	Grease Bot
+BG21_024e	Greased Up
+BG21_025	Omega Buster
+BG21_025_G	Omega Buster
+BG21_025e	Omega Busted
+BG21_029	Icky Imp
+BG21_029_G	Icky Imp
+BG21_030	Budding Greenthumb
+BG21_030_G	Budding Greenthumb
+BG21_030e	Budding
+BG21_036	Master of Realities
+BG21_036_G	Master of Realities
+BG21_036e	The Elemental Plane
+BG21_037	Gemsplitter
+BG21_037_G	Gemsplitter
+BG21_038	Witchwing Nestmatron
+BG21_038_G	Witchwing Nestmatron
+BG21_040	Recycling Wraith
+BG21_040_G	Recycling Wraith
+BG21_040e	Refresh Costs 1 less
+BG21_HERO_000	Cariel Roame
+BG21_HERO_000_Buddy	Captain Fairmount
+BG21_HERO_000_Buddy_G	Captain Fairmount
+BG21_HERO_000_Buddy_Gt	Offensive Stance
+BG21_HERO_000_Buddyt	Offensive Stance
+BG21_HERO_000_Buddyt2	Defensive Stance
+BG21_HERO_000_Buddyt3	Offensive Stance
+BG21_HERO_000_Buddyt4	Defensive Stance
+BG21_HERO_000_Buddyt_Gt2	Defensive Stance
+BG21_HERO_000_SKIN_A	Racing Cariel
+BG21_HERO_000_SKIN_B2	Rope Darter Roame
+BG21_HERO_000_SKIN_C4	Cariel, Hammer of Light
+BG21_HERO_000_SKIN_D	Cariel, the Chosen
+BG21_HERO_000_SKIN_E	Benevolent Cariel
+BG21_HERO_000_SKIN_F	Lynxrider Cariel
+BG21_HERO_000e	Cariel Watcher
+BG21_HERO_000p	Conviction
+BG21_HERO_000p_t1	United Stance
+BG21_HERO_000pe	Blessed
+BG21_HERO_010	Scabbs Cutterbutter
+BG21_HERO_010_Buddy	Warden Thelwater
+BG21_HERO_010_Buddy_G	Warden Thelwater
+BG21_HERO_010_SKIN_A3	Undercover Chef Cutterbutter
+BG21_HERO_010_SKIN_B4	Star Scout Scabbs
+BG21_HERO_010_SKIN_C	MC Scabbs
+BG21_HERO_010_SKIN_D	Delicious Delver Scabbs
+BG21_HERO_010p	I Spy
+BG21_HERO_020	Cookie the Cook
+BG21_HERO_020_Buddy	Sous Chef
+BG21_HERO_020_Buddy_G	Sous Chef
+BG21_HERO_020_SKIN_A2	S'more-master Cookie
+BG21_HERO_020_SKIN_B	Feastmaster Cookie
+BG21_HERO_020_SKIN_C	"Y'Shaarj" Cookie
+BG21_HERO_020_SKIN_D	Dumpling Chef Cookie
+BG21_HERO_020_SKIN_E	Fishing Cookie
+BG21_HERO_020_SKIN_F	Cookie the Infinite
+BG21_HERO_020p	Stir the Pot
+BG21_HERO_030	Sneed
+BG21_HERO_030_Buddy	Piloted Whirl-O-Tron
+BG21_HERO_030_Buddy_G	Piloted Whirl-O-Tron
+BG21_HERO_030_Buddy_e	Whirling
+BG21_HERO_030_SKIN_A	Submersible Sneed
+BG21_HERO_030_SKIN_B3	Sinstone Sneed
+BG21_HERO_030_SKIN_C	Bonethresher Sneed
+BG21_HERO_030_SKIN_D	Sneed, Chariot Racer
+BG21_HERO_030_SKIN_E	Seedy Sneed
+BG21_HERO_030p	Pilot the Shredder
+BG21_HERO_030pe	Replicate
+BG21_HERO_030t	Sneed's New Shredder
+BG21_HERO_030t_G	Sneed's New Shredder
+BG21_HERO_030te	Shreddered
+BG22_001	Baby Krush
+BG22_001_G	Baby Krush
+BG22_001e	Baby Krush
+BG22_001t2	Devilsaur
+BG22_001t2_G	Devilsaur
+BG22_202	Tad
+BG22_202_G	Tad
+BG22_401	Swampstriker
+BG22_401_G	Swampstriker
+BG22_401e	Swamped
+BG22_402	Mantid Queen
+BG22_402_G	Mantid Queen
+BG22_402e	Royalty
+BG22_402e2	Royal Swiftness
+BG22_402e3	Royal Protection
+BG22_402e4	Royal Obstruction
+BG22_403	Young Murk-Eye
+BG22_403_G	Young Murk-Eye
+BG22_404	Friend of a Friend
+BG22_404_G	Friend of a Friend
+BG22_BuddyMeter	Buddy Button
+BG22_BuddyPlayerEnch	Buddy Player Enchantment [DNT]
+BG22_BuddySpell	Buy Your Buddy
+BG22_BuddySpell_2	Buy 2 Buddies
+BG22_HERO_000	Tavish Stormpike
+BG22_HERO_000_Buddy	Crabby
+BG22_HERO_000_Buddy_G	Crabby
+BG22_HERO_000_SKIN_A	Scoutmaster Tavish
+BG22_HERO_000_SKIN_B	Tavernwave Tavish
+BG22_HERO_000_SKIN_C	Long-shot Tavish
+BG22_HERO_000_SKIN_D	Tavish Drizzle Pike
+BG22_HERO_000_SKIN_E	Ribbon Tavish
+BG22_HERO_000p	Deadeye
+BG22_HERO_000p_Alt	Lock and Load
+BG22_HERO_000p_t1	Aim Left!
+BG22_HERO_000p_t2	Aim Low!
+BG22_HERO_000p_t3	Aim High!
+BG22_HERO_000p_t4	Aim Right!
+BG22_HERO_001	Bru'kan
+BG22_HERO_001_Buddy	Spirit Raptor
+BG22_HERO_001_Buddy_G	Spirit Raptor
+BG22_HERO_001_Buddy_e	Elemental Recollection
+BG22_HERO_001_Buddy_e1	Earth Recollection
+BG22_HERO_001_Buddy_e2	Fire Recollection
+BG22_HERO_001_Buddy_e3	Water Recollection
+BG22_HERO_001_Buddy_e4	Lightning Recollection
+BG22_HERO_001_SKIN_A	Scourgebound Bru'kan
+BG22_HERO_001_SKIN_B	Bru'kan, Rock God
+BG22_HERO_001_SKIN_C	Invoker Bru'kan
+BG22_HERO_001_SKIN_D	Grovekeeper Bru'kan
+BG22_HERO_001_SKIN_E	Visionary Bru'kan
+BG22_HERO_001p	Embrace the Elements
+BG22_HERO_001p_t1	Earth Invocation
+BG22_HERO_001p_t1_s	Earth Invocation
+BG22_HERO_001p_t1e	Element: Earth
+BG22_HERO_001p_t1et	Stone Elemental
+BG22_HERO_001p_t1et_G	Stone Elemental
+BG22_HERO_001p_t2	Fire Invocation
+BG22_HERO_001p_t2_s	Fire Invocation
+BG22_HERO_001p_t2e	Element: Fire
+BG22_HERO_001p_t3	Water Invocation
+BG22_HERO_001p_t3_s	Water Invocation
+BG22_HERO_001p_t3e	Element: Water
+BG22_HERO_001p_t4	Lightning Invocation
+BG22_HERO_001p_t4_s	Lightning Invocation
+BG22_HERO_002	Drek'Thar
+BG22_HERO_002_Buddy	Frostwolf Lieutenant
+BG22_HERO_002_Buddy_G	Frostwolf Lieutenant
+BG22_HERO_002_Buddy_e	Frostwolf Leadership
+BG22_HERO_002_SKIN_A	Disco Drek'thar
+BG22_HERO_002_SKIN_B	Scourgewolf Drek'thar
+BG22_HERO_002_SKIN_C	Challenger Drek'thar
+BG22_HERO_002_SKIN_D	Brigand Drek'thar
+BG22_HERO_002_SKIN_E	Bird Watching Drek'Thar
+BG22_HERO_002e	Lieutenant's Leadership
+BG22_HERO_002p	Frostwolf Fervor
+BG22_HERO_003	Vanndar Stormpike
+BG22_HERO_003_Buddy	Stormpike Lieutenant
+BG22_HERO_003_Buddy_G	Stormpike Lieutenant
+BG22_HERO_003_Buddy_e	Stormpike Leadership
+BG22_HERO_003_SKIN_A	Commander Vanndar
+BG22_HERO_003_SKIN_B	Vanndar Stormpipes
+BG22_HERO_003_SKIN_C	Deputy Vanndar
+BG22_HERO_003_SKIN_D	Vanndar Cavedweller
+BG22_HERO_003_SKIN_E	Earthen Vanndar
+BG22_HERO_003e	Lieutenant's Leadership
+BG22_HERO_003p	Stormpike Strength
+BG22_HERO_004	Varden Dawngrasp
+BG22_HERO_004_Buddy	Varden's Aquarrior
+BG22_HERO_004_Buddy_G	Varden's Aquarrior
+BG22_HERO_004_Buddy_e2	Frosted
+BG22_HERO_004_SKIN_A	Dawn Guardian Varden
+BG22_HERO_004_SKIN_B	Magister Dawngrasp
+BG22_HERO_004_SKIN_C	Val'kyr Varden
+BG22_HERO_004_SKIN_D	Azerite Varden
+BG22_HERO_004_SKIN_E	Rebel Varden
+BG22_HERO_004p	Twice as Nice
+BG22_HERO_007	Queen Azshara
+BG22_HERO_007_Buddy	Imperial Defender
+BG22_HERO_007_Buddy_G	Imperial Defender
+BG22_HERO_007_SKIN_A	Midsummer Queen
+BG22_HERO_007_SKIN_At	Midsummer Naga Queen
+BG22_HERO_007_SKIN_B	Majordomo Azshara
+BG22_HERO_007_SKIN_Bt	Molten Queen Azshara
+BG22_HERO_007_SKIN_C	Primal Queen Azshara
+BG22_HERO_007_SKIN_Ct	Primal Naga Queen Azshara
+BG22_HERO_007_SKIN_D	Nerubian Queen Azshara
+BG22_HERO_007_SKIN_Dt	Nerubian Naga Queen Azshara
+BG22_HERO_007p	Azshara's Ambition
+BG22_HERO_007p2	Naga Conquest
+BG22_HERO_007t	Naga Queen Azshara
+BG22_HERO_200	Ini Stormcoil
+BG22_HERO_200_Buddy	Sub Scrubber
+BG22_HERO_200_Buddy_G	Sub Scrubber
+BG22_HERO_200_Buddy_e	Scrub-a-Dub-Dub
+BG22_HERO_200_SKIN_A	Ini Snowmaster
+BG22_HERO_200_SKIN_B	Glitchvibe Ini
+BG22_HERO_200_SKIN_C	Ini Stormsuit
+BG22_HERO_200_SKIN_D	Outdoorsy Ini
+BG22_HERO_200_SKIN_E	SCV Ini
+BG22_HERO_200_SKIN_F	Time Traveler Ini
+BG22_HERO_200p	MechGyver
+BG22_HERO_201	Ambassador Faelin
+BG22_HERO_201_Buddy	Submersible Chef
+BG22_HERO_201_Buddy_G	Submersible Chef
+BG22_HERO_201_SKIN_A	Count Faelin
+BG22_HERO_201_SKIN_B	Silverguard Faelin
+BG22_HERO_201_SKIN_C	Noble Faelin
+BG22_HERO_201_SKIN_D	Benevolent Faelin
+BG22_HERO_201_SKIN_E	Punk Faelin
+BG22_HERO_201_SKIN_F	Zin-Ashari Faelin
+BG22_HERO_201p	Expedition Plans
+BG22_HERO_201pe	Unplayable
+BG22_HERO_305	Onyxia
+BG22_HERO_305_Buddy	Many Whelps
+BG22_HERO_305_Buddy_G	Many Whelps
+BG22_HERO_305_Buddy_e	Swarming
+BG22_HERO_305_SKIN_A4	Omencaller Prestor
+BG22_HERO_305_SKIN_B	Wing-Spring Onyxia
+BG22_HERO_305_SKIN_C	Professor Prestor
+BG22_HERO_305_SKIN_D	Sylvar Onyxia
+BG22_HERO_305e	Growing Whelp
+BG22_HERO_305p	Broodmother
+BG22_HERO_305t	Onyxian Whelp
+BG22_HERO_305t3e	Whelp
+BG22_HERO_305t_G	Onyxian Whelp
+BG22_HERO_305te	Broodmother
+BG22_HERO_305tpe	Onyxian Whelp Player Enchant
+BG23_000	Mini-Myrmidon
+BG23_000_G	Mini-Myrmidon
+BG23_000_Gt	Mini-Trident
+BG23_000e	Mini-Trident
+BG23_000t	Mini-Trident
+BG23_002	Shell Collector
+BG23_002_G	Shell Collector
+BG23_003	Critter Wrangler
+BG23_003_G	Critter Wrangler
+BG23_003e	Unleashed
+BG23_004	Deep-Sea Angler
+BG23_004_G	Deep-Sea Angler
+BG23_004_Gt	Angler's Lure
+BG23_004e	Angler's Lure
+BG23_004t	Angler's Lure
+BG23_007	Waverider
+BG23_007_G	Waverider
+BG23_007_Gt	Undersea Mount
+BG23_007e	Power of the Waves
+BG23_007e2	Wind of the Waves
+BG23_007t	Undersea Mount
+BG23_008	Glowscale
+BG23_008_G	Glowscale
+BG23_008_Ge	Glowing Crown
+BG23_008_Gt	Glowing Crown
+BG23_008e	Glowing Crown
+BG23_008t	Glowing Crown
+BG23_009	Lava Lurker
+BG23_009_G	Lava Lurker
+BG23_010	Eventide Brute
+BG23_010_G	Eventide Brute
+BG23_010e	Barnacles
+BG23_012	Corrupted Myrmidon
+BG23_012_G	Corrupted Myrmidon
+BG23_012e	Corruption
+BG23_013	Tidemistress Athissa
+BG23_013_G	Tidemistress Athissa
+BG23_013e	Illuminated
+BG23_014	Pashmar the Vengeful
+BG23_014_G	Pashmar the Vengeful
+BG23_015	Orgozoa, the Tender
+BG23_015_G	Orgozoa, the Tender
+BG23_015_Gt	Azshara's Hatchery
+BG23_015t	Azshara's Hatchery
+BG23_016	Reef Explorer
+BG23_016_G	Reef Explorer
+BG23_017	Sanguine Champion
+BG23_017_G	Sanguine Champion
+BG23_018	Darkgaze Elder
+BG23_018_G	Darkgaze Elder
+BG23_018t	Darkgaze Mass Blood Gem
+BG23_190	Uther the Lightbringer
+BG23_190_G	Uther the Lightbringer
+BG23_190e	Lit
+BG23_192	First Mate Pip
+BG23_192_G	First Mate Pip
+BG23_318	Leeroy the Reckless
+BG23_318_G	Leeroy the Reckless
+BG23_350	Yrel
+BG23_350_G	Yrel
+BG23_350e	Lightbound
+BG23_352	Tavern Tipper
+BG23_352_G	Tavern Tipper
+BG23_352e	Tipped
+BG23_353	Treasure-Seeker Elise
+BG23_353_G	Treasure-Seeker Elise
+BG23_353_Gt	Golden Monkey
+BG23_353t	Golden Monkey
+BG23_357	Mind Muck
+BG23_357_G	Mind Muck
+BG23_357e	Mind Mucked
+BG23_361	Legion Overseer
+BG23_361_G	Legion Overseer
+BG23_361e	Overseen, and Delicious
+BG23_HERO_201	Ozumat
+BG23_HERO_201_Buddy	Tamuzo
+BG23_HERO_201_Buddy_G	Tamuzo
+BG23_HERO_201_Buddye	That Was Ozum!
+BG23_HERO_201_SKIN_A	Ozumat, Glacial Horror
+BG23_HERO_201_SKIN_B	Naval Battle Ozumat
+BG23_HERO_201_SKIN_C	Desert Ozumat
+BG23_HERO_201_SKIN_D	Tar Pit Ozumat
+BG23_HERO_201p	Tentacular
+BG23_HERO_201pt	Ozumat's Tentacle
+BG23_HERO_201pt2	Ozumat's Tentacle
+BG23_HERO_201pt2_G	Ozumat's Tentacle
+BG23_HERO_201pt3	Ozumat's Tentacle
+BG23_HERO_201pt3_G	Ozumat's Tentacle
+BG23_HERO_201pt4	Ozumat's Tentacle
+BG23_HERO_201pt4_G	Ozumat's Tentacle
+BG23_HERO_201pt5	Ozumat's Tentacle
+BG23_HERO_201pt5_G	Ozumat's Tentacle
+BG23_HERO_201pt6	Ozumat's Tentacle
+BG23_HERO_201pt6_G	Ozumat's Tentacle
+BG23_HERO_201pt_G	Ozumat's Tentacle
+BG23_HERO_201pt_SKIN_A	Ozumat's Tentacle
+BG23_HERO_201pt_SKIN_A_G	Ozumat's Tentacle
+BG23_HERO_303	Murloc Holmes
+BG23_HERO_303_Buddy	Watfin
+BG23_HERO_303_Buddy_G	Watfin
+BG23_HERO_303_SKIN_A	Philosopher Holmes
+BG23_HERO_303_SKIN_B	Sheriff Holmes
+BG23_HERO_303_SKIN_C	Vacation Holmes
+BG23_HERO_303_SKIN_D	Spelunker Holmes
+BG23_HERO_303p2	Detective for Hire
+BG23_HERO_303pt	No Minions
+BG23_HERO_304	Lady Vashj
+BG23_HERO_304_Buddy	Coilfang Elite
+BG23_HERO_304_Buddy_G	Coilfang Elite
+BG23_HERO_304_SKIN_A	Baroness Vashj
+BG23_HERO_304_SKIN_B	Snakespeaker Vashj
+BG23_HERO_304_SKIN_C	One-Vashj Band
+BG23_HERO_304_SKIN_D	Gorgon Vashj
+BG23_HERO_304_SKIN_E	Maldraxxus Vashj
+BG23_HERO_304p	Relics of the Deep
+BG23_HERO_305	Heistbaron Togwaggle
+BG23_HERO_305_Buddy	Waxadred, the Drippy
+BG23_HERO_305_Buddy_G	Waxadred, the Drippy
+BG23_HERO_305_SKIN_A	Bookbaron Togwaggle
+BG23_HERO_305_SKIN_B	Sparkhoarder Togwaggle
+BG23_HERO_305_SKIN_C	Togwaggle, Archlich
+BG23_HERO_305_SKIN_D	Safecracker Togwaggle
+BG23_HERO_305_SKIN_E	Candle King Togwaggle
+BG23_HERO_305p	The Perfect Crime
+BG23_HERO_306	Sylvanas Windrunner
+BG23_HERO_306_Buddy	Nathanos Blightcaller
+BG23_HERO_306_Buddy_G	Nathanos Blightcaller
+BG23_HERO_306_Buddy_e	Call of the Blight
+BG23_HERO_306e	Soul Infused
+BG23_HERO_306p	Reclaimed Souls
+BG23_Spellcraft_e	Spellcraft In-Hand Ench [DNT]
+BG24_003	Nether Drake
+BG24_003_G	Nether Drake
+BG24_003e	Nether Again
+BG24_004	Warpwing
+BG24_004_G	Warpwing
+BG24_005	Sinrunner Blanchy
+BG24_005_G	Sinrunner Blanchy
+BG24_005e2	Reborn Removed
+BG24_009	Picky Eater
+BG24_009_G	Picky Eater
+BG24_009e	Ate a Taverngoer
+BG24_012	Murky
+BG24_012_G	Murky
+BG24_012e	Bubbled Up
+BG24_017	Ball of Minions
+BG24_017_G	Ball of Minions
+BG24_017e	Balled Up Minions
+BG24_018	Tortollan Blue Shell
+BG24_018_G	Tortollan Blue Shell
+BG24_020	Tea Master Theotar
+BG24_020_G	Tea Master Theotar
+BG24_020e	Tea Time
+BG24_022	Rendle the Mistermind
+BG24_022_G	Rendle the Mistermind
+BG24_300	Dozy Whelp
+BG24_300_G	Dozy Whelp
+BG24_300e	Woke
+BG24_500	Amber Guardian
+BG24_500_G	Amber Guardian
+BG24_500e	Guarded by Amber
+BG24_704	Interrogator Whitemane
+BG24_704_G	Interrogator Whitemane
+BG24_704_e	Impure
+BG24_704_e_G	Impure
+BG24_707	Bristlemane Scrapsmith
+BG24_707_G	Bristlemane Scrapsmith
+BG24_708	Vanessa VanCleef
+BG24_708_G	Vanessa VanCleef
+BG24_708e	Defias Support
+BG24_712	The Walking Fort
+BG24_712_G	The Walking Fort
+BG24_712e	Fortified
+BG24_715	Patient Scout
+BG24_715_G	Patient Scout
+BG24_719	Faceless Disciple
+BG24_719_G	Faceless Disciple
+BG24_HERO_100	Sire Denathrius
+BG24_HERO_100_Buddy	Shady Aristocrat
+BG24_HERO_100_Buddy_G	Shady Aristocrat
+BG24_HERO_100_Buddy_Gt	Hefty Coin Pouch
+BG24_HERO_100_Buddyt	Coin Pouch
+BG24_HERO_100_SKIN_A	Sire Melodious
+BG24_HERO_100_SKIN_B	Chariot Driver Denathrius
+BG24_HERO_100_SKIN_C	Kingpin Denathrius
+BG24_HERO_100_SKIN_D	Sire Denathrius Bat
+BG24_HERO_100_SKIN_E	Boss Denathrius
+BG24_HERO_100p	Whodunit?
+BG24_HERO_204	Enhance-o Mechano
+BG24_HERO_204_Buddy	Enhance-o Medico
+BG24_HERO_204_Buddy_G	Enhance-o Medico
+BG24_HERO_204_Buddye2	Tuned Up
+BG24_HERO_204_SKIN_A	Enhance-o-musician
+BG24_HERO_204_SKIN_B	Gladi-o-Mechano
+BG24_HERO_204_SKIN_C	Tin-o-Mechano
+BG24_HERO_204_SKIN_D	Reave-o-mechano
+BG24_HERO_204_SKIN_E	Clockwork Mechano
+BG24_HERO_204p	Enhancification
+BG24_HERO_204pe	Enhance-o Reborno
+BG24_HERO_204pe2	Enhance-o Divino
+BG24_HERO_204pe3	Enhance-o Taunto
+BG24_HERO_204pe4	Enhance-o Windfuryo
+BG24_HERO_204pe5	Enhance-o Stealtho
+BG24_HERO_204pe6	Enhance-o Venomo
+BG24_Quest_112	Track the Footprints
+BG24_Quest_114	Assemble a Lineup
+BG24_Quest_120	Unmask the Culprit
+BG24_Quest_123	Find the Murder Weapon
+BG24_Quest_124	Reenact the Murder
+BG24_Quest_125	Sort It All Out
+BG24_Quest_126	Follow the Money
+BG24_Quest_151	Unlikely Duo
+BG24_Quest_311	Cry for Help
+BG24_Quest_313	Invite the Guests
+BG24_Quest_314	Dust for Prints
+BG24_Quest_318	Witness Protection
+BG24_Quest_320	Exhume the Bones
+BG24_Quest_328	Close the Case
+BG24_Quest_351	Hire an Investigator
+BG24_Quest_352	Crack the Case
+BG24_Quest_Bob	An Investigation!
+BG24_QuestsPlayerEnch_t	Discover Quest + Reward [DNT]
+BG24_Reward_107	Snicker Snacks
+BG24_Reward_109	Stolen Gold
+BG24_Reward_111	Evil Twin
+BG24_Reward_113	Ritual Dagger
+BG24_Reward_113e	"Noble" Sacrifice
+BG24_Reward_115	Theotar's Parasol
+BG24_Reward_115e	Shaded
+BG24_Reward_115e2	Shady
+BG24_Reward_123	Exquisite Conch
+BG24_Reward_125	The Smoking Gun
+BG24_Reward_125e	Armed and Still Smoking
+BG24_Reward_128	Mirror Shield
+BG24_Reward_128e	Mirror Shield
+BG24_Reward_129	Secret Sinstone
+BG24_Reward_130	Ghastly Mask
+BG24_Reward_131	Red Hand
+BG24_Reward_131e	Caught Red Handed
+BG24_Reward_134	The Friends Along the Way
+BG24_Reward_135	Yogg-tastic Tasties
+BG24_Reward_136	Tiny Henchmen
+BG24_Reward_136e	Less Tiny
+BG24_Reward_138	Victim's Specter
+BG24_Reward_305	Anima Bribe
+BG24_Reward_305e	Anima Bribed
+BG24_Reward_306	Cooked Book
+BG24_Reward_306e	Cooked
+BG24_Reward_308	Teal Tiger Sapphire
+BG24_Reward_308e	Tiger Spirit
+BG24_Reward_309	Devils in the Details
+BG24_Reward_309e	Satisfied. For Now...
+BG24_Reward_310	Partner in Crime
+BG24_Reward_311	Another Hidden Body
+BG24_Reward_312	Staff of Origination
+BG24_Reward_312e	Well Staffed
+BG24_Reward_313	Wondrous Wisdomball
+BG24_Reward_313e	Wisdom and Wonder
+BG24_Reward_321	Alter Ego
+BG24_Reward_321e	Altered Ego
+BG24_Reward_321t	Alter Ego
+BG24_Reward_331	Menagerie Mayhem
+BG24_Reward_331e	Mischievous Mayhem
+BG24_Reward_350	Pilfered Lamps
+BG24_Reward_361	Hidden Treasure Vault
+BG24_Reward_362	Essence of Zerus
+BG24_Reward_363	Ethereal Evidence
+BG24_Reward_363e	Ethereal Evidence Player Ench
+BG24_Reward_364	Volatile Venom
+BG24_Reward_364e	Volatile
+BG24_Reward_708	Blood Goblet
+BG24_Reward_708_e	Blood-Kissed
+BG24_Reward_712	Sinfall Medallion
+BG24_Reward_712e	Sinfallen
+BG24_Reward_715	Enhance-a-matic
+BG24_Reward_715e	HELLO! HELLO! HELLO!
+BG24_Reward_715e2	Slice n' Dice
+BG24_Reward_715e3	Bunkered
+BG24_Reward_715e4	Let's Try That Again
+BG24_Reward_715t	Mega Horn
+BG24_Reward_715t2	Blazing Blades
+BG24_Reward_715t3	Bunker Plating
+BG24_Reward_715t4	Death Rewinder
+BG24_Reward_718	Kidnap Sack
+BG24_Reward_718t	Kidnap Sack
+BG24_Reward_719	The Golden Hammer
+BG24_Reward_719t	The Golden Hammer
+BG24_Reward_719te	Golden Hammered
+BG25_001	Risen Rider
+BG25_001_G	Risen Rider
+BG25_002	Ghoul of the Feast
+BG25_002_G	Ghoul of the Feast
+BG25_002e	Tasty Treat
+BG25_003	Relentless Sentry
+BG25_003_G	Relentless Sentry
+BG25_003e	Ready To Guard Again
+BG25_004	Possessive Banshee
+BG25_004_G	Possessive Banshee
+BG25_004e	MINE!!!
+BG25_005	Jelly Belly
+BG25_005_G	Jelly Belly
+BG25_005e	Jellied
+BG25_007	Anub'arak, Nerubian King
+BG25_007_G	Anub'arak, Nerubian King
+BG25_008	Eternal Knight
+BG25_008_G	Eternal Knight
+BG25_008_e	Eternal Legion
+BG25_008pe	Eternal Knight Player Enchant [DNT]
+BG25_009	Eternal Summoner
+BG25_009_G	Eternal Summoner
+BG25_010	Handless Forsaken
+BG25_010_G	Handless Forsaken
+BG25_010_Gt	Helping Hand
+BG25_010t	Helping Hand
+BG25_011	Nerubian Deathswarmer
+BG25_011_G	Nerubian Deathswarmer
+BG25_011e2	Undead Army
+BG25_011pe	Undead Bonus Attack Player Enchant [DNT]
+BG25_013	Rot Hide Gnoll
+BG25_013_G	Rot Hide Gnoll
+BG25_013e	Rotting
+BG25_014	Hungering Abomination
+BG25_014_G	Hungering Abomination
+BG25_014e	OM NOM NOM
+BG25_016	Sin'dorei Straight Shot
+BG25_016_G	Sin'dorei Straight Shot
+BG25_016e	Deborn
+BG25_016e2	Tauntn't
+BG25_020	Sister Deathwhisper
+BG25_020_G	Sister Deathwhisper
+BG25_020e	Dark Whispers
+BG25_022	Scarlet Skull
+BG25_022_G	Scarlet Skull
+BG25_022e	Scarlet Fear
+BG25_023	Soulsplitter
+BG25_023_G	Soulsplitter
+BG25_023e	Soul Doubled
+BG25_027	Hunter of Gatherers
+BG25_027_G	Hunter of Gatherers
+BG25_027e	Gatherer Hunted
+BG25_032	Peggy Sturdybone
+BG25_032_G	Peggy Sturdybone
+BG25_032e	Loot Get
+BG25_033	Corpse Refiner
+BG25_033_G	Corpse Refiner
+BG25_034	Captain Sanders
+BG25_034_G	Captain Sanders
+BG25_040	Blazing Skyfin
+BG25_040_G	Blazing Skyfin
+BG25_040e	Blaze of Glory
+BG25_041	Felemental
+BG25_041_G	Felemental
+BG25_041e	Felemental Player Enchant (DNT)
+BG25_041e2	Felementality
+BG25_042	Felstomper
+BG25_042_G	Felstomper
+BG25_042e	Felgorged
+BG25_043	Cyborg Drake
+BG25_043_G	Cyborg Drake
+BG25_043e	Cyborg Enhancement
+BG25_044	Greta Gold-Gun
+BG25_044_G	Greta Gold-Gun
+BG25_044e2	Gold-Gunned
+BG25_044t	Gold-Gun
+BG25_045	Thorncaptain
+BG25_045_G	Thorncaptain
+BG25_045e	Tis' the Captain
+BG25_046	Magmaloc
+BG25_046_G	Magmaloc
+BG25_046e	Magma!
+BG25_050	Colossus of the Sun
+BG25_050_G	Colossus of the Sun
+BG25_105	Poetic Pen Pal
+BG25_105_G	Poetic Pen Pal
+BG25_155	Gem Smuggler
+BG25_155_G	Gem Smuggler
+BG25_165	Dr. Boombox
+BG25_165_G	Dr. Boombox
+BG25_309	General Drakkisath
+BG25_309_G	General Drakkisath
+BG25_309_Gt	Smolderwing
+BG25_309e	Smoldering
+BG25_309t	Smolderwing
+BG25_354	Titus Rivendare
+BG25_354_G	Titus Rivendare
+BG25_399	Radio Star
+BG25_399_G	Radio Star
+BG25_806	Sly Raptor
+BG25_806_G	Sly Raptor
+BG25_806e	Freed
+BG25_807	Mecha-Jaraxxus
+BG25_807_G	Mecha-Jaraxxus
+BG25_807e	Rusted Reggie
+BG25_807e2	Magtheridon Prime
+BG25_807e3	Baltharak
+BG25_807e4	Shield of the Legion
+BG25_807t	Rusted Reggie
+BG25_807t2	Magtheridon Prime
+BG25_807t2_G	Magtheridon Prime
+BG25_807t3	Baltharak
+BG25_807t3_G	Baltharak
+BG25_807t4	Shield of the Legion
+BG25_807t4_G	Shield of the Legion
+BG25_807t_G	Rusted Reggie
+BG25_807t_Ge	Rusted Reggie
+BG25_922	Fireworks Fanatic
+BG25_922_G	Fireworks Fanatic
+BG25_922e	Fireworked
+BG25_HERO_100	Professor Putricide
+BG25_HERO_100_Buddy	Festergut
+BG25_HERO_100_Buddy_G	Festergut
+BG25_HERO_100_SKIN_A	Oil Baron Putricide
+BG25_HERO_100_SKIN_B	Hatter Putricide
+BG25_HERO_100_SKIN_C	Paleontologist Putricide
+BG25_HERO_100p	Build-An-Undead
+BG25_HERO_100pt	Putricide's Creation
+BG25_HERO_103	Teron Gorefiend
+BG25_HERO_103_Buddy	Shadowy Construct
+BG25_HERO_103_Buddy_G	Shadowy Construct
+BG25_HERO_103_Buddye	From the Shadows
+BG25_HERO_103_SKIN_A	Ferryman Teron
+BG25_HERO_103_SKIN_B	Cowboy Teron
+BG25_HERO_103_SKIN_C	Tengu Teron
+BG25_HERO_103_SKIN_D	Spectre Teron
+BG25_HERO_103p	Rapid Reanimation
+BG25_HERO_103pe	Impending Death
+BG25_HERO_105	E.T.C., Band Manager
+BG25_HERO_105_Buddy	Talent Scout
+BG25_HERO_105_Buddy_G	Talent Scout
+BG25_HERO_105_SKIN_A	Burning Tauren Chieftain
+BG25_HERO_105_SKIN_C	E.T.C., Dragon Dancer
+BG25_HERO_105_SKIN_D	E.T.C., Overlord Manager
+BG25_HERO_105_SKIN_E	L800 E.T.C.
+BG25_HERO_105p	Sign a New Artist
+BG26_018	Rapscallion Recruiter
+BG26_018_G	Rapscallion Recruiter
+BG26_045	Shell Whistler
+BG26_045_G	Shell Whistler
+BG26_135	Southsea Busker
+BG26_135_G	Southsea Busker
+BG26_135e	Extra Gold Next Turn [DNT]
+BG26_137	Bream Counter
+BG26_137_G	Bream Counter
+BG26_137e	Accounted For
+BG26_146	Lullabot
+BG26_146_G	Lullabot
+BG26_146_Ge2	Lullabot
+BG26_146e2	Lullabot
+BG26_146e3	Lulling
+BG26_147	Accord-o-Tron
+BG26_147_G	Accord-o-Tron
+BG26_147_Ge	Accord-o-Tron
+BG26_147e	Accord-o-Tron
+BG26_148	Scrap Scraper
+BG26_148_G	Scrap Scraper
+BG26_149	Polarizing Beatboxer
+BG26_149_G	Polarizing Beatboxer
+BG26_149e	Polarized
+BG26_152	Utility Drone
+BG26_152_G	Utility Drone
+BG26_152e	Well Utilized
+BG26_157	Bristlebach
+BG26_157_G	Bristlebach
+BG26_159	Moon-Bacon Jazzer
+BG26_159_G	Moon-Bacon Jazzer
+BG26_159pe	Blood Gem Player Enchant (DNT)
+BG26_160	Prickly Piper
+BG26_160_G	Prickly Piper
+BG26_162	Dancing Barnstormer
+BG26_162_G	Dancing Barnstormer
+BG26_162e	Barnstormed
+BG26_162pe	Dancing Barnstormer Player Enchant (DNT)
+BG26_171	Silent Swimmer
+BG26_171_G	Silent Swimmer
+BG26_171_Gt	Just Keep Swimming
+BG26_171e	Just Keep Swimming
+BG26_171t	Just Keep Swimming
+BG26_172	Xylo-bones
+BG26_172_G	Xylo-bones
+BG26_172e	Ossum Performance
+BG26_173	[BGTEMPLATE] VFX Dummy
+BG26_174	Soul Rewinder
+BG26_174_G	Soul Rewinder
+BG26_174e	Be Kind, Rewind
+BG26_175	Elemental of Surprise
+BG26_175_G	Elemental of Surprise
+BG26_175e	Surprise!
+BG26_176	The Boogie Monster
+BG26_176_G	The Boogie Monster
+BG26_176e	Boogying
+BG26_199	Upbeat Duo
+BG26_199_G	Upbeat Duo
+BG26_350	Bassgill
+BG26_350_G	Bassgill
+BG26_350e2	Unplayable
+BG26_354	Choral Mrrrglr
+BG26_354_G	Choral Mrrrglr
+BG26_354e	Chorus
+BG26_355	Disco Shuffler
+BG26_355_G	Disco Shuffler
+BG26_355_Gt	Boogie Down
+BG26_355_Gt2	Partner Up
+BG26_355t	Boogie Down
+BG26_355t2	Partner Up
+BG26_360	Scourfin
+BG26_360_G	Scourfin
+BG26_360e	Scoured
+BG26_361	Plagued Tidewalker
+BG26_361_G	Plagued Tidewalker
+BG26_370	Hungry Snapjaw
+BG26_370_G	Hungry Snapjaw
+BG26_370e	Snapped Up
+BG26_501	Reef Riffer
+BG26_501_G	Reef Riffer
+BG26_501_Gt	Sick Riffs
+BG26_501e	Sick Riffs
+BG26_501t	Sick Riffs
+BG26_502	Deep Blue Crooner
+BG26_502_G	Deep Blue Crooner
+BG26_502_Gt	Deep Blues
+BG26_502e	Deep Blues
+BG26_502pe	Deep Blue Crooner Player Enchant [DNT]
+BG26_502t	Deep Blues
+BG26_505	Zesty Shaker
+BG26_505_G	Zesty Shaker
+BG26_522	Keyboard Igniter
+BG26_522_G	Keyboard Igniter
+BG26_522e	Keys on Fire
+BG26_523	Tichondrius
+BG26_523_G	Tichondrius
+BG26_523e	Dreadlord's Embrace
+BG26_524	Malchezaar, Prince of Dance
+BG26_524_G	Malchezaar, Prince of Dance
+BG26_525	Imposing Percussionist
+BG26_525_G	Imposing Percussionist
+BG26_528	Backstage Security
+BG26_528_G	Backstage Security
+BG26_529	Upbeat Frontdrake
+BG26_529_G	Upbeat Frontdrake
+BG26_531	Bongo Bopper
+BG26_531_G	Bongo Bopper
+BG26_535	Rock Rock
+BG26_535_G	Rock Rock
+BG26_535e	Rocked On!
+BG26_537	Flourishing Frostling
+BG26_537_G	Flourishing Frostling
+BG26_537e	Flourished
+BG26_537pe	Flourishing Frostling Player Enchant [DNT]
+BG26_766	Fleet Admiral Tethys
+BG26_766_G	Fleet Admiral Tethys
+BG26_800	Manasaber
+BG26_800_G	Manasaber
+BG26_800_Gt	Cubling
+BG26_800t	Cubling
+BG26_801	Rylak Metalhead
+BG26_801_G	Rylak Metalhead
+BG26_802	Banana Slamma
+BG26_802_G	Banana Slamma
+BG26_802e	Banana Slammed
+BG26_803_Gt	Tentacle of Octosari
+BG26_803t	Tentacle of Octosari
+BG26_804	Octosari, Wrap God
+BG26_804_G	Octosari, Wrap God
+BG26_805	Humming Bird
+BG26_805_G	Humming Bird
+BG26_805e	Entranced
+BG26_805pe	Humming Bird Player Enchant [DNT]
+BG26_810	Gunpowder Courier
+BG26_810_G	Gunpowder Courier
+BG26_810e	Gun Power
+BG26_812	Record Smuggler
+BG26_812_G	Record Smuggler
+BG26_813t	The Goldenizer
+BG26_814	Lovesick Balladist
+BG26_814_G	Lovesick Balladist
+BG26_814e	Serenaded
+BG26_815	Underhanded Dealer
+BG26_815_G	Underhanded Dealer
+BG26_815e	Underhanded
+BG26_817	Blade Collector
+BG26_817_G	Blade Collector
+BG26_867	Three Lil' Quilboar
+BG26_867_G	Three Lil' Quilboar
+BG26_888	Operatic Belcher
+BG26_888_G	Operatic Belcher
+BG26_888e	Belched
+BG26_921	Worgen Vigilante
+BG26_921_G	Worgen Vigilante
+BG26_963	Electric Synthesizer
+BG26_963_G	Electric Synthesizer
+BG26_963e	Synthesized
+BG26_966	Stormbringer
+BG26_966_G	Stormbringer
+BG26_966e	Brought the Storm
+BG26_969	Low-Flier
+BG26_969_G	Low-Flier
+BG26_969e	Flying Higher
+BG26_CFM_636	Shadow Rager
+BG26_ETC_321	Annoy-o-Troupe
+BG26_ETC_321_G	Annoy-o-Troupe
+BG26_FP1_005	Shade of Naxxramas
+BG26_GIL_513	Lost Spirit
+BG26_GIL_513e	Spooky Sacrifice
+BG26_HERO_100_SKIN_A	E.T.C., King of Rock
+BG26_HERO_101	Cap'n Hoggarr
+BG26_HERO_101_Buddy	Shining Sailor
+BG26_HERO_101_Buddy_G	Shining Sailor
+BG26_HERO_101p	I'm the Cap'n Now
+BG26_HERO_102	Inge, the Iron Hymn
+BG26_HERO_102_Buddy	Solemn Serenader
+BG26_HERO_102_Buddy_G	Solemn Serenader
+BG26_HERO_102_Buddye	Solemn
+BG26_HERO_102p	Major Hymn
+BG26_HERO_102p2	Minor Hymn
+BG26_HERO_102pe	Inge's Hymn
+BG26_HERO_104	Rock Master Voone
+BG26_HERO_104_Buddy	Akali, Rock Rhino
+BG26_HERO_104_Buddy_G	Akali, Rock Rhino
+BG26_HERO_104p	Upbeat Harmony
+BG26_ICC_026	Grim Necromancer
+BG26_ICC_027	Bone Drake
+BG26_ICC_028	Sunborne Val'kyr
+BG26_ICC_065	Bone Baron
+BG26_ICC_705	Bonemare
+BG26_ICC_705e	Bonemare's Boon
+BG26_ICC_901	Drakkari Enchanter
+BG26_ICC_901_G	Drakkari Enchanter
+BG26_LOOT_534	Gilded Gargoyle
+BG26_OG_248	Am'gam Rager
+BG26_RLK_117	Incorporeal Corporal
+BG26_RLK_117_G	Incorporeal Corporal
+BG26_RLK_119	Drakkari Embalmer
+BG26_RLK_119_G	Drakkari Embalmer
+BG26_RLK_119e	Embalmed
+BG26_RLK_824	Arms Dealer
+BG26_RLK_833	Foul Egg
+BG26_ULD_274	Wasteland Assassin
+BG26_tt_004	Flesheating Ghoul
+BG26_tt_004o	Cannibalize
+BG27_001	Living Constellation
+BG27_001_G	Living Constellation
+BG27_001e	Year of the Amalgam
+BG27_002	Oozeling Gladiator
+BG27_002_G	Oozeling Gladiator
+BG27_002t	Slimy Shield
+BG27_002te	Slime-shielded
+BG27_004	Surf n' Surf
+BG27_004_G	Surf n' Surf
+BG27_004_Ge	Crab Riding
+BG27_004_Gt	Crab Mount
+BG27_004_Gt2	Crab
+BG27_004e	Crab Riding
+BG27_004t	Crab Mount
+BG27_004t2	Crab
+BG27_005	Timecap'n Hooktail
+BG27_005_G	Timecap'n Hooktail
+BG27_005e	Hooktailed
+BG27_008	Mechanized Gift Horse
+BG27_008_G	Mechanized Gift Horse
+BG27_008_Gt	Mechorse
+BG27_008_Gt2	Mechapony
+BG27_008t	Mechorse
+BG27_008t2	Mechapony
+BG27_009	Peckish Feldrake
+BG27_009_G	Peckish Feldrake
+BG27_009e	Light Snack
+BG27_010	Relentless Mur'ghoul
+BG27_010_G	Relentless Mur'ghoul
+BG27_010e	Ready To Stalk Again
+BG27_011	Dreadbeard
+BG27_011_G	Dreadbeard
+BG27_012	Seaborn Summoner
+BG27_012_G	Seaborn Summoner
+BG27_012_Gt	Sea Summoning
+BG27_012t	Sea Summoning
+BG27_013	Transmuted Bramblewitch
+BG27_013_G	Transmuted Bramblewitch
+BG27_013e	Transmuted
+BG27_014	Free-Flying Feathermane
+BG27_014_G	Free-Flying Feathermane
+BG27_016	Champion of Sargeras
+BG27_016_G	Champion of Sargeras
+BG27_016e	Power of Sargeras
+BG27_017	Obsidian Ravager
+BG27_017_G	Obsidian Ravager
+BG27_018	Emergent Flame
+BG27_018_G	Emergent Flame
+BG27_018e	Champion's Flame
+BG27_021	The Boommobile
+BG27_021_G	The Boommobile
+BG27_021_Ge	The Boommobile
+BG27_021e	The Boommobile
+BG27_022	Adaptable Barricade
+BG27_022_G	Adaptable Barricade
+BG27_022e	Survive.exe
+BG27_023	Murcules
+BG27_023_G	Murcules
+BG27_023e	Mythical Mrrgl
+BG27_024	Daggerspine Thrasher
+BG27_024_G	Daggerspine Thrasher
+BG27_024_Ge1	Divine Thrashing
+BG27_024_Ge2	Furious Thrashing
+BG27_024_Ge3	Deadly Thrashing
+BG27_024e1	Divine Thrashing
+BG27_024e2	Furious Thrashing
+BG27_024e3	Deadly Thrashing
+BG27_025	The Glad-iator
+BG27_025_G	The Glad-iator
+BG27_025e	Get Happy
+BG27_028	Briarback Bookie
+BG27_028_G	Briarback Bookie
+BG27_029	Champion of the Primus
+BG27_029_G	Champion of the Primus
+BG27_030	Sore Loser
+BG27_030_G	Sore Loser
+BG27_030e	NO, I'M WINNING!
+BG27_079	Hawkstrider Herald
+BG27_079_G	Hawkstrider Herald
+BG27_080	Motley Phalanx
+BG27_080_G	Motley Phalanx
+BG27_080e	Phalanx Formation
+BG27_081	Cultist S'Thara
+BG27_081_G	Cultist S'Thara
+BG27_081e	Cultish
+BG27_083	Slitherspear, Lord of Gains
+BG27_083_G	Slitherspear, Lord of Gains
+BG27_083e	Big Gains
+BG27_084	Sprightly Scarab
+BG27_084_G	Sprightly Scarab
+BG27_084_Gt	Sprightly Sprucing
+BG27_084_Gt2	Sprightly Support
+BG27_084e	Spruced Up
+BG27_084t	Sprightly Sprucing
+BG27_084t2	Sprightly Support
+BG27_084t2e	Supported
+BG27_503	Carbonic Copy
+BG27_503_G	Carbonic Copy
+BG27_507	Mannoroth
+BG27_507_G	Mannoroth
+BG27_507e	Victim Consumed
+BG27_508	King Varian
+BG27_508_G	King Varian
+BG27_513	Tide Oracle Morgl
+BG27_513_G	Tide Oracle Morgl
+BG27_513e	The Tides Have Turned
+BG27_514	Sea Witch Zar'jira
+BG27_514_G	Sea Witch Zar'jira
+BG27_514t	Siren's Song
+BG27_514t_G	Siren's Song
+BG27_518	Moira Bronzebeard
+BG27_518_G	Moira Bronzebeard
+BG27_555	Admiral Eliza Goreblade
+BG27_555_G	Admiral Eliza Goreblade
+BG27_555e	Yaharr!!
+BG27_556	Diremuck Forager
+BG27_556_G	Diremuck Forager
+BG27_556e	Foraged
+BG27_822	Niuzao
+BG27_822_G	Niuzao
+BG27_Anomaly_000	Money Match
+BG27_Anomaly_001	Finicky Hourglass
+BG27_Anomaly_002	Prudence of Amitus
+BG27_Anomaly_004_e	Valuation Inflation Enchant [DNT]
+BG27_Anomaly_005	Mimiron's Clockwork Stadium
+BG27_Anomaly_006	Curse of Aggramar
+BG27_Anomaly_100	Big League
+BG27_Anomaly_101	What Are the Odds?
+BG27_Anomaly_101t	Triple Reward
+BG27_Anomaly_102	How to Even??
+BG27_Anomaly_103	Tavern Special
+BG27_Anomaly_104t	Oops, All Beasts!
+BG27_Anomaly_104t10	Oops, All Pirates!
+BG27_Anomaly_104t2	Oops, All Demons!
+BG27_Anomaly_104t3	Oops, All Dragons!
+BG27_Anomaly_104t4	Oops, All Elementals!
+BG27_Anomaly_104t5	Oops, All Mechs!
+BG27_Anomaly_104t6	Oops, All Murlocs!
+BG27_Anomaly_104t7	Oops, All Naga!
+BG27_Anomaly_104t8	Oops, All Quilboar!
+BG27_Anomaly_104t9	Oops, All Undead!
+BG27_Anomaly_301	False Idols
+BG27_Anomaly_302	Bring Home the Bacon
+BG27_Anomaly_302t	Piggy Bank
+BG27_Anomaly_303	Grapnel of the Titans
+BG27_Anomaly_307	Oops, All EVIL!
+BG27_Anomaly_501	Temperance of Aman'Thul
+BG27_Anomaly_502	Blood of Sargeras
+BG27_Anomaly_503	The Yogg-iseum
+BG27_Anomaly_504	Secrets of Norgannon
+BG27_Anomaly_505	Reckless Enhancement
+BG27_Anomaly_505e_divineshield	Recklessly Enhanced
+BG27_Anomaly_505e_reborn	Recklessly Enhanced
+BG27_Anomaly_505e_taunt	Recklessly Enhanced
+BG27_Anomaly_505e_windfury	Recklessly Enhanced
+BG27_Anomaly_555	No Place Like Holmes
+BG27_Anomaly_555t	No Place Like Holmes
+BG27_Anomaly_556	Valuation Inflation
+BG27_Anomaly_558	Feline Fortune
+BG27_Anomaly_559	Treasure Hoard
+BG27_Anomaly_560	Anomalous Twin
+BG27_Anomaly_561	Anomalous Bribe
+BG27_Anomaly_562	Anomalous Wisdomball
+BG27_Anomaly_570	Treasure Hoard
+BG27_Anomaly_571	Treasure Hoard
+BG27_Anomaly_572	Treasure Hoard
+BG27_Anomaly_573	Treasure Hoard
+BG27_Anomaly_574t2	Consolation Coin Pouch
+BG27_Anomaly_575	Eleventh Hour
+BG27_Anomaly_575t	Eleventh Hour
+BG27_Anomaly_577	No Face, No Case
+BG27_Anomaly_580	Audience's Choice
+BG27_Anomaly_711	Double Header
+BG27_Anomaly_714	Everything's on Fire!
+BG27_Anomaly_715	Gladiator's Spoils
+BG27_Anomaly_716	Up-Prizing
+BG27_Anomaly_717e	Wisdom of Ulduar
+BG27_Anomaly_718	Overseer's Orb
+BG27_Anomaly_720	Nguyen's Shifting Disks
+BG27_Anomaly_721	Uncompensated Upset
+BG27_Anomaly_723	Summoning of Champions
+BG27_Anomaly_726	Blessed or Blighted
+BG27_Anomaly_726e1	Left and Blessed
+BG27_Anomaly_726e2	Right and Blighted
+BG27_Anomaly_750	Packed Stands
+BG27_Anomaly_751	Perfected Alchemy
+BG27_Anomaly_754	Path of the Treasure-Seeker
+BG27_Anomaly_755	A Faire Reward
+BG27_Anomaly_755t	Triple Reward
+BG27_Anomaly_800	Little League
+BG27_Anomaly_801	The Golden Arena
+BG27_Anomaly_802	Echoes of Argus
+BG27_Anomaly_803	Anomalous Evidence
+BG27_Anomaly_803e	Anomalous Evidence Player Ench
+BG27_Anomaly_803t	Anomalous Evidence Activation [DNT]
+BG27_Anomaly_805	Match Fixing
+BG27_Anomaly_805e	Remember Prize
+BG27_Anomaly_805t	Match Fixing
+BG27_Anomaly_810	Bring in the Buddies
+BG27_Anomaly_820	Deep Blue Sooner
+BG27_Anomaly_822	Denathrius' Anima Reserves
+BG27_Anomaly_900	Golganneth's Tempest
+BG27_Anomaly_Buddies	Buddies
+BG27_Anomaly_Prizes2	Darkmoon Faire Prizes
+BG27_Anomaly_Quests	Quests
+BG27_HERO_801	Thorim, Stormlord
+BG27_HERO_801_Buddy	Veranus, Stormlord's Mount
+BG27_HERO_801_Buddy_G	Veranus, Stormlord's Mount
+BG27_HERO_801_SKIN_A	Emperor Thorim
+BG27_HERO_801_SKIN_C	Axeman Thorim
+BG27_HERO_801_SKIN_D	Greatfather Thorim
+BG27_HERO_801_SKIN_E	Drakerider Thorim
+BG27_HERO_801p2	Choose Your Champion
+BG27_HERO_801p2e	Unplayable
+BG27_Quest_800	Burn the Evidence
+BG27_Quest_801	Pressure the Authorities
+BG27_Quest_802	Round Up the Suspects
+BG27_Reward_502	Boom Squad
+BG27_Reward_503	Invigorating Conch
+BG27_Reward_503e	Invigorated
+BG27_Reward_504	Timeline Acceleration
+BG27_Reward_504t	Accelerator
+BG27_Reward_802	Gilnean War Horn
+BG27_Reward_803	Turbulent Tombs
+BG27_Reward_804	Sturdy Shard
+BG27_Reward_804e	Sturdy
+BG27_Reward_806	Doppelganger's Locket
+BG27_Reward_810	Map of the Unknown
+BG27_Reward_810e	Uncharted Wisdom
+BG27_Reward_811	Bloodsoaked Tome
+BG27_Reward_812	Scepter of Guidance
+BG27_Reward_815	Endless Blood Moon
+BG28_168	Shiny Ring
+BG28_168e	Ooh, Shiny!
+BG28_168pe	Jewelry Box Player Enchant (DNT)
+BG28_169	Azerite Empowerment
+BG28_169e	Azerite Power
+BG28_300	Harmless Bonehead
+BG28_300_G	Harmless Bonehead
+BG28_303	Disguised Graverobber
+BG28_303_G	Disguised Graverobber
+BG28_304	Moroes, Steward of Death
+BG28_304_G	Moroes, Steward of Death
+BG28_304e	Steward's Duty
+BG28_306	Steadfast Spirit
+BG28_306_G	Steadfast Spirit
+BG28_306e	Steadfast
+BG28_308	Archlich Kel'Thuzad
+BG28_308_G	Archlich Kel'Thuzad
+BG28_309	Mummifier
+BG28_309_G	Mummifier
+BG28_309e	Mummified
+BG28_403	Phaerix, Wrath of the Sun
+BG28_403_G	Phaerix, Wrath of the Sun
+BG28_403e	Sunny Wrath
+BG28_404	Mad Matador
+BG28_404_G	Mad Matador
+BG28_405	Silivaz the Vindictive
+BG28_405_G	Silivaz the Vindictive
+BG28_405_Gt	Sunken Spells
+BG28_405t	Sunken Spells
+BG28_406	Wayward Grimscale
+BG28_406_G	Wayward Grimscale
+BG28_500	Armor Stash
+BG28_503	Fortify
+BG28_503e	Fortification
+BG28_504	Recruit a Trainee
+BG28_507	Sacred Gift
+BG28_507e	Sacred Gift
+BG28_509	Brann's Blessing
+BG28_512	Enchanted Lasso
+BG28_513	Reckless Investment
+BG28_513e	Lose Gold Next Turn [DNT]
+BG28_518	Chef's Choice
+BG28_519	Fleeting Vigor
+BG28_519e	Strong But Fleeting
+BG28_520	Tricky Trousers
+BG28_520e	Tricky
+BG28_520e2	Trousers On
+BG28_520e3	Trousers Off
+BG28_521	Planar Telescope
+BG28_521t	Consolation Coin
+BG28_550	Rodeo Performer
+BG28_550_G	Rodeo Performer
+BG28_551	Nalaa the Redeemer
+BG28_551_G	Nalaa the Redeemer
+BG28_551e	Redeemed
+BG28_555	Ensorcelled Fungus
+BG28_555_G	Ensorcelled Fungus
+BG28_555e	Ensorcelled
+BG28_555pe	Ensorcelled Fungus Player Enchant [DNT]
+BG28_556	Land Lubber
+BG28_556_G	Land Lubber
+BG28_571	Hasty Excavation
+BG28_573	Upper Hand
+BG28_573e	Caught Off Guard
+BG28_582	Mangled Bandit
+BG28_582_G	Mangled Bandit
+BG28_583	Geomagus Roogug
+BG28_583_G	Geomagus Roogug
+BG28_584	Paint Smudger
+BG28_584_G	Paint Smudger
+BG28_585	Snarling Conductor
+BG28_585_G	Snarling Conductor
+BG28_592	Outback Smolderer
+BG28_592_G	Outback Smolderer
+BG28_595	Ignition Specialist
+BG28_595_G	Ignition Specialist
+BG28_597	Sandstone Drake
+BG28_597_G	Sandstone Drake
+BG28_597e	Stone Scales
+BG28_600	Scavenge for Parts
+BG28_601	Cloning Conch
+BG28_602	Guzzle the Goop
+BG28_602e	Goop Guzzled
+BG28_603	Boon of Beetles
+BG28_603e	Beetle Swarm
+BG28_603t	Beetle
+BG28_603t_G	Beetle
+BG28_604	Butchering
+BG28_606	Spitescale Special
+BG28_607	Corrupted Cupcakes
+BG28_609	Plunder Seeker
+BG28_612	Fluidity
+BG28_630	Eagill
+BG28_630_G	Eagill
+BG28_630e	Eager
+BG28_633	Felboar
+BG28_633_G	Felboar
+BG28_634	Deadstomper
+BG28_634_G	Deadstomper
+BG28_634e	Stomp 'Em Dead
+BG28_635	Whirling Lass-o-Matic
+BG28_635_G	Whirling Lass-o-Matic
+BG28_641	Toxic Tumbleweed
+BG28_641t	Tumbling Assassin
+BG28_641t_G	Tumbling Assassin
+BG28_667	Saloon Dancer
+BG28_667_G	Saloon Dancer
+BG28_667e	Rowdy Dancing
+BG28_698	Gem Confiscation
+BG28_707	Living Azerite
+BG28_707_G	Living Azerite
+BG28_707e	Living Azerite Player Enchant (DNT)
+BG28_707e2	Azerite Glow
+BG28_740	Augmented Laborer
+BG28_740_G	Augmented Laborer
+BG28_741	Charging Czarina
+BG28_741_G	Charging Czarina
+BG28_741e	Charged
+BG28_800	Careful Investment
+BG28_805	Strike Oil
+BG28_810	Tavern Coin
+BG28_812	Ritual of Growth
+BG28_814	Echoing Roar
+BG28_814e	Echoing Roar
+BG28_814e2	Echoed Roar
+BG28_821	Top of the Beanstalk
+BG28_825	Defender's Rites
+BG28_825e	Stop Rite There!
+BG28_825e2	Stop Rite There Taunt!
+BG28_827	Leaf Through the Pages
+BG28_830	Golden Touch
+BG28_838	Perfect Vision
+BG28_838e	Hindsight
+BG28_843	Titus' Tribute
+BG28_843e	Titus' Tribute Player Enchant (DNT)
+BG28_845	Natural Blessing
+BG28_845e	It's Minion Nature
+BG28_849	Saloon's Finest
+BG28_870	Jaws of Fate
+BG28_871	Buddy Up
+BG28_882	Contracted Corpse
+BG28_883	Dreamer's Embrace
+BG28_884	Overconfidence
+BG28_884e	Overconfident [DNT]
+BG28_885	Lantern Light
+BG28_885e	Lit Up
+BG28_886	Staff of Enrichment
+BG28_886e2	Staff of Enrichment Player Enchant (DNT)
+BG28_886e3	Enriched
+BG28_888	Misplaced Tea Set
+BG28_888e	Spot of Tea
+BG28_897	Tavern Dish Banana
+BG28_897e	Dished Out
+BG28_900	Mystic Sporebat
+BG28_900_G	Mystic Sporebat
+BG28_903	Spellbound Seafarer
+BG28_903_G	Spellbound Seafarer
+BG28_904	Audacious Anchor
+BG28_904_G	Audacious Anchor
+BG28_905	Bazaar Dealer
+BG28_905_G	Bazaar Dealer
+BG28_955	Primal Staff
+BG28_955e	Primal Staff Player Enchant (DNT)
+BG28_966	Them Apples
+BG28_966e	How Do You Like 'Em?
+BG28_967	Trembling Trolley
+BG28_967_G	Trembling Trolley
+BG28_968	Lighter Fighter
+BG28_968_G	Lighter Fighter
+BG28_GIL_836	Hired Headhunter
+BG28_HERO_400	Snake Eyes
+BG28_HERO_400_Buddy	Box Cars
+BG28_HERO_400_Buddy_G	Box Cars
+BG28_HERO_400_SKIN_A	Snake Eyes Snake
+BG28_HERO_400_SKIN_B	Spriggan Snake Eyes
+BG28_HERO_400_SKIN_C	Game Master Snake Eyes
+BG28_HERO_400p	Lucky Roll
+BG28_HERO_400p2	Lucky Roll
+BG28_HERO_800	Tae'thelan Bloodwatcher
+BG28_HERO_800_Buddy	Reliquary Attendant
+BG28_HERO_800_Buddy_G	Reliquary Attendant
+BG28_HERO_800_SKIN_A	Archaeologist Tae'thelan
+BG28_HERO_800p	Reliquary Research
+BG28_HERO_801	Doctor Holli'dae
+BG28_HERO_801_Buddy	The Nine Frogs
+BG28_HERO_801_Buddy_G	The Nine Frogs
+BG28_HERO_801_SKIN_A	Dragon Doctor Holli'dae
+BG28_HERO_801p	Blessing of the Nine Frogs
+BG28_Quest_500	Fill the Cauldron
+BG28_Reward_500	Beyond the Mirage
+BG28_Reward_501	Temporal Tampering
+BG28_Reward_502	Splitting Scroll
+BG28_Reward_504	Cycle of Energy
+BG28_Reward_505	Tumbling Disaster
+BG28_Reward_505e	Tumbling Up
+BG28_Reward_506	Double-Headed Reward
+BG28_Reward_508	Gift of the Golden Kobold
+BG28_Reward_509	Smelting Chamber
+BG28_Reward_510	Secret Culprit
+BG28_Reward_513	Open Auditions
+BG28_Reward_514	Untamed Sorcery
+BG28_Reward_515	Stash of the Scribe
+BG28_Reward_518	Stable Amalgamation
+BG28_Reward_518t	Totally Normal Horse
+BG28_Reward_518t_G	Totally Normal Horse
+BG29_029	Fairy Gillmother
+BG29_029_G	Fairy Gillmother
+BG29_100_G	Zilliax: Assembled
+BG29_100_Ge	Zilliax: Assembled
+BG29_120	Hateful Hag
+BG29_120_G	Hateful Hag
+BG29_120e	Hags Gon' Hate
+BG29_140	False Implicator
+BG29_140_G	False Implicator
+BG29_140e	Eat Your Words
+BG29_502	Crow's Nest Sentry
+BG29_502_G	Crow's Nest Sentry
+BG29_502e	Sentry's Vigilance
+BG29_503	Clunker Junker
+BG29_503_G	Clunker Junker
+BG29_503e	Clunky
+BG29_611	Cord Puller
+BG29_611_G	Cord Puller
+BG29_708	Pokey Thornmantle
+BG29_708_G	Pokey Thornmantle
+BG29_800	Trusty Pup
+BG29_800_G	Trusty Pup
+BG29_800e	Best Boi
+BG29_801	Silver Goose
+BG29_801_G	Silver Goose
+BG29_801_Gt	Silver Fledgling
+BG29_801t	Silver Fledgling
+BG29_806	Iridescent Skyblazer
+BG29_806_G	Iridescent Skyblazer
+BG29_806e	Skies A-Blazing
+BG29_807	Trigore the Lasher
+BG29_807_G	Trigore the Lasher
+BG29_807e	Lashing Out
+BG29_808	Spiked Savior
+BG29_808_G	Spiked Savior
+BG29_808e	Spiked and Saved
+BG29_809	Rampager
+BG29_809_G	Rampager
+BG29_810	Thousandth Paper Drake
+BG29_810_G	Thousandth Paper Drake
+BG29_810e	Make 'Em Fold
+BG29_811	Yu'lon, Fortune Granter
+BG29_811_G	Yu'lon, Fortune Granter
+BG29_813	Persistent Poet
+BG29_813_G	Persistent Poet
+BG29_813e	Persistent Poet Player Enchant [DNT]
+BG29_814	Misfit Dragonling
+BG29_814_G	Misfit Dragonling
+BG29_814e	Misfit
+BG29_815	Nightbane, Ignited
+BG29_815_G	Nightbane, Ignited
+BG29_815e	Ignited
+BG29_816	Roaring Recruiter
+BG29_816_G	Roaring Recruiter
+BG29_816e	Recruited
+BG29_840	Mooneater's Champion
+BG29_840_G	Mooneater's Champion
+BG29_840e	Eclipsed
+BG29_841	Greymane's Champion
+BG29_841_G	Greymane's Champion
+BG29_841e	Gilnean Pride
+BG29_844	Winged Chimera
+BG29_844_G	Winged Chimera
+BG29_844e	Chimera Rage
+BG29_845	Assistant Guard
+BG29_845_G	Assistant Guard
+BG29_845e	As Is
+BG29_845e2	As Is, Taunt
+BG29_846	Unforgiving Treant
+BG29_846_G	Unforgiving Treant
+BG29_846e	Unforgiven
+BG29_861	Barrens Brawler
+BG29_861_G	Barrens Brawler
+BG29_862	Barrens Conjurer
+BG29_862_G	Barrens Conjurer
+BG29_863	Ghoul-acabra
+BG29_863_G	Ghoul-acabra
+BG29_863e	Macabre
+BG29_864	Arid Atrocity
+BG29_864_G	Arid Atrocity
+BG29_864_Gt	Deserted Golem
+BG29_864e2	Atrocious
+BG29_864t	Deserted Golem
+BG29_865	Prime Mate
+BG29_865_G	Prime Mate
+BG29_866	Stellar Freebooter
+BG29_866_G	Stellar Freebooter
+BG29_866e	Stellar
+BG29_870	Draconic Deathscale
+BG29_870_G	Draconic Deathscale
+BG29_870_Gt	Surging Scales
+BG29_870t	Surging Scales
+BG29_871	Silithid Burrower
+BG29_871_G	Silithid Burrower
+BG29_871e	Burrowed
+BG29_873	Slimy Felblood
+BG29_873_G	Slimy Felblood
+BG29_873e	Slimy Felblood Player Enchant [DNT]
+BG29_873e2	Slimy
+BG29_875	The Uninvited Guest
+BG29_875_G	The Uninvited Guest
+BG29_875_Ge	Uninvited
+BG29_875_Gt	Shadow
+BG29_875e	Uninvited
+BG29_875t	Shadow
+BG29_877	Fiery Felblood
+BG29_877_G	Fiery Felblood
+BG29_877e	Fiery Felblood Player Enchant [DNT]
+BG29_877e2	Fiery
+BG29_878	Untameabull
+BG29_878_G	Untameabull
+BG29_878e	Can't be Tamed
+BG29_879	Shellemental
+BG29_879_G	Shellemental
+BG29_879e	Shelled Out
+BG29_879t	Shell Out
+BG29_879t_G	Shell Out
+BG29_888	Glim Guardian
+BG29_888_G	Glim Guardian
+BG29_888e	Hot Breath
+BG29_889	'Loc Prince
+BG29_889_G	'Loc Prince
+BG29_889e	Smooched
+BG29_990	Irate Rooster
+BG29_990_G	Irate Rooster
+BG29_990e	Irate
+BG29_991	Murgl Mk II
+BG29_991_G	Murgl Mk II
+BG29_991e	I, Murloc
+BG30_008	Greenskeeper
+BG30_008_G	Greenskeeper
+BG30_009	Smoldering Gardener
+BG30_009_G	Smoldering Gardener
+BG30_101	Sun Screener
+BG30_101_G	Sun Screener
+BG30_101e	High SPF
+BG30_102	One-Amalgam Tour Group
+BG30_102_G	One-Amalgam Tour Group
+BG30_102e	Sightseeing
+BG30_103	Free Travel Winner
+BG30_103_G	Free Travel Winner
+BG30_104	Lucky Egg
+BG30_104_G	Lucky Egg
+BG30_105	Indomitable Mount
+BG30_105_G	Indomitable Mount
+BG30_106	Pilgrimp
+BG30_106_G	Pilgrimp
+BG30_109	Wannabe Gargoyle
+BG30_109_G	Wannabe Gargoyle
+BG30_110	Mirage Conjurer
+BG30_110_G	Mirage Conjurer
+BG30_110_Gt	Malevolent Mirage
+BG30_110_Gt2	Mellow Mirage
+BG30_110e	Malevolent
+BG30_110e2	Mellow
+BG30_110t	Malevolent Mirage
+BG30_110t2	Mellow Mirage
+BG30_111	Moss of the Schloss
+BG30_111_G	Moss of the Schloss
+BG30_111e	Bossy Moss
+BG30_115	Depraved Felfin
+BG30_115_G	Depraved Felfin
+BG30_115e	Second Dinner
+BG30_117	Volcanic Visitor
+BG30_117_G	Volcanic Visitor
+BG30_117_Gt	Escape Eruption
+BG30_117_Gt2	Trudge through Lava
+BG30_117_Gt3	Use Supplies
+BG30_117e	Volcanic
+BG30_117t	Escape Eruption
+BG30_117t2	Trudge through Lava
+BG30_117t3	Use Supplies
+BG30_118	Gift Pilferer
+BG30_118_G	Gift Pilferer
+BG30_119	Sky Pirate Flagbearer
+BG30_119_G	Sky Pirate Flagbearer
+BG30_119_Ge	Flagbearing
+BG30_119e	Flagbearing
+BG30_120	Ice Fisher
+BG30_120_G	Ice Fisher
+BG30_120e	Cool Catch
+BG30_121	Hot-Air Surveyor
+BG30_121_G	Hot-Air Surveyor
+BG30_122	Mrglin' Burglar
+BG30_122_G	Mrglin' Burglar
+BG30_122e	Burglin'
+BG30_123	Fearless Foodie
+BG30_123_G	Fearless Foodie
+BG30_123_Gt	Dig In
+BG30_123_Gt2	Fill Your Plate
+BG30_123t	Dig In
+BG30_123t2	Fill Your Plate
+BG30_124	Thundering Abomination
+BG30_124_G	Thundering Abomination
+BG30_124e	Thunderous
+BG30_125	Cadaver Caretaker
+BG30_125_G	Cadaver Caretaker
+BG30_127	Inspiring Underdog
+BG30_127_G	Inspiring Underdog
+BG30_127e	Inspired
+BG30_128	Sleeping Sea Glass
+BG30_128_G	Sleeping Sea Glass
+BG30_128_Gt	Sharpen Glass
+BG30_128_Gt2	Polish Glass
+BG30_128e	Sharpened
+BG30_128e2	Polished
+BG30_128t	Sharpen Glass
+BG30_128t2	Polish Glass
+BG30_129	Catacomb Crasher
+BG30_129_G	Catacomb Crasher
+BG30_129e	Down in the Catacombs
+BG30_160	Bountiful Bedrock
+BG30_160_G	Bountiful Bedrock
+BG30_754	Putrid Pupil
+BG30_754_G	Putrid Pupil
+BG30_756	Parched Wanderer
+BG30_756_G	Parched Wanderer
+BG30_756e	Quenched
+BG30_800	Cry Foul
+BG30_802	Knockoff Wisdomball
+BG30_804	Robust Evolution
+BG30_804e	Robust
+BG30_850	Museum Mummy
+BG30_850_G	Museum Mummy
+BG30_929	Slippery Slider
+BG30_929_G	Slippery Slider
+BG30_929_Gt	Slip and Slide
+BG30_929e	Slipped and Slid
+BG30_929t	Slip and Slide
+BG30_HERO_304	Marin the Manager
+BG30_HERO_304_Buddy	Fantastic Bellhop
+BG30_HERO_304_Buddy_G	Fantastic Bellhop
+BG30_HERO_304_SKIN_A	Aviator Marin
+BG30_HERO_304p	Fantastic Treasure
+BG30_MagicItem_301	Eternal Portrait
+BG30_MagicItem_301e	Perennial Portrait
+BG30_MagicItem_303	Automaton Portrait
+BG30_MagicItem_310	Rivendare Portrait
+BG30_MagicItem_310e	Tougher Titus
+BG30_MagicItem_402	Conductor Portrait
+BG30_MagicItem_403	Ironforge Anvil
+BG30_MagicItem_403e	Forged on the Anvil
+BG30_MagicItem_406	Butcher's Sickle
+BG30_MagicItem_407	Ship in a Bottle
+BG30_MagicItem_410	Quilligraphy Set
+BG30_MagicItem_410t2	Quilligraphy Set
+BG30_MagicItem_411	Hoggy Bank
+BG30_MagicItem_411e	Gem in the Bank
+BG30_MagicItem_414	Kodo Leather Pouch
+BG30_MagicItem_414e	Stuffed in the Pouch
+BG30_MagicItem_414t	Kodo Leather Pouch
+BG30_MagicItem_416	Token of the Old Gods
+BG30_MagicItem_416t	Token of the Old Gods
+BG30_MagicItem_418	Bronzebeard Portrait
+BG30_MagicItem_419	Exquisite Dishware
+BG30_MagicItem_420	Book of Medivh
+BG30_MagicItem_420t	Book of Medivh
+BG30_MagicItem_422	Lorewalker Scroll
+BG30_MagicItem_422e	Wisdom of the Scrolls
+BG30_MagicItem_422t	Lorewalker Scroll
+BG30_MagicItem_423	Innkeeper's Stein
+BG30_MagicItem_425	Azeroth Model Globe
+BG30_MagicItem_426	Colorful Compass
+BG30_MagicItem_426t	Colorful Compass
+BG30_MagicItem_427	Tiger Carving
+BG30_MagicItem_427e	Dye of the Tiger
+BG30_MagicItem_427t	Tiger Carving
+BG30_MagicItem_429	Demonblood Gourd
+BG30_MagicItem_429e	Drank from the Gourd
+BG30_MagicItem_429t	Demonblood Gourd
+BG30_MagicItem_430	Rockin' Music Box
+BG30_MagicItem_431	Azerite Portrait
+BG30_MagicItem_432	Belcher Portrait
+BG30_MagicItem_432e	Big Belching
+BG30_MagicItem_432t	Belcher Portrait
+BG30_MagicItem_433	Alliance Keychain
+BG30_MagicItem_433e	Alliance Fan
+BG30_MagicItem_433t	Alliance Keychain
+BG30_MagicItem_434	Replica Cathedral
+BG30_MagicItem_435	Goldenizer Supply
+BG30_MagicItem_437	Staff of the Scourge
+BG30_MagicItem_437e	Scourged
+BG30_MagicItem_438e	Overflowing
+BG30_MagicItem_438t	Mug of the Sire
+BG30_MagicItem_439	Designer Eyepatch
+BG30_MagicItem_440	Boom Controller
+BG30_MagicItem_441	Tinyfin Onesie
+BG30_MagicItem_441e	Comfy Onesie
+BG30_MagicItem_442	Blood Golem Sticker
+BG30_MagicItem_442t	Blood Golem
+BG30_MagicItem_442t_G	Blood Golem
+BG30_MagicItem_540	Slamma Sticker
+BG30_MagicItem_541	Nether Pendant
+BG30_MagicItem_541e	Power of the Nether
+BG30_MagicItem_542	Emerald Dreamcatcher
+BG30_MagicItem_542e	Dreamcaught
+BG30_MagicItem_543	Devourer Sticker
+BG30_MagicItem_544	Nomi Sticker
+BG30_MagicItem_544e	Souvenir Feast
+BG30_MagicItem_544pe	Nomi Sticker Player Enchant (DNT)
+BG30_MagicItem_544t	Nomi Sticker
+BG30_MagicItem_545	Fridge Magnet
+BG30_MagicItem_546	Jar o' Gems
+BG30_MagicItem_547	Comfy Coffin
+BG30_MagicItem_547t	Comfy Coffin
+BG30_MagicItem_548	Glowscale Portrait
+BG30_MagicItem_555	Surprise Portrait
+BG30_MagicItem_700	Deathly Phylactery
+BG30_MagicItem_701	The Eye of Sargeras
+BG30_MagicItem_702	Primalfin Portrait
+BG30_MagicItem_703	Mystery Cube
+BG30_MagicItem_703e	Mystery Cube Player Ench [DNT]
+BG30_MagicItem_703t	Mystery Cube Activation [DNT]
+BG30_MagicItem_705	Bartend-o-Tron's Oilcan
+BG30_MagicItem_706	Reflective Pendant
+BG30_MagicItem_707	Tickatus Sticker
+BG30_MagicItem_709	Electromagnetic Device
+BG30_MagicItem_709e	Electromagnetic
+BG30_MagicItem_709t	Electromagnetic Device
+BG30_MagicItem_710	Fungalmancer Sticker
+BG30_MagicItem_711	Marine Signet
+BG30_MagicItem_713	Bleeding Heart
+BG30_MagicItem_714	Precious Pearl
+BG30_MagicItem_714t	Harvested Pearl
+BG30_MagicItem_714te	Precious
+BG30_MagicItem_777	Goose Portrait
+BG30_MagicItem_803	Kaboom Bot Portrait
+BG30_MagicItem_821	Fish Portrait
+BG30_MagicItem_821t2	Fishy Sticker
+BG30_MagicItem_822	Twin Sky Lanterns
+BG30_MagicItem_822t2	Twin Sky Lanterns
+BG30_MagicItem_825	Smuggler Portrait
+BG30_MagicItem_825e	Dragonized
+BG30_MagicItem_828	Shaker Portrait
+BG30_MagicItem_841	Glowing Gauntlet
+BG30_MagicItem_841e	Running the Gauntlet
+BG30_MagicItem_841e2	Running the Gauntlet
+BG30_MagicItem_841t	Glowing Gauntlet
+BG30_MagicItem_843e2	Horde Fan
+BG30_MagicItem_843t	Horde Keychain
+BG30_MagicItem_847	Goblin Wallet
+BG30_MagicItem_864	Gilnean Thorned Rose
+BG30_MagicItem_864e	Rosy
+BG30_MagicItem_868	Rewinder Portrait
+BG30_MagicItem_869	Felblood Portrait
+BG30_MagicItem_876	Manipulator Portrait
+BG30_MagicItem_879	Dalaran Cheese Wheel
+BG30_MagicItem_879_Ge	Cheesing
+BG30_MagicItem_879e	Cheesing
+BG30_MagicItem_879t	Dalaran Cheese Wheel
+BG30_MagicItem_880	Feral Talisman
+BG30_MagicItem_880e	Feral
+BG30_MagicItem_880t	Feral Talisman
+BG30_MagicItem_886	Reinforced Shield
+BG30_MagicItem_886e	Wholly Reinforced
+BG30_MagicItem_888	Souvenir Stand
+BG30_MagicItem_891	Trip Vouchers
+BG30_MagicItem_900	Dragonwing Glider
+BG30_MagicItem_900e	Wingin' It
+BG30_MagicItem_900t	Dragonwing Glider
+BG30_MagicItem_902	Holy Mallet
+BG30_MagicItem_902e	Holy Whack-amole
+BG30_MagicItem_910	Mechagon Adapter
+BG30_MagicItem_910e	Universal Charging
+BG30_MagicItem_914	Nerglish Phrasebook
+BG30_MagicItem_914e	Speaking Nerglish
+BG30_MagicItem_914t	Nerglish Phrasebook
+BG30_MagicItem_916	Essence of Dreams
+BG30_MagicItem_917	Rusty Trident
+BG30_MagicItem_917e	Trident's Treasure
+BG30_MagicItem_918	Promo Portrait
+BG30_MagicItem_919	Nazjatar Postcard
+BG30_MagicItem_920	Spitescale Sushi Roll
+BG30_MagicItem_921	Flagbearer Portrait
+BG30_MagicItem_921e	Flagged Down
+BG30_MagicItem_923	Elementium Chest
+BG30_MagicItem_924	Booty Bay Brew
+BG30_MagicItem_924e	Booty Bay Buff
+BG30_MagicItem_924t	Booty Bay Brew
+BG30_MagicItem_925	Ceremonial Sword
+BG30_MagicItem_925e	Ceremonial
+BG30_MagicItem_930	Burgling Claw
+BG30_MagicItem_931	Lucky Tabby
+BG30_MagicItem_942	Mecha-Jaraxxus Sticker
+BG30_MagicItem_943	Surveyor Portrait
+BG30_MagicItem_944	Redeemer Portrait
+BG30_MagicItem_951	Lava Lamp
+BG30_MagicItem_952	Jarred Frostling
+BG30_MagicItem_952e	Frosty Globe
+BG30_MagicItem_962	Training Certificate
+BG30_MagicItem_962e	Graduated
+BG30_MagicItem_970	Valorous Medallion
+BG30_MagicItem_970e	Valorous
+BG30_MagicItem_970t	Valorous Medallion
+BG30_MagicItem_971	Enforcer Portrait
+BG30_MagicItem_972	Karazhan Chess Set
+BG30_MagicItem_978	Blingtron's Sunglasses
+BG30_MagicItem_978e	Bling Bling
+BG30_MagicItem_979	Primordial Terrarium
+BG30_MagicItem_979e	Terrarium
+BG30_MagicItem_981	The Eye of Dalaran
+BG30_MagicItem_982	Shaman Prayer Beads
+BG30_MagicItem_984	Charging Staff
+BG30_MagicItem_984e	Charging
+BG30_MagicItem_984t	Charging Staff
+BG30_MagicItem_986	Peacebloom Candle
+BG30_MagicItem_987	Balladist Portrait
+BG30_MagicItem_988	Great Boar Sticker
+BG30_MagicItem_988t	Great Boar Sticker
+BG30_MagicItem_989	Artisanal Urn
+BG30_MagicItem_989e	You've Urned It
+BG30_MagicItem_989t	Artisanal Urn
+BG30_MagicItem_991	Felbat Portrait
+BG30_MagicItem_992	Darnassus Pie
+BG30_MagicItem_992e	Pie Day
+BG30_MagicItem_992t	Darnassus Pie
+BG30_MagicItem_992te	Pie Day
+BG30_MagicItem_993	Pagle's Fishing Rod
+BG30_MagicItem_994	Yogg-Tastic Pastry
+BG30_MagicItem_995	Bronze Timepiece
+BG30_MagicItem_995e	Preserved in Bronze
+BG30_MagicItem_996	Bob's Tip Jar
+BG30_MagicItem_998	Bob-blehead
+BG30_MagicItem_999	Fancy Spellbook
+BG30_Trinket_1st	Lesser Trinket
+BG30_Trinket_2nd	Greater Trinket
+BG31_035	Groundbreaker
+BG31_035_G	Groundbreaker
+BG31_035e	Breaking Through
+BG31_126	Wandering Wight
+BG31_126_G	Wandering Wight
+BG31_126e	Wandering
+BG31_142	Reckless Cliffdiver
+BG31_142_G	Reckless Cliffdiver
+BG31_142e	Reckless
+BG31_144	Adaptive Ancestor
+BG31_144_G	Adaptive Ancestor
+BG31_144_Gt	Divine Adaptation
+BG31_144_Gt2	Deadly Adaptation
+BG31_144t	Divine Adaptation
+BG31_144t2	Deadly Adaptation
+BG31_144t2e	Deadly Adaptation
+BG31_144te	Divine Adaptation
+BG31_145	Fountain Chiller
+BG31_145_G	Fountain Chiller
+BG31_145e	Big Chilling
+BG31_146	Neon Agent
+BG31_146_G	Neon Agent
+BG31_147	Implant Subject
+BG31_147_G	Implant Subject
+BG31_147e	Implanted
+BG31_148	Hackerfin
+BG31_148_G	Hackerfin
+BG31_148e	System Hacked
+BG31_149	Bubble Gunner
+BG31_149_G	Bubble Gunner
+BG31_170	Frantic Alarm-o-Bot
+BG31_170_G	Frantic Alarm-o-Bot
+BG31_170_Ge	Frantic Alarm-o-Bot
+BG31_170e	Frantic Alarm-o-Bot
+BG31_171	Moonsteel Juggernaut
+BG31_171_G	Moonsteel Juggernaut
+BG31_171_Gt	Satellite
+BG31_171_Gte	Satellite
+BG31_171e	Juggernaut
+BG31_171t	Satellite
+BG31_171te	Satellite
+BG31_173	Arcanotron, Activated
+BG31_173_G	Arcanotron, Activated
+BG31_173e	Arcane Voltage
+BG31_175	Holo Rover
+BG31_175_G	Holo Rover
+BG31_176	Dr. Boom's Monster
+BG31_176_G	Dr. Boom's Monster
+BG31_176_Ge	Dr. Boom's Monster
+BG31_176e	Dr. Boom's Monster
+BG31_176e2	Booming
+BG31_177	Mechagnome Interpreter
+BG31_177_G	Mechagnome Interpreter
+BG31_177e	Interpreted
+BG31_178	Marquee Ticker
+BG31_178_G	Marquee Ticker
+BG31_242	Bargain Bundle
+BG31_243	Portal in a Fountain
+BG31_244	Portal in a Crystal
+BG31_300	Reverber Drake
+BG31_300_G	Reverber Drake
+BG31_301	Efficient Engineer
+BG31_301_G	Efficient Engineer
+BG31_320	Crater Miner
+BG31_320_G	Crater Miner
+BG31_320_Gt	Take the Gems
+BG31_320_Gt2	Mine Deeper
+BG31_320t	Take the Gems
+BG31_320t2	Mine Deeper
+BG31_323	Turbo Hogrider
+BG31_323_G	Turbo Hogrider
+BG31_325	Crystal Infuser
+BG31_325_G	Crystal Infuser
+BG31_325_Ge	Infused
+BG31_325_Gt	Instant Infusion
+BG31_325_Gt2	Deep Infusion
+BG31_325e	Infused
+BG31_325t	Instant Infusion
+BG31_325t2	Deep Infusion
+BG31_326	Gem Rat
+BG31_326_G	Gem Rat
+BG31_326t	Arm Day
+BG31_326t2	Leg Day
+BG31_327	Thorned Trailblazer
+BG31_327_G	Thorned Trailblazer
+BG31_329	Boar Gamer
+BG31_329_G	Boar Gamer
+BG31_330	Ominous Seer
+BG31_330_G	Ominous Seer
+BG31_330e	Foretold
+BG31_332	Salty Hog
+BG31_332_G	Salty Hog
+BG31_332e	Worth Its Salt
+BG31_357	Corpse Recycler
+BG31_357_G	Corpse Recycler
+BG31_360	Arcane Behemoth
+BG31_360_G	Arcane Behemoth
+BG31_360e	Absolute Behemoth
+BG31_361	Bellowing Tyrant
+BG31_361_G	Bellowing Tyrant
+BG31_361e	Tyrannical
+BG31_369	Gentle Stag
+BG31_369_G	Gentle Stag
+BG31_369e	Gentle But Firm
+BG31_801	Forest Rover
+BG31_801_G	Forest Rover
+BG31_802	Karmic Chameleon
+BG31_802_G	Karmic Chameleon
+BG31_803	Buzzing Vermin
+BG31_803_G	Buzzing Vermin
+BG31_807	Nest Swarmer
+BG31_807_G	Nest Swarmer
+BG31_808	Runed Progenitor
+BG31_808_G	Runed Progenitor
+BG31_808e	Beetle Army
+BG31_808pe	Beetle Army Player Enchant [DNT]
+BG31_809	Turquoise Skitterer
+BG31_809_G	Turquoise Skitterer
+BG31_810	Ultraviolet Ascendant
+BG31_810_G	Ultraviolet Ascendant
+BG31_810e	Ultraviolet
+BG31_812	Ichoron the Protector
+BG31_812_G	Ichoron the Protector
+BG31_812e	Protective Bubble
+BG31_812e2	Protective Bubble
+BG31_813	Twilight Primordium
+BG31_813_G	Twilight Primordium
+BG31_813e	Primal Twilight
+BG31_815	Dune Dweller
+BG31_815_G	Dune Dweller
+BG31_815e	Deep in the Dune
+BG31_815pe	Dune Dweller Player Enchant [DNT]
+BG31_816	Fire Baller
+BG31_816_G	Fire Baller
+BG31_816e	Fire Balling
+BG31_816pe	Baller Player Enchant [DNT]
+BG31_817	Windfall Tornado
+BG31_817_G	Windfall Tornado
+BG31_817e	Windfall
+BG31_818	Snow Baller
+BG31_818_G	Snow Baller
+BG31_818e	Snow Balling
+BG31_819	Temperature Shift
+BG31_820	Spacefarer
+BG31_820_G	Spacefarer
+BG31_820e	Spacing Out
+BG31_821	Cruise Controller
+BG31_821_G	Cruise Controller
+BG31_821e	Cruise Controller Player Enchant
+BG31_821e2	Cruising
+BG31_822	Gritty Headhunter
+BG31_822_G	Gritty Headhunter
+BG31_824	Dual-Wield Corsair
+BG31_824_G	Dual-Wield Corsair
+BG31_824e	Dual Wielding
+BG31_825	Grace Farsail
+BG31_825_G	Grace Farsail
+BG31_825_Gt	Nearby Treasure
+BG31_825_Gt2	Faraway Treasure
+BG31_825e2	Extra Gold In 2 Turns [DNT]
+BG31_825t	Nearby Treasure
+BG31_825t2	Faraway Treasure
+BG31_826	Doubloon Grifter
+BG31_826_G	Doubloon Grifter
+BG31_827	Coast Guard
+BG31_827_G	Coast Guard
+BG31_830	Weary Mage
+BG31_830_G	Weary Mage
+BG31_830_Gt	Reinvigoration
+BG31_830pe	Tavern Spell Player Enchant (DNT)
+BG31_830t	Reinvigoration
+BG31_830te	Reinvigorated
+BG31_830te2	Renewed
+BG31_835	Deathly Striker
+BG31_835_G	Deathly Striker
+BG31_835e	Deathly Striker Summon Ench [DNT]
+BG31_840	Captain Bonerender
+BG31_840_G	Captain Bonerender
+BG31_841	Wisp in the Shell
+BG31_841_G	Wisp in the Shell
+BG31_841e	Stand Alone
+BG31_842	Nether Construct
+BG31_842_G	Nether Construct
+BG31_842_Gt	Nether Energy
+BG31_842_Gt2	Nether Greed
+BG31_842e	Energized by the Nether
+BG31_842e2	Fed by the Nether
+BG31_842pe	Nether Construct Player Enchant (DNT)
+BG31_842t	Nether Energy
+BG31_842t2	Nether Greed
+BG31_843	Meteorite Crasher
+BG31_843_G	Meteorite Crasher
+BG31_843e	Crashing In
+BG31_850e	Decisive
+BG31_852	Mutated Lasher
+BG31_852_G	Mutated Lasher
+BG31_852e	Mutated Lasher Player Ench [DNT]
+BG31_852e2	Mutation
+BG31_853	Silver-Handed Recruit
+BG31_853_G	Silver-Handed Recruit
+BG31_853e	Hands of Silver
+BG31_859	Technical Element
+BG31_859_G	Technical Element
+BG31_859_Ge	Technical Element
+BG31_859e	Technical Element
+BG31_870	Big Brother
+BG31_870_G	Big Brother
+BG31_870e	Watching You
+BG31_870pe	Big Brother Player Ench [DNT]
+BG31_871	Batty Terrorguard
+BG31_871_G	Batty Terrorguard
+BG31_871e	Hungry Like the Bat
+BG31_873	Archimonde
+BG31_873_G	Archimonde
+BG31_873e3	Archimonde's Wrath
+BG31_873pe	Archimonde Player Enchant [DNT]
+BG31_873pe2	Ashen Corruptor Player Ench [DNT]
+BG31_874	Furious Driver
+BG31_874_G	Furious Driver
+BG31_874e	Dine and Dash
+BG31_875	Tardy Traveler
+BG31_875_G	Tardy Traveler
+BG31_881	Time Management
+BG31_881t	Hurry Up
+BG31_881t2	Do It Later
+BG31_881te	Hurrying
+BG31_881te2	Time Management Player Ench [DNT]
+BG31_881te3	Dilly-Dallying
+BG31_884	The Road Less Traveled
+BG31_884t	The High Road
+BG31_884t2	The Low Road
+BG31_886	Forest's Bounty
+BG31_886t	All For One
+BG31_886t2	One For All
+BG31_886t2e	One Forest All
+BG31_886te	All Forest One
+BG31_889	Sharing is Caring
+BG31_889e	Caring
+BG31_889e2	Sharing
+BG31_890	Boundless Potential
+BG31_890t	Way of the Mage
+BG31_890t2	Way of the Warrior
+BG31_891	Marauder's Contract
+BG31_892	Fandral's Fortune
+BG31_893	Gem Day
+BG31_895	Blade of Ambition
+BG31_895e	Ambitious
+BG31_896	Hallowed Ritual
+BG31_920	Darkcrest Strategist
+BG31_920_G	Darkcrest Strategist
+BG31_920_Gt	Evolving Strategy
+BG31_920t	Evolving Strategy
+BG31_924	Thaumaturgist
+BG31_924_G	Thaumaturgist
+BG31_924_Gt	Thaumaturgy
+BG31_924e	Thaumaturgy
+BG31_924t	Thaumaturgy
+BG31_925	Showy Cyclist
+BG31_925_G	Showy Cyclist
+BG31_925e	Showing Off
+BG31_928	Arcane Cannoneer
+BG31_928_G	Arcane Cannoneer
+BG31_999	Stitched Salvager
+BG31_999_G	Stitched Salvager
+BG31_Anomaly_101	Lay of the Land
+BG31_Anomaly_102	Continuing Education
+BG31_Anomaly_102t	Evolving Scroll
+BG31_Anomaly_102te	Evolving
+BG31_Anomaly_104	Rising Current
+BG31_Anomaly_105	Sin'dorei Mirror
+BG31_Anomaly_106	Marin's Treasure Box
+BG31_Anomaly_109	Mystical Blossom
+BG31_Anomaly_111	Elven Elite
+BG31_Anomaly_112	Incubation Mutation
+BG31_Anomaly_114	Factory Line
+BG31_Anomaly_115	Magic Shop
+BG31_Anomaly_115e	Arcane Ticket
+BG31_Anomaly_115t	Magic Prize
+BG31_Anomaly_116	Light the Way
+BG31_Anomaly_117	Emergency Landing
+BG31_Anomaly_117t	Eject!
+BG31_Anomaly_120	Scout's Honor
+BG31_Anomaly_123	Cosmic Duality
+BG31_Anomaly_124	Golden Arrow
+BG31_Anomaly_124t4	Golden Arrow
+BG31_Anomaly_126	Planar Alignment
+BG31_Anomaly_127	Instant Warband
+BG31_BOB	Bob the Bartender
+BG31_BOBt	Freeze the Shop
+BG31_BOBt2	Recruit a Minion
+BG31_BOBt3	Refresh the Tavern
+BG31_BOBt4	Find a Triple
+BG31_HERO_003	Farseer Nobundo
+BG31_HERO_003_Buddy	Outland Sunbeam
+BG31_HERO_003_Buddy_G	Outland Sunbeam
+BG31_HERO_003_SKIN_A	Lamplighter Nobundo
+BG31_HERO_003p	The Galaxy's Lens
+BG31_HERO_005	Zerek, Master Cloner
+BG31_HERO_005_Buddy	Mini-Zerek
+BG31_HERO_005_Buddy_G	Mini-Zerek
+BG31_HERO_005_SKIN_A	Dino Cloner Zerek
+BG31_HERO_005p	Cloning Gallery
+BG31_HERO_006	Exarch Othaar
+BG31_HERO_006_Buddy	The Celestial Archive
+BG31_HERO_006_Buddy_G	The Celestial Archive
+BG31_HERO_006_SKIN_A	Arathi Othaar
+BG31_HERO_006p	Arcane Knowledge
+BG31_HERO_006pe	Arcane Knowledge Player Ench [DNT]
+BG31_HERO_801	Jim Raynor
+BG31_HERO_801_Buddy	Tychus Findlay
+BG31_HERO_801_Buddy_G	Tychus Findlay
+BG31_HERO_801p	Lift Off
+BG31_HERO_801pt	Battlecruiser
+BG31_HERO_801pt_G	Battlecruiser
+BG31_HERO_801pta	Hyperflight Rotors
+BG31_HERO_801pta2	Hyperflight Rotors
+BG31_HERO_801pta3	Hyperflight Rotors
+BG31_HERO_801pta4	Hyperflight Rotors
+BG31_HERO_801pta5	Hyperflight Rotors
+BG31_HERO_801pta6	Hyperflight Rotors
+BG31_HERO_801pta7	Hyperflight Rotors
+BG31_HERO_801ptae	Hyperflight Rotors
+BG31_HERO_801ptb	Smart Servos
+BG31_HERO_801ptb2	Smart Servos
+BG31_HERO_801ptb3	Smart Servos
+BG31_HERO_801ptb4	Smart Servos
+BG31_HERO_801ptb5	Smart Servos
+BG31_HERO_801ptb6	Smart Servos
+BG31_HERO_801ptb7	Smart Servos
+BG31_HERO_801ptbe	Smart Servos
+BG31_HERO_801ptc	Yamato Cannon
+BG31_HERO_801ptc2	Yamato Cannon
+BG31_HERO_801ptc3	Yamato Cannon
+BG31_HERO_801ptc4	Yamato Cannon
+BG31_HERO_801ptc5	Yamato Cannon
+BG31_HERO_801ptc6	Yamato Cannon
+BG31_HERO_801ptc7	Yamato Cannon
+BG31_HERO_801ptce	Yamato Cannon
+BG31_HERO_801ptd	Advanced Ballistics
+BG31_HERO_801ptd2	Advanced Ballistics
+BG31_HERO_801ptd3	Advanced Ballistics
+BG31_HERO_801ptd4	Advanced Ballistics
+BG31_HERO_801ptd5	Advanced Ballistics
+BG31_HERO_801ptd6	Advanced Ballistics
+BG31_HERO_801ptd7	Advanced Ballistics
+BG31_HERO_801ptde	Advanced Ballistics
+BG31_HERO_801ptde2	Advanced Ballistics
+BG31_HERO_801pte	Caduceus Reactor
+BG31_HERO_801pte2	Caduceus Reactor
+BG31_HERO_801pte3	Caduceus Reactor
+BG31_HERO_801pte4	Caduceus Reactor
+BG31_HERO_801pte5	Caduceus Reactor
+BG31_HERO_801pte6	Caduceus Reactor
+BG31_HERO_801pte7	Caduceus Reactor
+BG31_HERO_801ptee	Caduceus Reactor
+BG31_HERO_801ptee2	Caduceus Reactor
+BG31_HERO_801ptf	Advanced Construction
+BG31_HERO_801ptf2	Advanced Construction
+BG31_HERO_801ptf3	Advanced Construction
+BG31_HERO_801ptf4	Advanced Construction
+BG31_HERO_801ptfe	Advanced Construction
+BG31_HERO_801pth	Fortified Bunker
+BG31_HERO_801pth2	Fortified Bunker
+BG31_HERO_801pth3	Fortified Bunker
+BG31_HERO_801pthe	Fortified Bunker
+BG31_HERO_801pti	Missile Pod
+BG31_HERO_801pti2	Missile Pod
+BG31_HERO_801ptie	Missile Pod Active
+BG31_HERO_801ptj	Ultra-Capacitor
+BG31_HERO_801ptj2	Ultra-Capacitor
+BG31_HERO_801ptje	Ultra-Capacitor
+BG31_HERO_802	Artanis
+BG31_HERO_802_Buddy	Probius
+BG31_HERO_802_Buddy_G	Probius
+BG31_HERO_802_Buddy_Ge	Probius
+BG31_HERO_802_Buddye	Probius
+BG31_HERO_802p	Warp Gate
+BG31_HERO_802pe	Unplayable
+BG31_HERO_802pt	Colossus
+BG31_HERO_802pt1	Carrier
+BG31_HERO_802pt1_G	Carrier
+BG31_HERO_802pt1e	Graviton Catapult
+BG31_HERO_802pt1t	Interceptor
+BG31_HERO_802pt1t_G	Interceptor
+BG31_HERO_802pt4	Immortal
+BG31_HERO_802pt4_G	Immortal
+BG31_HERO_802pt4e	Immortalized
+BG31_HERO_802pt5	Void Ray
+BG31_HERO_802pt5_G	Void Ray
+BG31_HERO_802pt5e	Prismatic Alignment
+BG31_HERO_802pt7	Mothership
+BG31_HERO_802pt7_G	Mothership
+BG31_HERO_802pt_G	Colossus
+BG31_HERO_811	Kerrigan, Queen of Blades
+BG31_HERO_811_Buddy	Broken Horn
+BG31_HERO_811_Buddy_G	Broken Horn
+BG31_HERO_811_Buddye2	Broken In
+BG31_HERO_811p	Spawning Pool
+BG31_HERO_811p2	Evolution Chamber
+BG31_HERO_811p3	Ultralisk Cavern
+BG31_HERO_811t	Larva
+BG31_HERO_811t10	Ultralisk
+BG31_HERO_811t10_G	Ultralisk
+BG31_HERO_811t10e	Frenzied
+BG31_HERO_811t2	Zergling
+BG31_HERO_811t2_G	Zergling
+BG31_HERO_811t3	Roach
+BG31_HERO_811t3_G	Roach
+BG31_HERO_811t3e	Rapid Regeneration
+BG31_HERO_811t4	Hydralisk
+BG31_HERO_811t4_G	Hydralisk
+BG31_HERO_811t4e	Grooved Spines
+BG31_HERO_811t5	Baneling
+BG31_HERO_811t5_G	Baneling
+BG31_HERO_811t6	Mutalisk
+BG31_HERO_811t6_G	Mutalisk
+BG31_HERO_811t6e	Flyer Carapace
+BG31_HERO_811t7	Lurker
+BG31_HERO_811t7_G	Lurker
+BG31_HERO_811t7e	Seismic Spines
+BG31_HERO_811t8	Viper
+BG31_HERO_811t8_G	Viper
+BG31_HERO_811t9	Infestor
+BG31_HERO_811t9_G	Infestor
+BG31_HERO_811t9e	Heart of the Swarm
+BG31_HERO_811t_G	Larva
+BG32_111	Nightmare Par-tea Guest
+BG32_111_G	Nightmare Par-tea Guest
+BG32_170	Metallic Hunter
+BG32_170_G	Metallic Hunter
+BG32_171	Springy Spriggan
+BG32_171_G	Springy Spriggan
+BG32_171_Ge2	Springy Spriggan
+BG32_171e	Springy
+BG32_171e2	Springy Spriggan
+BG32_172	Auto Assembler
+BG32_172_G	Auto Assembler
+BG32_172_Ge	Auto Assembler
+BG32_172e	Auto Assembler
+BG32_173	Rickety Repairbot
+BG32_173_G	Rickety Repairbot
+BG32_174	Electron, Powered Up
+BG32_174_G	Electron, Powered Up
+BG32_201	Sharptooth Snapper
+BG32_201_G	Sharptooth Snapper
+BG32_201_Gt	Piranha
+BG32_201t	Piranha
+BG32_202	Valiant Tiger
+BG32_202_G	Valiant Tiger
+BG32_202e	Caught Prey
+BG32_204	Silky Shimmermoth
+BG32_204_G	Silky Shimmermoth
+BG32_230	Starry-eyed Explorer
+BG32_230_G	Starry-eyed Explorer
+BG32_231	Elite Navigator
+BG32_231_G	Elite Navigator
+BG32_232	Thieving Rascal
+BG32_232_G	Thieving Rascal
+BG32_234	Dastardly Drust
+BG32_234_G	Dastardly Drust
+BG32_234e	Dastardly
+BG32_235	Surfing Sylvar
+BG32_235_G	Surfing Sylvar
+BG32_235e	Surfing
+BG32_236	Aureate Laureate
+BG32_236_G	Aureate Laureate
+BG32_237	Intrepid Botanist
+BG32_237_G	Intrepid Botanist
+BG32_237_Gt	Pristine Lilies
+BG32_237_Gt2	Giant Dewdrop
+BG32_237t	Pristine Lilies
+BG32_237t2	Giant Dewdrop
+BG32_324	Drustfallen Butcher
+BG32_324_G	Drustfallen Butcher
+BG32_325	Noisul of the Many Faces
+BG32_325_G	Noisul of the Many Faces
+BG32_325e	Multifaceted
+BG32_330	Flighty Scout
+BG32_330_G	Flighty Scout
+BG32_330_Ge	Flighty
+BG32_331	Grimscale Elegist
+BG32_331_G	Grimscale Elegist
+BG32_331e	Elegizing
+BG32_332	Apprentice of Sefin
+BG32_332_G	Apprentice of Sefin
+BG32_332e	Bonus Keyword
+BG32_332e2	Bonus Keyword
+BG32_332e3	Bonus Keyword
+BG32_332e4	Bonus Keyword
+BG32_332e5	Bonus Keyword
+BG32_332e6	Bonus Keyword
+BG32_332e7	SI Training
+BG32_335	Murkbrine Expeditioner
+BG32_335_G	Murkbrine Expeditioner
+BG32_335e	Expeditious
+BG32_336	Gormling Gourmet
+BG32_336_G	Gormling Gourmet
+BG32_337	Seafood Stew
+BG32_337e	Stewed
+BG32_340	Maw Caster
+BG32_340_G	Maw Caster
+BG32_341	Humon'gozz
+BG32_341_G	Humon'gozz
+BG32_430	Glowgullet Warlord
+BG32_430_G	Glowgullet Warlord
+BG32_430t	Glowgullet Soldier
+BG32_430t_G	Glowgullet Soldier
+BG32_431	Corrupted Bristler
+BG32_431_G	Corrupted Bristler
+BG32_432	Needling Crone
+BG32_432_G	Needling Crone
+BG32_433	Dreaming Thornweaver
+BG32_433_G	Dreaming Thornweaver
+BG32_434	Skulking Bristlemane
+BG32_434_G	Skulking Bristlemane
+BG32_814	Align the Elements
+BG32_814e	Aligned
+BG32_814pe	Align the Elements Player Ench (DNT)
+BG32_815	Shifting Tide
+BG32_815e	Tide Turning
+BG32_820	Firescale Hoarder
+BG32_820_G	Firescale Hoarder
+BG32_821	Felfire Conjurer
+BG32_821_G	Felfire Conjurer
+BG32_822	Fire-forged Evoker
+BG32_822_G	Fire-forged Evoker
+BG32_822e	Fire-forged
+BG32_823	Spirited Whimsydrake
+BG32_823_G	Spirited Whimsydrake
+BG32_824	Bronze Steward
+BG32_824_G	Bronze Steward
+BG32_824e	Stewardship
+BG32_833	Slumber Sorcerer
+BG32_833_G	Slumber Sorcerer
+BG32_835	Tranquil Meditative
+BG32_835_G	Tranquil Meditative
+BG32_835_Gt	Meditation
+BG32_835t	Meditation
+BG32_836	Coilskar Sapper
+BG32_836_G	Coilskar Sapper
+BG32_837	Fauna Whisperer
+BG32_837_G	Fauna Whisperer
+BG32_841	Sand Swirler
+BG32_841_G	Sand Swirler
+BG32_842	Glowing Cinder
+BG32_842_G	Glowing Cinder
+BG32_843	Blazing Greasefire
+BG32_843_G	Blazing Greasefire
+BG32_843e	Greasefired
+BG32_843pe	Blazing Greasefire Player Enchant (DNT)
+BG32_844	Lokholar, Frostforger
+BG32_844_G	Lokholar, Frostforger
+BG32_844e	Frostforged
+BG32_846	Unleashed Mana Surge
+BG32_846_G	Unleashed Mana Surge
+BG32_846e	Surging Mana
+BG32_860	Shoalfin Mystic
+BG32_860_G	Shoalfin Mystic
+BG32_861pe	Temp Tavern Spell Player Enchant (DNT)
+BG32_866	Tauren Spiritwalker
+BG32_866_G	Tauren Spiritwalker
+BG32_867	Vorkai Guardian
+BG32_867_G	Vorkai Guardian
+BG32_869	Beacon of Hope
+BG32_869_G	Beacon of Hope
+BG32_873	Ashen Corruptor
+BG32_873_G	Ashen Corruptor
+BG32_880	Friendly Geist
+BG32_880_G	Friendly Geist
+BG32_891	Shadowdancer
+BG32_891_G	Shadowdancer
+BG32_892	Dream Inquisitor
+BG32_892_G	Dream Inquisitor
+BG32_892e	Inquisited
+BG32_893	Bounding Felstalker
+BG32_893_G	Bounding Felstalker
+BG32_893e	Bounding
+BG32_Anomaly_001	Greater Pouches
+BG32_Anomaly_002	Lesser Pouches
+BG32_Anomaly_003	Impressive Foresight
+BG32_HERO_001	Forest Lord Cenarius
+BG32_HERO_001_Buddy	Malorne
+BG32_HERO_001_Buddy_G	Malorne
+BG32_HERO_001_Buddye	Power of Ancients
+BG32_HERO_001p	Wisdom of Ancients
+BG32_HERO_002	Buttons
+BG32_HERO_002_Buddy	Zippers
+BG32_HERO_002_Buddy_G	Zippers
+BG32_HERO_002p	Growing Collection
+BG32_MagicItem_111	Toxic Stinger
+BG32_MagicItem_111e	Toxic Sting
+BG32_MagicItem_170	Spell-powered Wrench
+BG32_MagicItem_171	Divine Signet
+BG32_MagicItem_172	Boom's Monster Portrait
+BG32_MagicItem_179	Drakkari Portrait
+BG32_MagicItem_200	All-Purpose Kibble
+BG32_MagicItem_200e	Nibbled Kibble
+BG32_MagicItem_204	Kel'Thuzad Portrait
+BG32_MagicItem_204e	Wrath of the Archlich
+BG32_MagicItem_205	Maw Caster Portrait
+BG32_MagicItem_205t	Coin Pouch
+BG32_MagicItem_230	Extravagant Scale
+BG32_MagicItem_230e	Extravagant
+BG32_MagicItem_231	Gilded Anchor
+BG32_MagicItem_231e	Gilded
+BG32_MagicItem_231t	Gilded Anchor
+BG32_MagicItem_232	Shark Cannon
+BG32_MagicItem_232e	Cannonfire
+BG32_MagicItem_270	Wicked Tome
+BG32_MagicItem_270t	Wicked Tome
+BG32_MagicItem_271	Ornate Clock
+BG32_MagicItem_274	Bristlebach Portrait
+BG32_MagicItem_276	Enigmatic Headstone
+BG32_MagicItem_278	Reusable Batteries
+BG32_MagicItem_278e	Reusable
+BG32_MagicItem_279	Tough Tusk Sticker
+BG32_MagicItem_279e	Tougher
+BG32_MagicItem_280	Eclectic Shrine
+BG32_MagicItem_280e	Eclectic
+BG32_MagicItem_281	Wizard's Pipe
+BG32_MagicItem_281e	Pipe Dream
+BG32_MagicItem_282	Turbocharged Drill
+BG32_MagicItem_283	Czarina Portrait
+BG32_MagicItem_284	Aggem Sticker
+BG32_MagicItem_286	Lavish Cape
+BG32_MagicItem_300	Putricide Sticker
+BG32_MagicItem_301	Bassgill Portrait
+BG32_MagicItem_301e	Solid Bass
+BG32_MagicItem_304	Horn of Summoning
+BG32_MagicItem_306	Herald Sticker
+BG32_MagicItem_350	Splinter of Aurum
+BG32_MagicItem_360	Baleful Incense
+BG32_MagicItem_360e	Baleful
+BG32_MagicItem_361	Portable Factory
+BG32_MagicItem_361t	Portable Factory
+BG32_MagicItem_362	Innkeeper's Hearth
+BG32_MagicItem_362e	Hearthside
+BG32_MagicItem_362t	Innkeeper's Hearth
+BG32_MagicItem_363	Faerie Dragon Scale
+BG32_MagicItem_363e	Faerie Scale
+BG32_MagicItem_364	Poet Portrait
+BG32_MagicItem_365	Valdrakken Wind Chimes
+BG32_MagicItem_366	Guiding Candle
+BG32_MagicItem_367	Ghastly Sticker
+BG32_MagicItem_400	Shrine of Evolution
+BG32_MagicItem_415	Battle Horn
+BG32_MagicItem_416	War Drum
+BG32_MagicItem_417	Tarecgosa Sticker
+BG32_MagicItem_419	Yu'lon Sticker
+BG32_MagicItem_428	Worn Treasure Map
+BG32_MagicItem_700	Marvelous Mushroom
+BG32_MagicItem_800e	Tea Time
+BG32_MagicItem_801	Heart of the Forest
+BG32_MagicItem_801t	Heart of the Forest
+BG32_MagicItem_802	Fountain Pen
+BG32_MagicItem_802t	Fountain Pen
+BG32_MagicItem_803	Macaw Portrait
+BG32_MagicItem_804	Selfless Portrait
+BG32_MagicItem_806	Battlecruiser Portrait
+BG32_MagicItem_806e	Terran Tech
+BG32_MagicItem_807	Curator Sticker
+BG32_MagicItem_807e	Massive Menagerie
+BG32_MagicItem_808	Bloodbound Earrings
+BG32_MagicItem_808t	Bloodbound Earrings
+BG32_MagicItem_809	Gem Donation
+BG32_MagicItem_817	Rendle Sticker
+BG32_MagicItem_820	Impulsive Portrait
+BG32_MagicItem_820e	Impulsive
+BG32_MagicItem_821	Pilgrimp Sticker
+BG32_MagicItem_822	Bazaar Sticker
+BG32_MagicItem_823	Wax Imprinter
+BG32_MagicItem_824	Implicator Portrait
+BG32_MagicItem_830	Felemental Portrait
+BG32_MagicItem_831	Sellemental Portrait
+BG32_MagicItem_832	Windfall Portrait
+BG32_MagicItem_832e	Great Windfall
+BG32_MagicItem_832t	Windfall Portrait
+BG32_MagicItem_844	Sacrificial Altar
+BG32_MagicItem_858	Explorer's Binoculars
+BG32_MagicItem_860	Beetle Band
+BG32_MagicItem_860e	Tough Chitin
+BG32_MagicItem_860t	Beetle Band
+BG32_MagicItem_862	Unholy Sanctum
+BG32_MagicItem_862e	Sanctum's Darkness
+BG32_MagicItem_862t	Unholy Sanctum
+BG32_MagicItem_864	Bird Feeder
+BG32_MagicItem_864e	Very Well Fed
+BG32_MagicItem_864t	Bird Feeder
+BG32_MagicItem_887	Shadowy Elixir
+BG32_MagicItem_888	Recycling Sticker
+BG32_MagicItem_890	Cliffdiver Sticker
+BG32_MagicItem_890e	Cliff Diving
+BG32_MagicItem_891	Finley's Helmet
+BG32_MagicItem_891e	Spiffy Helmet
+BG32_MagicItem_892	Vibrant Bubble
+BG32_MagicItem_892t	Vibrant Bubble
+BG32_MagicItem_893	Bluegill Flippers
+BG32_MagicItem_893e	Flipping Out
+BG32_MagicItem_894	Blessing Portrait
+BG32_MagicItem_901	Gold-plated Compass
+BG32_MagicItem_902	Statue of Hir'eek
+BG32_MagicItem_904	Hogwash Basin
+BG32_MagicItem_906	Artanis Sticker
+BG32_MagicItem_907	S'Thara Sticker
+BG32_MagicItem_920	Thaumaturgist Portrait
+BG32_MagicItem_922	Charming Panpipes
+BG32_MagicItem_922e	Charmed
+BG32_MagicItem_925	Hackerfin Portrait
+BG32_MagicItem_926	Morgl Portrait
+BG32_MagicItem_930	Archaic Scroll
+BG32_MagicItem_931	Azsharan Statuette
+BG32_MagicItem_932	Vash'jir Anemone
+BG32_MagicItem_932e	Vash'jir Vitality
+BG32_MagicItem_933	Weary Portrait
+BG32_MagicItem_934	Dazzling Dagger
+BG32_MagicItem_934e	Bedazzling
+BG32_MagicItem_935	Lubber Sticker
+BG32_MagicItem_944	Empowerment Portrait
+BG32_MagicItem_950	Gritty Portrait
+BG32_MagicItem_951	Gold Pendant
+BG32_MagicItem_953	Goldgrubber Portrait
+BG32_MagicItem_954	Auric Offering
+BG32_MagicItem_954e	Auric
+BG32_MagicItem_957	Grifter Portrait
+BG32_MagicItem_960	Crocheted Sungill
+BG32_MagicItem_998	Behemoth Portrait
+BG33_101	A New Sprout
+BG33_111	Carapace Raiser
+BG33_111_G	Carapace Raiser
+BG33_112	Haunted Carapace
+BG33_112e	Haunted
+BG33_112pe	Haunted Carapace Player Enchant [DNT]
+BG33_112t	Haunted Carapace
+BG33_113	Campfire Shadow
+BG33_113_G	Campfire Shadow
+BG33_114	Scourge Harvester
+BG33_114_G	Scourge Harvester
+BG33_114e	Harvested
+BG33_115	Ride-or-Die
+BG33_115_G	Ride-or-Die
+BG33_115e	Riding
+BG33_116	Oranomonos, the Wilted
+BG33_116_G	Oranomonos, the Wilted
+BG33_140	River Skipper
+BG33_140_G	River Skipper
+BG33_151	Stray Satyr
+BG33_151_G	Stray Satyr
+BG33_151e	Straying
+BG33_152	Improviser
+BG33_152_G	Improviser
+BG33_152e	Improvising
+BG33_152pe	Improviser Player Enchant (DNT)
+BG33_153	Cupcake Peddler
+BG33_153_G	Cupcake Peddler
+BG33_154	Lord of the Ruins
+BG33_154_G	Lord of the Ruins
+BG33_154e	Ruinous
+BG33_155	Devout Hellcaller
+BG33_155_G	Devout Hellcaller
+BG33_155e	Devout
+BG33_156	Silent Enforcer
+BG33_156_G	Silent Enforcer
+BG33_157	Void Earl
+BG33_157_G	Void Earl
+BG33_240	Charmwing
+BG33_240_G	Charmwing
+BG33_240e	Charmed
+BG33_241	Sleepy Supporter
+BG33_241_G	Sleepy Supporter
+BG33_241e	Support
+BG33_244	Nimble Hatchling
+BG33_244_G	Nimble Hatchling
+BG33_245	Twilight Watcher
+BG33_245_G	Twilight Watcher
+BG33_245e	Eyes of Twilight
+BG33_247	Vengeful Protector
+BG33_247_G	Vengeful Protector
+BG33_247e	Vengeance is Yours
+BG33_248	Nimble Wingbeat
+BG33_248e	Nimble
+BG33_300	All-Seeing Elder
+BG33_300_G	All-Seeing Elder
+BG33_300e	Seen it All
+BG33_310	Prodigious Stormdrake
+BG33_310_G	Prodigious Stormdrake
+BG33_310e	Prodigious
+BG33_311	Felblaze Leader
+BG33_311_G	Felblaze Leader
+BG33_311e	Felblazing
+BG33_311pe	Felblaze Leader Player Enchant (DNT)
+BG33_315	Greedy Snaketongue
+BG33_315_G	Greedy Snaketongue
+BG33_318	Bile Spitter
+BG33_318_G	Bile Spitter
+BG33_318e	Spat On!
+BG33_319	Rimescale Priestess
+BG33_319_G	Rimescale Priestess
+BG33_319_Gt	Rime or Reason
+BG33_319t	Rime or Reason
+BG33_320	Primeval Monstrosity
+BG33_320_G	Primeval Monstrosity
+BG33_320e	Primeval
+BG33_325	Geared Guard
+BG33_325_G	Geared Guard
+BG33_325e	Gear-guarded
+BG33_330e	Goldenize Next Turn
+BG33_331	Lantern Lava
+BG33_331_G	Lantern Lava
+BG33_334	Vine Climber
+BG33_334_G	Vine Climber
+BG33_334e	Feeling Just Vine
+BG33_337	Avalanche Caller
+BG33_337_G	Avalanche Caller
+BG33_370	Expert Technician
+BG33_370_G	Expert Technician
+BG33_371	P-0UL-TR-0N
+BG33_371_G	P-0UL-TR-0N
+BG33_430	Prodigious Tusker
+BG33_430_G	Prodigious Tusker
+BG33_700	Friendly Bouncer
+BG33_700_G	Friendly Bouncer
+BG33_701	Exceptional Caretaker
+BG33_701_G	Exceptional Caretaker
+BG33_701e	Exceptional
+BG33_801	Mooncatcher
+BG33_801_G	Mooncatcher
+BG33_802	Ruins Renovator
+BG33_802_G	Ruins Renovator
+BG33_805	Gleaming Trader
+BG33_805_G	Gleaming Trader
+BG33_805e	Gleaming
+BG33_805pe	Gleaming Trader Player Enchant [DNT]
+BG33_807	Whirring Protector
+BG33_807_G	Whirring Protector
+BG33_807_Ge	Whirring Protector
+BG33_807e	Whirring Protector
+BG33_807e2	Whirred Up
+BG33_808	Super Constructor
+BG33_808_G	Super Constructor
+BG33_809	Divine Sparkbot
+BG33_809_G	Divine Sparkbot
+BG33_811	Healthy Bounty
+BG33_811e	Healthy
+BG33_812	Hostile Bounty
+BG33_812e	Hostile
+BG33_813	Selfish Bounty
+BG33_813e	Selfish
+BG33_814	Friendly Bounty
+BG33_815	Wealthy Bounty
+BG33_817	Sanctify
+BG33_817e	Sanctified
+BG33_819	Raptor's Revenge
+BG33_820	Lost City Looter
+BG33_820_G	Lost City Looter
+BG33_821	Shipwrecked Rascal
+BG33_821_G	Shipwrecked Rascal
+BG33_822	Bigwig Bandit
+BG33_822_G	Bigwig Bandit
+BG33_823	Sky Admiral Rogers
+BG33_823_G	Sky Admiral Rogers
+BG33_825	Proud Privateer
+BG33_825_G	Proud Privateer
+BG33_826	Wizened Captain
+BG33_826_G	Wizened Captain
+BG33_826e	Wiz-dom
+BG33_827	Yorik Smite
+BG33_827_G	Yorik Smite
+BG33_827e	Smitten
+BG33_828	Ship Master Eudora
+BG33_828_G	Ship Master Eudora
+BG33_828e	Ahoy!
+BG33_828e2	Ahoy!
+BG33_830	Azsharan Cutlassier
+BG33_830_G	Azsharan Cutlassier
+BG33_840	Stomping Stegodon
+BG33_840_G	Stomping Stegodon
+BG33_840_Ge	Got Stomped
+BG33_840_Ge2	Stomping
+BG33_840e	Got Stomped
+BG33_840e2	Stomping
+BG33_841	Lightfeather Screecher
+BG33_841_G	Lightfeather Screecher
+BG33_841e	Lightfeathered
+BG33_842	Raptor Elder
+BG33_842_G	Raptor Elder
+BG33_842e	Elder Rage
+BG33_845	Merciless Mammoth
+BG33_845_G	Merciless Mammoth
+BG33_846	Sharp-Eyed Sabretooth
+BG33_846_G	Sharp-Eyed Sabretooth
+BG33_846e	Sharp-Eyed
+BG33_870	Golem Archivist
+BG33_870_G	Golem Archivist
+BG33_870pe	Tavern Spells cost less [DNT]
+BG33_883	Razorfen Vineweaver
+BG33_883_G	Razorfen Vineweaver
+BG33_884	Bloodsnout Warlord
+BG33_884_G	Bloodsnout Warlord
+BG33_885	Sanguine Refiner
+BG33_885_G	Sanguine Refiner
+BG33_886	Tusked Camper
+BG33_886_G	Tusked Camper
+BG33_888	Hog Watcher
+BG33_888_G	Hog Watcher
+BG33_890t	Magicfin Apprentice
+BG33_891	Magicfin Mycologist
+BG33_891_G	Magicfin Mycologist
+BG33_892	Flotsam Flinger
+BG33_892_G	Flotsam Flinger
+BG33_893	Primitive Painter
+BG33_893_G	Primitive Painter
+BG33_893e	Primitive
+BG33_894	Coldlight Diver
+BG33_894_G	Coldlight Diver
+BG33_895	Hot Springer
+BG33_895_G	Hot Springer
+BG33_895e	Healing Springs
+BG33_896	Canopy Swinger
+BG33_896_G	Canopy Swinger
+BG33_896e	Coming Out Swingin'
+BG33_897	Murky, Splash Fisher
+BG33_897_G	Murky, Splash Fisher
+BG33_898	Murky's Fish
+BG33_898e	Fishy
+BG33_899	Mounting Avalanche
+BG33_899e	Snowslide
+BG33_920	Wrathscale Rogue
+BG33_920_G	Wrathscale Rogue
+BG33_920e	The Best Defense
+BG33_923	Sundered Matriarch
+BG33_923_G	Sundered Matriarch
+BG33_923e	Sundered
+BG33_924	Blue Whelp
+BG33_924_G	Blue Whelp
+BG33_Anomaly_001	Summoning Pact
+BG33_Anomaly_002	Spirit of Friendship
+BG33_Anomaly_003	Third Nature
+BG33_Anomaly_005	Colorful Camaraderie
+BG33_Anomaly_008	Partner in Crime
+BG33_Anomaly_008_Discover	Discover Quest + Fixed Buddy [DNT]
+BG33_Anomaly_008_Quest	An Investigation!
+BG33_Anomaly_009	Amicable Amendment
+BG33_HERO_000_Buddy	Stoneshell Guardian
+BG33_HERO_000_Buddy_G	Stoneshell Guardian
+BG33_HERO_001	Loh, the Living Legend
+BG33_HERO_001p_ALT	Heroic Inspiration
+BG33_Reward_003	Righteous Charge
+BG33_Reward_003e	Righteous
+BG33_Reward_004	Grim Freshener
+BG33_Reward_006	Rushing Winds
+BG33_Reward_006e	Feel the Rush
+BG33_Reward_006t	Rushing Winds
+BG33_Reward_010	Norgannon's Reward
+BG33_Reward_011	Magicfin Relic
+BG33_Reward_012	Untold Riches
+BG33_Reward_012t	Coin Pouch
+BG33_Reward_013	Golden Forge
+BG33_Reward_014	Quaint Boutique
+BG33_Reward_015	Jumbo Warehouse
+BG33_Reward_017	Cosmic Reward
+BG33_Reward_020	Perpetual Incantation
+BG33_Reward_021	Rallying Cry
+BG33_StatsSetPHEnch	Stats Set
+BG34_110	Spellbound Soul
+BG34_110_G	Spellbound Soul
+BG34_110e	Spellbound
+BG34_111	Sepulchral Sergeant
+BG34_111_G	Sepulchral Sergeant
+BG34_111e	Sepulchral
+BG34_140	Expert Aviator
+BG34_140_G	Expert Aviator
+BG34_140e2	Aviation
+BG34_142	Costume Enthusiast
+BG34_142_G	Costume Enthusiast
+BG34_142e	Enthusiastic
+BG34_143	Dramaloc
+BG34_143_G	Dramaloc
+BG34_143e	Dramatic
+BG34_145	Futurefin
+BG34_145_G	Futurefin
+BG34_145e	Futuristic
+BG34_170	Auto Accelerator
+BG34_170_G	Auto Accelerator
+BG34_170_Gte	Red Volumizer
+BG34_170e	Volumized
+BG34_170pe	Volumizer Player Enchant [DNT]
+BG34_170t	Red Volumizer
+BG34_170t2	Blue Volumizer
+BG34_170t2_G	Blue Volumizer
+BG34_170t2_Ge	Blue Volumizer
+BG34_170t2e	Blue Volumizer
+BG34_170t3	Green Volumizer
+BG34_170t3_G	Green Volumizer
+BG34_170t3_Ge	Green Volumizer
+BG34_170t3e	Green Volumizer
+BG34_170t_G	Red Volumizer
+BG34_170te	Red Volumizer
+BG34_171	Conveyor Construct
+BG34_171_G	Conveyor Construct
+BG34_173	Apexis Guardian
+BG34_173_G	Apexis Guardian
+BG34_174	Magic Metalheap
+BG34_174_G	Magic Metalheap
+BG34_175	Junk Jouster
+BG34_175_G	Junk Jouster
+BG34_175e	Jousted
+BG34_176	Metal Dispenser
+BG34_176_G	Metal Dispenser
+BG34_177	Double Demolisher
+BG34_177_G	Double Demolisher
+BG34_230	Minted Corsair
+BG34_230_G	Minted Corsair
+BG34_234	Industrious Deckhand
+BG34_234_G	Industrious Deckhand
+BG34_235	Visionary Shipman
+BG34_235_G	Visionary Shipman
+BG34_236	Cannon Corsair
+BG34_236_G	Cannon Corsair
+BG34_236e	Corsair's Charge
+BG34_270	Time Snap
+BG34_272	Menagerie Tableware
+BG34_272e	At the Table
+BG34_312	Hardy Orca
+BG34_312_G	Hardy Orca
+BG34_312e	Hardy
+BG34_318	Psychus
+BG34_318_G	Psychus
+BG34_318e	Psyched Out
+BG34_319	Highkeeper Ra
+BG34_319_G	Highkeeper Ra
+BG34_320	The Last One Standing
+BG34_320_G	The Last One Standing
+BG34_320e	Time-Tested
+BG34_321	Rabid Panther
+BG34_321_G	Rabid Panther
+BG34_321e	Raging and Rabid
+BG34_322	Stalwart Kodo
+BG34_322_G	Stalwart Kodo
+BG34_322e	Stalwart
+BG34_325	Aranasi Alchemist
+BG34_325_G	Aranasi Alchemist
+BG34_330	Search Through Time
+BG34_402	Burgeoning Whelp
+BG34_402_G	Burgeoning Whelp
+BG34_402e	Whelp Army
+BG34_402pe	Whelp Buff Player Enchant (DNT)
+BG34_403	Eternal Tycoon
+BG34_403_G	Eternal Tycoon
+BG34_405	Relentless Deflector
+BG34_405_G	Relentless Deflector
+BG34_405e	Deflection
+BG34_407	Azsharan Veteran
+BG34_407_G	Azsharan Veteran
+BG34_407_Gt	Veteran's Tactics
+BG34_407e	Veteran's Tactics
+BG34_407t	Veteran's Tactics
+BG34_444	Easterly Winds
+BG34_500	Flaming Enforcer
+BG34_500_G	Flaming Enforcer
+BG34_502	Shore Marauder
+BG34_502_G	Shore Marauder
+BG34_520	Spirit Drake
+BG34_520_G	Spirit Drake
+BG34_521	Plankwalker
+BG34_521_G	Plankwalker
+BG34_521e	Walked the Plank
+BG34_523	Hunting Tiger Shark
+BG34_523_G	Hunting Tiger Shark
+BG34_604	Heroic Underdog
+BG34_604_G	Heroic Underdog
+BG34_604e	Underdog's Courage
+BG34_630	Twilight Hatchling
+BG34_630_G	Twilight Hatchling
+BG34_630_Gt	Twilight Whelp
+BG34_630t	Twilight Whelp
+BG34_631	Whelp Watcher
+BG34_631_G	Whelp Watcher
+BG34_640_Ge	Hot Rod
+BG34_640e	Hot Rod
+BG34_641	Prehistoric Tinkerer
+BG34_641_G	Prehistoric Tinkerer
+BG34_641e	Tinkered With
+BG34_650	Worgen Executive
+BG34_650_G	Worgen Executive
+BG34_651	Archaedas
+BG34_651_G	Archaedas
+BG34_681	Quilled Cabbie
+BG34_681_G	Quilled Cabbie
+BG34_682	Razorfen Flapper
+BG34_682_G	Razorfen Flapper
+BG34_683	Briarback Drummer
+BG34_683_G	Briarback Drummer
+BG34_684	Trench Fighter
+BG34_684_G	Trench Fighter
+BG34_689	Blood Gem Barrage
+BG34_689e2	Blood Gem Barrage Player Ench [DNT]
+BG34_691	Embalming Expert
+BG34_691_G	Embalming Expert
+BG34_691e	Embalmed
+BG34_692	Forsaken Weaver
+BG34_692_G	Forsaken Weaver
+BG34_694	Wintergrasp Ghoul
+BG34_694_G	Wintergrasp Ghoul
+BG34_697	Ghostly Ymirjar
+BG34_697_G	Ghostly Ymirjar
+BG34_731	Twilight Broodmother
+BG34_731_G	Twilight Broodmother
+BG34_732	Stuntdrake
+BG34_732_G	Stuntdrake
+BG34_732e	Stunted
+BG34_780	Photobomber
+BG34_780_G	Photobomber
+BG34_781	Felhorn
+BG34_781_G	Felhorn
+BG34_781e	Felhorned
+BG34_854e	I'm Always Right
+BG34_854pe	Right-most Tavern Minion Buff Player Ench [DNT]
+BG34_855e	Tavern Feast
+BG34_855pe	Nomi, Kitchen Dream (DNT)
+BG34_856	Waveling
+BG34_856_G	Waveling
+BG34_857	Acid Rainfall
+BG34_857_G	Acid Rainfall
+BG34_857e	Acidic
+BG34_858	Air Revenant
+BG34_858_G	Air Revenant
+BG34_865	En-Djinn Blazer
+BG34_865_G	En-Djinn Blazer
+BG34_888	Tomb Turning
+BG34_888e	Tomb Turned
+BG34_889	Brood of Nozdormu
+BG34_889e	Bronze Flight
+BG34_929	Profound Thinker
+BG34_929_G	Profound Thinker
+BG34_930	Sunken Advocate
+BG34_930_G	Sunken Advocate
+BG34_930e	Advocated For
+BG34_931	Bluesy Siren
+BG34_931_G	Bluesy Siren
+BG34_950	Stone Age Slab
+BG34_950_G	Stone Age Slab
+BG34_950e	Slab-grown
+BG34_950e2	Stony
+BG34_990	Wave of Gold
+BG34_990e	Gold Wave
+BG34_991	Hand of Deios
+BG34_Anomaly_800	Major Goldthorn Potion
+BG34_Anomaly_800t	Minor Goldthorn Potion
+BG34_Anomaly_801	Boon of Chronum
+BG34_Anomaly_802	Major Waygate
+BG34_Anomaly_804	Twisting Hourglass
+BG34_Anomaly_805	Oathstone's Summoning
+BG34_Anomaly_805t	Oathstone's Summoning Player Ench [DNT]
+BG34_Anomaly_809	Unforeseen Portal
+BG34_BlackMarket	Timewarped Tavern System
+BG34_BlackMarket_Skip	Exit the Timewarped Tavern
+BG34_ChampionOutput_001e	Champion's Favor
+BG34_Giant_001	Timewarped Busker
+BG34_Giant_001_G	Timewarped Busker
+BG34_Giant_002	Timewarped Relaxer
+BG34_Giant_002_G	Timewarped Relaxer
+BG34_Giant_006	Timewarped Molten Rock
+BG34_Giant_006_G	Timewarped Molten Rock
+BG34_Giant_007	Timewarped Annoy-o-Tron
+BG34_Giant_007_G	Timewarped Annoy-o-Tron
+BG34_Giant_008	Timewarped Seer
+BG34_Giant_008_G	Timewarped Seer
+BG34_Giant_009	Timewarped Alleycat
+BG34_Giant_009_G	Timewarped Alleycat
+BG34_Giant_009e	Alley-oop!
+BG34_Giant_010	Timewarped Trickster
+BG34_Giant_010_G	Timewarped Trickster
+BG34_Giant_012	Timewarped Cyclone
+BG34_Giant_012_G	Timewarped Cyclone
+BG34_Giant_015	Timewarped Hooktail
+BG34_Giant_015_G	Timewarped Hooktail
+BG34_Giant_017	Timewarped Scourfin
+BG34_Giant_017_G	Timewarped Scourfin
+BG34_Giant_021	Timewarped Sylvar
+BG34_Giant_021_G	Timewarped Sylvar
+BG34_Giant_024	Timewarped Jelly Belly
+BG34_Giant_024_G	Timewarped Jelly Belly
+BG34_Giant_027	Timewarped Arm
+BG34_Giant_027_G	Timewarped Arm
+BG34_Giant_029	Timewarped Dragonling
+BG34_Giant_029_G	Timewarped Dragonling
+BG34_Giant_031	Timewarped Leapfrogger
+BG34_Giant_031_G	Timewarped Leapfrogger
+BG34_Giant_032	Timewarped Nomi
+BG34_Giant_032_G	Timewarped Nomi
+BG34_Giant_034	Timewarped Geist
+BG34_Giant_034_G	Timewarped Geist
+BG34_Giant_035	Timewarped Glowscale
+BG34_Giant_035_G	Timewarped Glowscale
+BG34_Giant_035e	Glowing Crown
+BG34_Giant_035t	Timewarped Crown
+BG34_Giant_035t_G	Timewarped Crown
+BG34_Giant_038	Timewarped Elise
+BG34_Giant_038_G	Timewarped Elise
+BG34_Giant_039	Timewarped Winner
+BG34_Giant_039_G	Timewarped Winner
+BG34_Giant_040	Timewarped Ichoron
+BG34_Giant_040_G	Timewarped Ichoron
+BG34_Giant_041	Timewarped Greenskeeper
+BG34_Giant_041_G	Timewarped Greenskeeper
+BG34_Giant_042	Timewarped Chameleon
+BG34_Giant_042_G	Timewarped Chameleon
+BG34_Giant_064	Timewarped Whelp Smuggler
+BG34_Giant_064_G	Timewarped Whelp Smuggler
+BG34_Giant_065	Timewarped Low-Flier
+BG34_Giant_065_G	Timewarped Low-Flier
+BG34_Giant_066	Timewarped Lubber
+BG34_Giant_066_G	Timewarped Lubber
+BG34_Giant_067	Timewarped Sellemental
+BG34_Giant_067_G	Timewarped Sellemental
+BG34_Giant_068	Timewarped Guard
+BG34_Giant_068_G	Timewarped Guard
+BG34_Giant_069	Timewarped Piper
+BG34_Giant_069_G	Timewarped Piper
+BG34_Giant_071	Timewarped Bassgill
+BG34_Giant_071_G	Timewarped Bassgill
+BG34_Giant_071e	Bass Boosted
+BG34_Giant_072	Timewarped Skipper
+BG34_Giant_072_G	Timewarped Skipper
+BG34_Giant_074t	Timewarped Nellie's Ship
+BG34_Giant_074t_G	Timewarped Nellie's Ship
+BG34_Giant_078	Timewarped Thorncaller
+BG34_Giant_078_G	Timewarped Thorncaller
+BG34_Giant_081	Timewarped Deathswarmer
+BG34_Giant_081_G	Timewarped Deathswarmer
+BG34_Giant_082	Timewarped Recycler
+BG34_Giant_082_G	Timewarped Recycler
+BG34_Giant_088	Timewarped Promo-Drake
+BG34_Giant_088_G	Timewarped Promo-Drake
+BG34_Giant_091	Timewarped Red Whelp
+BG34_Giant_091_G	Timewarped Red Whelp
+BG34_Giant_102	Timewarped Bonker
+BG34_Giant_102_G	Timewarped Bonker
+BG34_Giant_104	Timewarped Bristler
+BG34_Giant_104_G	Timewarped Bristler
+BG34_Giant_105	Timewarped Twirler
+BG34_Giant_105_G	Timewarped Twirler
+BG34_Giant_110	Timewarped Sea Glass
+BG34_Giant_110_G	Timewarped Sea Glass
+BG34_Giant_110e	Polished and Sharpened
+BG34_Giant_120	Timewarped Interpreter
+BG34_Giant_120_G	Timewarped Interpreter
+BG34_Giant_121	Timewarped Probius
+BG34_Giant_121_G	Timewarped Probius
+BG34_Giant_121_Ge	Timewarped Probius
+BG34_Giant_121e	Timewarped Probius
+BG34_Giant_201	Timewarped Boar
+BG34_Giant_201_G	Timewarped Boar
+BG34_Giant_201pe	Timewarped Boar Player Ench [DNT]
+BG34_Giant_202	Timewarped Saurolisk
+BG34_Giant_202_G	Timewarped Saurolisk
+BG34_Giant_204	Timewarped Pillager
+BG34_Giant_204_G	Timewarped Pillager
+BG34_Giant_205	Timewarped Nalaa
+BG34_Giant_205_G	Timewarped Nalaa
+BG34_Giant_206	Timewarped Murky
+BG34_Giant_206_G	Timewarped Murky
+BG34_Giant_207	Timewarped Murcules
+BG34_Giant_207_G	Timewarped Murcules
+BG34_Giant_208	Timewarped Pagle
+BG34_Giant_208_G	Timewarped Pagle
+BG34_Giant_209	Timewarped Sensei
+BG34_Giant_209_G	Timewarped Sensei
+BG34_Giant_209e	Ironed Out
+BG34_Giant_210	Timewarped Commander
+BG34_Giant_210_G	Timewarped Commander
+BG34_Giant_210_Gt	Timewarped Shoal
+BG34_Giant_210e	Mighty Shoal
+BG34_Giant_210t	Timewarped Shoal
+BG34_Giant_211	Timewarped Pashmar
+BG34_Giant_211_G	Timewarped Pashmar
+BG34_Giant_212	Timewarped Archer
+BG34_Giant_212_G	Timewarped Archer
+BG34_Giant_212_Gt	Timewarped Eelectrify
+BG34_Giant_212e	Eelectrifying
+BG34_Giant_212t	Timewarped Eelectrify
+BG34_Giant_300	Timewarped Rewinder
+BG34_Giant_300_G	Timewarped Rewinder
+BG34_Giant_302	Timewarped Copter
+BG34_Giant_302_G	Timewarped Copter
+BG34_Giant_304	Timewarped Sapper
+BG34_Giant_304_G	Timewarped Sapper
+BG34_Giant_305	Timewarped Geomancer
+BG34_Giant_305_G	Timewarped Geomancer
+BG34_Giant_306	Timewarped Jazzer
+BG34_Giant_306_G	Timewarped Jazzer
+BG34_Giant_309	Timewarped Nine Frogs
+BG34_Giant_309_G	Timewarped Nine Frogs
+BG34_Giant_310	Timewarped Elegist
+BG34_Giant_310_G	Timewarped Elegist
+BG34_Giant_311	Timewarped Shivarra
+BG34_Giant_311_G	Timewarped Shivarra
+BG34_Giant_311e	Active Consumption
+BG34_Giant_313	Timewarped Kil'jaeden
+BG34_Giant_313_G	Timewarped Kil'jaeden
+BG34_Giant_313e	Endless Legion
+BG34_Giant_314	Timewarped Poet
+BG34_Giant_314_G	Timewarped Poet
+BG34_Giant_317	Timewarped Expeditioner
+BG34_Giant_317_G	Timewarped Expeditioner
+BG34_Giant_318	Timewarped Murk-Eye
+BG34_Giant_318_G	Timewarped Murk-Eye
+BG34_Giant_319	Timewarped Painter
+BG34_Giant_319_G	Timewarped Painter
+BG34_Giant_320	Timewarped Mystic
+BG34_Giant_320_G	Timewarped Mystic
+BG34_Giant_321	Timewarped Mrrrglr
+BG34_Giant_321_G	Timewarped Mrrrglr
+BG34_Giant_322	Timewarped Pioneer
+BG34_Giant_322_G	Timewarped Pioneer
+BG34_Giant_323	Timewarped Secretary
+BG34_Giant_323_G	Timewarped Secretary
+BG34_Giant_324	Timewarped Summoner
+BG34_Giant_324_G	Timewarped Summoner
+BG34_Giant_324_Gt	Timewarped Summoning
+BG34_Giant_324t	Timewarped Summoning
+BG34_Giant_325	Timewarped Riplash
+BG34_Giant_325_G	Timewarped Riplash
+BG34_Giant_326	Timewarped Tony
+BG34_Giant_326_G	Timewarped Tony
+BG34_Giant_327	Timewarped Peggy
+BG34_Giant_327_G	Timewarped Peggy
+BG34_Giant_328	Timewarped Tide Razor
+BG34_Giant_328_G	Timewarped Tide Razor
+BG34_Giant_330	Timewarped Radio Star
+BG34_Giant_330_G	Timewarped Radio Star
+BG34_Giant_331	Timewarped Warghoul
+BG34_Giant_331_G	Timewarped Warghoul
+BG34_Giant_332	Timewarped Embalmer
+BG34_Giant_332_G	Timewarped Embalmer
+BG34_Giant_333	Timewarped Scout
+BG34_Giant_333_G	Timewarped Scout
+BG34_Giant_335	Timewarped Theotar
+BG34_Giant_335_G	Timewarped Theotar
+BG34_Giant_336	Timewarped Amalgam
+BG34_Giant_336_G	Timewarped Amalgam
+BG34_Giant_342	Timewarped Hag
+BG34_Giant_342_G	Timewarped Hag
+BG34_Giant_360	Timewarped Shadowdancer
+BG34_Giant_360_G	Timewarped Shadowdancer
+BG34_Giant_361	Timewarped Upstart
+BG34_Giant_361_G	Timewarped Upstart
+BG34_Giant_361_Ge	Upstarted
+BG34_Giant_361e	Upstarted
+BG34_Giant_362	Timewarped Goldrinn
+BG34_Giant_362_G	Timewarped Goldrinn
+BG34_Giant_362e2	Spirit of the Beast
+BG34_Giant_362pe	Timewarped Goldrinn Player Enchant [DNT]
+BG34_Giant_370	Timewarped Hawkstrider
+BG34_Giant_370_G	Timewarped Hawkstrider
+BG34_Giant_376	Timewarped Deios
+BG34_Giant_376_G	Timewarped Deios
+BG34_Giant_580	Timewarped Ragnaros
+BG34_Giant_580_G	Timewarped Ragnaros
+BG34_Giant_581	Timewarped Hyena
+BG34_Giant_581_G	Timewarped Hyena
+BG34_Giant_582	Timewarped Sporebat
+BG34_Giant_582_G	Timewarped Sporebat
+BG34_Giant_583	Timewarped Devourer
+BG34_Giant_583_G	Timewarped Devourer
+BG34_Giant_584	Timewarped Kil'rek
+BG34_Giant_584_G	Timewarped Kil'rek
+BG34_Giant_585	Timewarped Vaelastrasz
+BG34_Giant_585_G	Timewarped Vaelastrasz
+BG34_Giant_586	Timewarped Snow Elemental
+BG34_Giant_586_G	Timewarped Snow Elemental
+BG34_Giant_588	Timewarped Hunter
+BG34_Giant_588_G	Timewarped Hunter
+BG34_Giant_589	Timewarped Sailor
+BG34_Giant_589_G	Timewarped Sailor
+BG34_Giant_590	Timewarped Festergut
+BG34_Giant_590_G	Timewarped Festergut
+BG34_Giant_591	Timewarped Acolyte
+BG34_Giant_591_G	Timewarped Acolyte
+BG34_Giant_592	Timewarped Spirit of Air
+BG34_Giant_592_G	Timewarped Spirit of Air
+BG34_Giant_593	Timewarped Henchman
+BG34_Giant_593_G	Timewarped Henchman
+BG34_Giant_594	Timewarped Botani
+BG34_Giant_594_G	Timewarped Botani
+BG34_Giant_595	Timewarped Tamuzo
+BG34_Giant_595_G	Timewarped Tamuzo
+BG34_Giant_596	Timewarped Archimonde
+BG34_Giant_596_G	Timewarped Archimonde
+BG34_Giant_597	Timewarped Immortal
+BG34_Giant_597_G	Timewarped Immortal
+BG34_Giant_598	Timewarped Mothership
+BG34_Giant_598_G	Timewarped Mothership
+BG34_Giant_599	Timewarped Whirl-O-Tron
+BG34_Giant_599_G	Timewarped Whirl-O-Tron
+BG34_Giant_601	Timewarped Stoneshell
+BG34_Giant_601_G	Timewarped Stoneshell
+BG34_Giant_602	Timewarped Lei
+BG34_Giant_602_G	Timewarped Lei
+BG34_Giant_603	Timewarped Tender
+BG34_Giant_603_G	Timewarped Tender
+BG34_Giant_604	Timewarped Tipper
+BG34_Giant_604_G	Timewarped Tipper
+BG34_Giant_605	Timewarped Traveler
+BG34_Giant_605_G	Timewarped Traveler
+BG34_Giant_608	Timewarped Lil' Quilboar
+BG34_Giant_608_G	Timewarped Lil' Quilboar
+BG34_Giant_609	Timewarped Ghoul-acabra
+BG34_Giant_609_G	Timewarped Ghoul-acabra
+BG34_Giant_610	Timewarped Electron
+BG34_Giant_610_G	Timewarped Electron
+BG34_Giant_618	Timewarped Caretaker
+BG34_Giant_618_G	Timewarped Caretaker
+BG34_Giant_619	Timewarped Magnanimoose
+BG34_Giant_619_G	Timewarped Magnanimoose
+BG34_Giant_644	Timewarped Gemsplitter
+BG34_Giant_644_G	Timewarped Gemsplitter
+BG34_Giant_654	Timewarped Deadstomper
+BG34_Giant_654_G	Timewarped Deadstomper
+BG34_Giant_656	Timewarped Grease Bot
+BG34_Giant_656_G	Timewarped Grease Bot
+BG34_Giant_670	Timewarped Rodeo Performer
+BG34_Giant_670_G	Timewarped Rodeo Performer
+BG34_Giant_671	Timewarped Zerus
+BG34_Giant_671_G	Timewarped Zerus
+BG34_Giant_671e	Timewarped Zerus Player Ench [DNT]
+BG34_Giant_671e2	Shifting
+BG34_Giant_671t	Timewarped Zerus Activation [DNT]
+BG34_Giant_674	Timewarped Icky Imp
+BG34_Giant_674_G	Timewarped Icky Imp
+BG34_Giant_674e	Gives the Ick
+BG34_Giant_675	Timewarped Stone Drake
+BG34_Giant_675_G	Timewarped Stone Drake
+BG34_Giant_675e	Stone-Faced
+BG34_Giant_676	Timewarped Trumpeter
+BG34_Giant_676_G	Timewarped Trumpeter
+BG34_Giant_677	Timewarped Wargear
+BG34_Giant_677_G	Timewarped Wargear
+BG34_Giant_677_Ge	Timewarped Wargear
+BG34_Giant_677e	Timewarped Wargear
+BG34_Giant_677e2	Geared Up
+BG34_Giant_678	Timewarped Lava Lurker
+BG34_Giant_678_G	Timewarped Lava Lurker
+BG34_Giant_679	Timewarped Chimera
+BG34_Giant_679_G	Timewarped Chimera
+BG34_Giant_680	Timewarped Collector
+BG34_Giant_680_G	Timewarped Collector
+BG34_Giant_680e	Divine Blade
+BG34_Giant_681	Timewarped Shadequill
+BG34_Giant_681_G	Timewarped Shadequill
+BG34_Giant_681e	Shadequill Greed
+BG34_Giant_683	Timewarped Lucky Egg
+BG34_Giant_683_G	Timewarped Lucky Egg
+BG34_Giant_684	Timewarped Mythrax
+BG34_Giant_684_G	Timewarped Mythrax
+BG34_Giant_686	Timewarped Swirler
+BG34_Giant_686_G	Timewarped Swirler
+BG34_Giant_687	Timewarped Nest Swarmer
+BG34_Giant_687_G	Timewarped Nest Swarmer
+BG34_Giant_777	Timewarped Behemoth
+BG34_Giant_777_G	Timewarped Behemoth
+BG34_Giant_801	Timewarped Astrogill
+BG34_Giant_801_G	Timewarped Astrogill
+BG34_Giant_801e	Astronomical
+BG34_HERO_000	Murozond, Unbounded
+BG34_HERO_000p	Alternate Timeline
+BG34_HERO_001	Time Twister Chromie
+BG34_HERO_001p	Mana Per Minute
+BG34_HERO_004	Morchie
+BG34_HERO_004p	Warped Conflux
+BG34_HeroPowerSpell_003	Power of Al'Akir
+BG34_HeroPowerSpell_005	Power of Elise
+BG34_HeroPowerSpell_006	Power of George
+BG34_HeroPowerSpell_008	Power of Shudderwock
+BG34_HeroPowerSpell_009	Power of Teron
+BG34_HeroPowerSpell_010	Power of the Lich King
+BG34_HeroPowerSpell_012	Power of Zephrys
+BG34_HeroPowerSpell_015	Power of Guff
+BG34_HeroPowerSpell_016	Power of Flurgl
+BG34_HeroPowerSpell_017	Power of Sylvanas
+BG34_HeroPowerSpell_018	Power of Tavish
+BG34_HeroPowerSpell_022	Power of Rakanishu
+BG34_MidGameEffect_066e	Unplayable
+BG34_MidGameEffect_067e	Unplayable
+BG34_PreMadeChamp_002	Timewarped Lab Rat
+BG34_PreMadeChamp_002_G	Timewarped Lab Rat
+BG34_PreMadeChamp_002e	Lab Experiment
+BG34_PreMadeChamp_004	Timewarped Jungle King
+BG34_PreMadeChamp_004_G	Timewarped Jungle King
+BG34_PreMadeChamp_004e	Law of the Jungle
+BG34_PreMadeChamp_011	Timewarped Overfiend
+BG34_PreMadeChamp_011_G	Timewarped Overfiend
+BG34_PreMadeChamp_011e	It's Overfiend
+BG34_PreMadeChamp_013	Timewarped Imp-filtrator
+BG34_PreMadeChamp_013_G	Timewarped Imp-filtrator
+BG34_PreMadeChamp_020	Timewarped Duskmaw
+BG34_PreMadeChamp_020_G	Timewarped Duskmaw
+BG34_PreMadeChamp_020e	Duskborn
+BG34_PreMadeChamp_022	Timewarped Prismscale
+BG34_PreMadeChamp_022_G	Timewarped Prismscale
+BG34_PreMadeChamp_031	Timewarped Stormcloud
+BG34_PreMadeChamp_031_G	Timewarped Stormcloud
+BG34_PreMadeChamp_032	Timewarped Substrate
+BG34_PreMadeChamp_032_G	Timewarped Substrate
+BG34_PreMadeChamp_038	Timewarped Steamer
+BG34_PreMadeChamp_038_G	Timewarped Steamer
+BG34_PreMadeChamp_047	Timewarped Paleofin
+BG34_PreMadeChamp_047_G	Timewarped Paleofin
+BG34_PreMadeChamp_049	Timewarped Squallfin
+BG34_PreMadeChamp_049_G	Timewarped Squallfin
+BG34_PreMadeChamp_049e	Squalor
+BG34_PreMadeChamp_056	Timewarped Karathress
+BG34_PreMadeChamp_056_G	Timewarped Karathress
+BG34_PreMadeChamp_058	Timewarped Siren
+BG34_PreMadeChamp_058_G	Timewarped Siren
+BG34_PreMadeChamp_058e	Siren's Voice
+BG34_PreMadeChamp_065	Timewarped Raider
+BG34_PreMadeChamp_065_G	Timewarped Raider
+BG34_PreMadeChamp_065e	Longboat Raid
+BG34_PreMadeChamp_067	Timewarped Plunderer
+BG34_PreMadeChamp_067_G	Timewarped Plunderer
+BG34_PreMadeChamp_076	Timewarped Bloodbinder
+BG34_PreMadeChamp_076_G	Timewarped Bloodbinder
+BG34_PreMadeChamp_078	Timewarped Bandit
+BG34_PreMadeChamp_078_G	Timewarped Bandit
+BG34_PreMadeChamp_083	Timewarped Anub'arak
+BG34_PreMadeChamp_083_G	Timewarped Anub'arak
+BG34_PreMadeChamp_090	Timewarped Clefthoof
+BG34_PreMadeChamp_090_G	Timewarped Clefthoof
+BG34_PreMadeChamp_090e	Behooved
+BG34_PreMadeChamp_091	Timewarped Calligrapher
+BG34_PreMadeChamp_091_G	Timewarped Calligrapher
+BG34_PreMadeChamp_200	Timewarped Centurion
+BG34_PreMadeChamp_200_G	Timewarped Centurion
+BG34_Treasure_300	Timewarped Investment
+BG34_Treasure_301	Timewarped Beanstalk
+BG34_Treasure_302	Timewarped Cloning Device
+BG34_Treasure_606	Timewarped Big Winner!
+BG34_Treasure_606pe	Timewarped Big Winner! Player Ench [DNT]
+BG34_Treasure_607	Timewarped Trainee
+BG34_Treasure_608	Timewarped Ring
+BG34_Treasure_608pe	TW Shiny Ring Player Ench [DNT]
+BG34_Treasure_609	Timewarped Lasso
+BG34_Treasure_609pe	TW Lasso Player Ench [DNT]
+BG34_Treasure_610	Timewarped Scroll
+BG34_Treasure_610e	Timewarped Evolving
+BG34_Treasure_620	Timewarped Apples
+BG34_Treasure_620e	Timewarped Apples
+BG34_Treasure_625	Timewarped Secrecy
+BG34_Treasure_900	Timewarped Evolving Tavern
+BG34_Treasure_900e	Timewarped Evolving Tavern Player Ench [DNT]
+BG34_Treasure_901	Gruul Rules
+BG34_Treasure_902	Timewarped Master Thief
+BG34_Treasure_902e	Stolen from Time Itself
+BG34_Treasure_903	Timewarped On the House
+BG34_Treasure_905	Timewarped Rat in a Cage
+BG34_Treasure_905e	Rat in a Cage
+BG34_Treasure_905e2	Ratty
+BG34_Treasure_906	The Bouncer
+BG34_Treasure_907e	Big Brann Play
+BG34_Treasure_912	Timewarped B.A.N.A.N.A.S.
+BG34_Treasure_917	Timewarped New Recruit
+BG34_Treasure_917e	Timewarped New Recruit Player Ench [DNT]
+BG34_Treasure_919	Timewarped Ritual
+BG34_Treasure_930	Timewarped Enchanted Lasso
+BG34_Treasure_932	Timewarped Strike Oil
+BG34_Treasure_933	Timewarped Evolution
+BG34_Treasure_934	Timewarped Armor Stash
+BG34_Treasure_937	Timewarped Corpse
+BG34_Treasure_940	Timewarped Chef's Choice
+BG34_Treasure_950	Timewarped Special
+BG34_Treasure_951	Timewarped Conch
+BG34_Treasure_953	Timewarped Revelation
+BG34_Treasure_955	Timewarped Goldenizer
+BG34_Treasure_966	Timewarped Thief
+BG34_Treasure_990	Timewarped Viper
+BG34_Treasure_990_G	Timewarped Viper
+BG34_Treasure_994	Timewarped Ultralisk
+BG34_Treasure_994_G	Timewarped Ultralisk
+BG34_Trinket_1st_Spell	Buy a Lesser Trinket
+BG34_Trinket_2nd_Spell	Buy a Greater Trinket
+BGDUO20_GEM_No_Impact	Blood Gem No Impact From Teammate [DNT]
+BGDUO31_201	Gathering Stormer
+BGDUO31_201_G	Gathering Stormer
+BGDUO31_201s	Gathering Stormer Spell [DNT]
+BGDUO31_202	Loyal Mobster
+BGDUO31_202_G	Loyal Mobster
+BGDUO31_202s	Loyal Mobster Spell [DNT]
+BGDUO31_203	Shifty Snake
+BGDUO31_203_G	Shifty Snake
+BGDUO31_205	Selfless Sightseer
+BGDUO31_205_G	Selfless Sightseer
+BGDUO31_205_gs	Selfless Sightseer Golden Spell [DNT]
+BGDUO31_205s	Selfless Sightseer Spell [DNT]
+BGDUO31_206	Oceanfloor Rummager
+BGDUO31_206_G	Oceanfloor Rummager
+BGDUO31_206_Gs	Oceanfloor Rummager Golden Spell [DNT]
+BGDUO31_206e	Rummaging
+BGDUO31_206s	Oceanfloor Rummager Spell [DNT]
+BGDUO31_207	Wheeled Crewmate
+BGDUO31_207_G	Wheeled Crewmate
+BGDUO31_207_Gs	Wheeled Crewmate Golden Spell [DNT]
+BGDUO31_207s	Wheeled Crewmate Spell [DNT]
+BGDUO31_208	San'layn Scribe
+BGDUO31_208_G	San'layn Scribe
+BGDUO31_208_Teammate_Trigger	Scribbling Teammate Trigger [DNT]
+BGDUO31_208e	Scribbling
+BGDUO31_208pe	San'layn Scribe Player Enchant [DNT]
+BGDUO31_209	Private Chef
+BGDUO31_209_G	Private Chef
+BGDUO31_209t	Private Selection
+BGDUO31_209t_G	Private Selection
+BGDUO31_210	Two-Faced Doomguard
+BGDUO31_210_G	Two-Faced Doomguard
+BGDUO31_210e	Two-Faced
+BGDUO31_210s	Two-Faced Doomguard Spell [DNT]
+BGDUO31_211	Transport Reactor
+BGDUO31_211_G	Transport Reactor
+BGDUO31_211_Ge	Transport Reactor
+BGDUO31_211e	Transport Reactor
+BGDUO31_211e2	Chain Reaction
+BGDUO31_212	Mantid King
+BGDUO31_212_G	Mantid King
+BGDUO31_212_Ge1	Divine King
+BGDUO31_212_Ge2	Boastful King
+BGDUO31_212_Ge3	Deadly King
+BGDUO31_212e1	Divine King
+BGDUO31_212e2	Boastful King
+BGDUO31_212e3	Deadly King
+BGDUO33_140	Bottom Feeder
+BGDUO33_140_G	Bottom Feeder
+BGDUO33_150	Dark Dazzler
+BGDUO33_150_G	Dark Dazzler
+BGDUO33_150e	Dazzling
+BGDUO33_150pe	Dark Dazzler Player Enchantment [DNT]
+BGDUO33_150t	Dark Dazzler on Teammate [DNT]
+BGDUO33_150t2	Dark Dazzler Activation [DNT]
+BGDUO_100	Wanderer Cho
+BGDUO_100_G	Wanderer Cho
+BGDUO_100e	Passing Wanderer
+BGDUO_104	Friendly Saloonkeeper
+BGDUO_104_G	Friendly Saloonkeeper
+BGDUO_105	Magnanimoose
+BGDUO_105_G	Magnanimoose
+BGDUO_105e2	That's Amoosing
+BGDUO_107	Doting Dracthyr
+BGDUO_107_G	Doting Dracthyr
+BGDUO_107_Gs	Doting Dracthyr Golden Spell [DNT]
+BGDUO_107e	Doted On
+BGDUO_107s	Doting Dracthyr Spell [DNT]
+BGDUO_108	Mirror Monster
+BGDUO_108_G	Mirror Monster
+BGDUO_109	Support System
+BGDUO_109_G	Support System
+BGDUO_109_Gs	Support System Golden Spell [DNT]
+BGDUO_109e	Soldier to Cry On
+BGDUO_109s	Support System Spell [DNT]
+BGDUO_110	Feisty Freshwater
+BGDUO_110_G	Feisty Freshwater
+BGDUO_110_Gs	Feisty Freshwater Golden Spell [DNT]
+BGDUO_110s	Feisty Freshwater Spell [DNT]
+BGDUO_111	Generous Geomancer
+BGDUO_111_G	Generous Geomancer
+BGDUO_112	Grave Narrator
+BGDUO_112_G	Grave Narrator
+BGDUO_113	Portal in a Bottle
+BGDUO_114	Passenger
+BGDUO_114_G	Passenger
+BGDUO_114e	Bon Voyage
+BGDUO_115	Jumping Jack
+BGDUO_115_G	Jumping Jack
+BGDUO_117	Puddle Prancer
+BGDUO_117_G	Puddle Prancer
+BGDUO_117e	Passy Splashy
+BGDUO_118	Plunder Pal
+BGDUO_118_G	Plunder Pal
+BGDUO_118_Gs	Plunder Pal Golden Spell [DNT]
+BGDUO_118s	Plunder Pal Spell [DNT]
+BGDUO_119	Orc-estra Conductor
+BGDUO_119_G	Orc-estra Conductor
+BGDUO_119e	Orc-estrated
+BGDUO_119pe	Orc-estra Conductor Player Ench [DNT]
+BGDUO_119s	Orc-estra Conductor Teammate Trigger [DNT]
+BGDUO_120	Well Wisher
+BGDUO_120_G	Well Wisher
+BGDUO_120_Gt	Well Wishes
+BGDUO_120t	Well Wishes
+BGDUO_121	Man'ari Messenger
+BGDUO_121_G	Man'ari Messenger
+BGDUO_121_Gs	Man'ari Messenger Golden Spell [DNT]
+BGDUO_121e	Message Delivered
+BGDUO_121pe	Man'ari Messenger Player Enchant [DNT]
+BGDUO_121s	Man'ari Messenger Spell [DNT]
+BGDUO_122	Storm Splitter
+BGDUO_122_G	Storm Splitter
+BGDUO_123	Catch!
+BGDUO_123e	Caught!
+BGDUO_124	Recruitment Program
+BGDUO_125	Sandy
+BGDUO_125_G	Sandy
+BGDUO_Anomaly_003	Golden Friendship
+BGDUO_Anomaly_003t	Golden Friendship
+BGDUO_Anomaly_005	All Bottled Up
+BGDUO_Anomaly_006	Line in the Sand
+BGDUO_Anomaly_007	Pooled Resources
+BGDUO_Anomaly_007t	Pooled Resources
+BGDUO_HERO_100	The Nameless One
+BGDUO_HERO_100_Buddy	Faceless One
+BGDUO_HERO_100_Buddy_G	Faceless One
+BGDUO_HERO_100_SKIN_A	The Nameless Dragon
+BGDUO_HERO_100p	[x]
+BGDUO_HERO_101	Flobbidinous Floop
+BGDUO_HERO_101_Buddy	Glorious Gloopling
+BGDUO_HERO_101_Buddy_G	Glorious Gloopling
+BGDUO_HERO_101_SKIN_A	Slime Dragon Floop
+BGDUO_HERO_101p	Glorious Gloop
+BGDUO_HERO_101pe2	In the Gloop
+BGDUO_HERO_104	Madam Goya
+BGDUO_HERO_104_Buddy	Mister Chu
+BGDUO_HERO_104_Buddy_G	Mister Chu
+BGDUO_HERO_104p	Efficient Exchange
+BGDUO_HERO_222	Cho
+BGDUO_HERO_222_Buddy	Halfus the Mighty
+BGDUO_HERO_222_Buddy_G	Halfus the Mighty
+BGDUO_HERO_222_SKIN_A	Corruptor Cho
+BGDUO_HERO_222_SKIN_B	Infested Cho
+BGDUO_HERO_222_SKIN_C	Twilight Cho
+BGDUO_HERO_222p	Double Trouble
+BGDUO_HERO_222t	[DNT] Cho Gall HP Decrement
+BGDUO_HERO_223	Gall
+BGDUO_HERO_223_Buddy	Halfus the Wise
+BGDUO_HERO_223_Buddy_G	Halfus the Wise
+BGDUO_HERO_223_SKIN_A	Corruptor Gall
+BGDUO_HERO_223_SKIN_B	Infested Gall
+BGDUO_HERO_223_SKIN_C	Twilight Gall
+BGDUO_HERO_223p	Double Trouble
+BGDUO_MagicItem_001	Common Thread
+BGDUO_MagicItem_002	Cho'gall Sticker
+BGDUO_MagicItem_002e	Cho'gall Sticker Player Enchantment [DNT]
+BGDUO_MagicItem_002t	Cho'gall Sticker on teammate [DNT]
+BGDUO_MagicItem_002t2	Cho'gall Sticker Activation [DNT]
+BGDUO_MagicItem_003	Summoning Sphere
+BGDUO_MagicItem_004	Charm of Generosity
+BGDUO_MagicItem_004e	Generosity
+BGDUO_MagicItem_005	Bottle Sticker
+BGDUO_MagicItem_006	Magic Road Sign
+BGDUO_MagicItem_007	Orc-estra Portrait
+BGDUO_MagicItem_008	Moveout Box
+BGDUO_MagicItem_009	Investment Contract
+BGDUO_MagicItem_010	Empowered Mirror
+BGDUO_MagicItem_010t	Empowered Mirror
+BGS_001	Nathrezim Overseer
+BGS_001e	Impish
+BGS_002	Soul Juggler
+BGS_004	Wrath Weaver
+BGS_004e	Wrath Woven
+BGS_006	Sneed's Old Shredder
+BGS_008	Ghastcoiler
+BGS_009	Lightfang Enforcer
+BGS_009e	Blessed
+BGS_010	Annihilan Battlemaster
+BGS_010e	Monstrous
+BGS_012	Kangor's Apprentice
+BGS_014	Imprisoner
+BGS_017	Pack Leader
+BGS_017e	Feral Calling
+BGS_018	Goldrinn, the Great Wolf
+BGS_018e	Soul of the Beast
+BGS_018pe	Goldrinn Player Enchant [DNT]
+BGS_020	Primalfin Lookout
+BGS_021	Mama Bear
+BGS_021e	Rampage
+BGS_022	Zapp Slywick
+BGS_027	Micro Machine
+BGS_028	Pogo-Hopper
+BGS_028e	Kinetic Energy
+BGS_028pe	PogoCounterEnchantment
+BGS_029	Shifter Zerus
+BGS_029e	Shifting
+BGS_030	King Bagurgle
+BGS_030e	Bagurgled
+BGS_031	Gentle Megasaur
+BGS_034	Bronze Warden
+BGS_036	Razorgore, the Untamed
+BGS_036e	Dragonlust
+BGS_038	Twilight Emissary
+BGS_038e	Twilight Embrace
+BGS_039	Dragonspawn Lieutenant
+BGS_040	Nadina the Red
+BGS_041	Kalecgos, Arcane Aspect
+BGS_041e	Arcane Aspect
+BGS_041e_Copy	Broodmother
+BGS_043	Murozond
+BGS_044	Imp Mama
+BGS_044e	Protect Mama!
+BGS_048	Southsea Strongarm
+BGS_048e	Pirate Tattoos
+BGS_049	Freedealing Gambler
+BGS_053	Bloodsail Cannoneer
+BGS_053e	Pirate Life!
+BGS_055	Deck Swabbie
+BGS_056	Ripsnarl Captain
+BGS_056e	Snarled
+BGS_059	Soul Devourer
+BGS_059e	Devoured Soul
+BGS_061	Scallywag
+BGS_061t	Sky Pirate
+BGS_066	Goldgrubber
+BGS_066e	Gold Grubbing
+BGS_071	Deflect-o-Bot
+BGS_071e	Deflect-o-Shield
+BGS_072	Cap'n Hoggarr
+BGS_075	Rabid Saurolisk
+BGS_075e	Rabid
+BGS_078	Monstrous Macaw
+BGS_081	Salty Looter
+BGS_081e	Loot!
+BGS_082	Menagerie Mug
+BGS_082e	Sip of Tea
+BGS_083	Menagerie Jug
+BGS_083e	Gulp of Tea
+BGS_100	Lil' Rag
+BGS_100e	Lil' Hand of Rag
+BGS_104	Nomi, Kitchen Nightmare
+BGS_104e1	Tavern Feast
+BGS_104pe	Nomi Player Enchant (DNT)
+BGS_105	Majordomo Executus
+BGS_105e	Aegis of the Firelord
+BGS_110	Arm of the Empire
+BGS_110e	Armed!
+BGS_115	Sellemental
+BGS_115t	Water Droplet
+BGS_115t_G	Water Droplet
+BGS_116	Refreshing Anomaly
+BGS_116e	Refresh Costs 0
+BGS_119	Crackling Cyclone
+BGS_120	Party Elemental
+BGS_120e	Party Time
+BGS_121	Gentle Djinni
+BGS_123	Tavern Tempest
+BGS_124	Lieutenant Garr
+BGS_124e	Garrdian
+BGS_126	Wildfire Elemental
+BGS_127	Molten Rock
+BGS_127e	Lava Shield
+BGS_128e	Elemental Energy
+BGS_131	Deadly Spore
+BGS_200	Warden of Old
+BGS_200t	Warden's Treasure
+BGS_202	Mythrax the Unraveler
+BGS_202e	Void Echoes
+BGS_Treasures_000	Big Banana
+BGS_Treasures_000e	Big Banana
+BGS_Treasures_001	Pocket Change
+BGS_Treasures_004	Gacha Gift
+BGS_Treasures_006	Evolving Tavern
+BGS_Treasures_007	Might of Stormwind
+BGS_Treasures_007e	Might of Stormwind
+BGS_Treasures_009	Gruul Rules
+BGS_Treasures_009e	Gruul Rules
+BGS_Treasures_010	Time Thief
+BGS_Treasures_011	Training Session
+BGS_Treasures_012	On the House
+BGS_Treasures_013	The Good Stuff
+BGS_Treasures_014	The Unlimited Coin
+BGS_Treasures_014e	Unlimited Coin Return to Hand
+BGS_Treasures_015	Buy the Holy Light
+BGS_Treasures_015e	Bought the Holy Light
+BGS_Treasures_016	Raise the Stakes
+BGS_Treasures_018	I'm Still Just a Rat in a Cage
+BGS_Treasures_018e	Rat in a Cage
+BGS_Treasures_019	B.A.N.A.N.A.S.
+BGS_Treasures_020	Top Shelf
+BGS_Treasures_022	Friends and Family Discount
+BGS_Treasures_022e	Discounted
+BGS_Treasures_022pe	Friends and Family Discount Player Enchant (DNT)
+BGS_Treasures_023	Open Bar
+BGS_Treasures_023pe	Refresh Cost 0
+BGS_Treasures_025	Fresh Tab
+BGS_Treasures_026	The Bouncer
+BGS_Treasures_026e	Bouncy Bouncy
+BGS_Treasures_028	Give a Dog a Bone
+BGS_Treasures_028e	Dog Bone
+BGS_Treasures_029	Rocking and Rolling
+BGS_Treasures_029e	1 Refresh each turn costs 0 [DNT]
+BGS_Treasures_030	Big Brann Play
+BGS_Treasures_030e	Big Brann Play
+BGS_Treasures_032	Big Winner!
+BGS_Treasures_033	New Recruit
+BGS_Treasures_033e	New Recruit Player Enchant (DNT)
+BGS_Treasures_034	Repeat Customer
+BGS_Treasures_037	All That Glitters
+BGS_Treasures_039	Mindflayer Goggles
+BGS_Treasures_040	Banana Bunch
+BGS_Treasures_100	Unfurled Codex
+BGS_Treasures_101	Mageroyal Blossom
+BGS_Treasures_104	Reserve Prices
+BGS_Treasures_104pe	Reserve Prices Player Enchant [DNT]
+BGS_Treasures_106	Gorgeous Goblet
+BGS_Treasures_110	Crystallization
+BG_AT_069	Sparring Partner
+BG_AT_069_G	Sparring Partner
+BG_AV_309	Piggyback Imp
+BG_AV_309_G	Piggyback Imp
+BG_AV_309_Gt	Backpiggy Imp
+BG_AV_309t	Backpiggy Imp
+BG_BOT_312	Replicating Menace
+BG_BOT_312e	Replicating Menace
+BG_BOT_312t	Microbot
+BG_BOT_563	Wargear
+BG_BOT_563_G	Wargear
+BG_BOT_563_Ge	Wargear
+BG_BOT_563e	Wargear
+BG_BOT_606	Kaboom Bot
+BG_BOT_911	Annoy-o-Module
+BG_BOT_9112e	Annoy-o-Module
+BG_BOT_911e	Annoy-o-Module
+BG_BOT_911e2	Annoy-o-Module
+BG_BRM_006	Imp Gang Boss
+BG_BRM_006t	Imp
+BG_BT_703t	Cursed Shadow
+BG_CFM_315	Alleycat
+BG_CFM_315t	Tabbycat
+BG_CFM_316	Rat Pack
+BG_CFM_316t	Rat
+BG_CS2_065	Voidwalker
+BG_CS2_200	Boulderfist Ogre
+BG_CS2_200_G	Boulderfist Ogre
+BG_Combat_Tracker	Battlegrounds Combat Tracker
+BG_Consumed	Consumed
+BG_DAL_077	Toxfin
+BG_DAL_575	Khadgar
+BG_DAL_775	Tunnel Blaster
+BG_DAL_775_G	Tunnel Blaster
+BG_DEEP_015	Prosthetic Hand
+BG_DEEP_015_G	Prosthetic Hand
+BG_DEEP_015_Ge	Prosthetic Hand
+BG_DEEP_015e	Prosthetic Hand
+BG_DMF_533	Ring Matron
+BG_DMF_533t	Fiery Imp
+BG_DRG_235	Dragonrider Talritha
+BG_DRG_235_G	Dragonrider Talritha
+BG_DS1_070	Houndmaster
+BG_EX1_014t	Bananas
+BG_EX1_014te	Bananas
+BG_EX1_059	Crazed Alchemist
+BG_EX1_059e	Crazed Chemistry
+BG_EX1_103	Coldlight Seer
+BG_EX1_103e	Mrghlglhal
+BG_EX1_170	Emperor Cobra
+BG_EX1_170_G	Emperor Cobra
+BG_EX1_507	Murloc Warleader
+BG_EX1_531	Scavenging Hyena
+BG_EX1_531e	Well Fed
+BG_EX1_534	Savannah Highmane
+BG_EX1_534t	Hyena
+BG_EX1_554t	Snake
+BG_EX1_554t_G	Snake
+BG_EX1_556	Harvest Golem
+BG_EX1_556t	Damaged Golem
+BG_EX1_564	Faceless Manipulator
+BG_EX1_564_G	Faceless Manipulator
+BG_FP1_005e	Naxxed Out
+BG_FP1_014t	Thaddius
+BG_FP1_024	Unstable Ghoul
+BG_GIL_655	Festeroot Hulk
+BG_GIL_655e	Grown
+BG_GIL_681	Nightmare Amalgam
+BG_GIL_681_G	Nightmare Amalgam
+BG_GVG_027	Iron Sensei
+BG_GVG_048	Metaltooth Leaper
+BG_GVG_085	Annoy-o-Tron
+BG_GVG_085_G	Annoy-o-Tron
+BG_GVG_100	Floating Watcher
+BG_GVG_100e	Brow Furrow
+BG_GVG_113	Foe Reaper 4000
+BG_ICC_026t	Skeleton
+BG_ICC_026t_G	Skeleton
+BG_ICC_028e	Blessing of the Val'kyr
+BG_ICC_032	Venomancer
+BG_ICC_092	Acherus Veteran
+BG_ICC_092e	Veteran's Favor
+BG_ICC_094	Fallen Sun Cleric
+BG_ICC_094e	Cleric's Blessing
+BG_ICC_099	Ticking Abomination
+BG_ICC_807	Strongshell Scavenger
+BG_KAR_005	Kindly Grandmother
+BG_KAR_005a	Big Bad Wolf
+BG_LOE_012	Tomb Pillager
+BG_LOE_077	Brann Bronzebeard
+BG_LOOT_078	Cave Hydra
+BG_LOOT_368	Voidlord
+BG_NEW1_027	Southsea Captain
+BG_NX2_050	Mistake
+BG_NX2_050_G	Mistake
+BG_OG_044	Fandral Staghelm
+BG_OG_044_G	Fandral Staghelm
+BG_OG_145	Psych-o-Tron
+BG_OG_145_G	Psych-o-Tron
+BG_OG_221	Selfless Hero
+BG_OG_221e	Saved
+BG_OG_256	Spawn of N'Zoth
+BG_RLK_824e	Undead Fortitude
+BG_RLK_833t	Foul Fowl
+BG_RLK_833t_G	Foul Fowl
+BG_RLK_957	Wailing Banshee
+BG_RLK_958	Skeletal Sidekick
+BG_RLK_958e	Thrown a Bone
+BG_SCH_149	Argent Braggart
+BG_SCH_149e	Best of the Best
+BG_ShopBuff	Shop Buff Player Enchant (DNT)
+BG_ShopBuff_Beast	Beast Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Beast_Ench	Beast Tavern Buffed
+BG_ShopBuff_Demon	Demon Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Demon_Ench	Demon Tavern Buffed
+BG_ShopBuff_Dragon	Dragon Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Dragon_Ench	Dragon Tavern Buffed
+BG_ShopBuff_Elemental	Elemental Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Elemental_Ench	Elemental Tavern Buffed
+BG_ShopBuff_Ench	Tavern Buffed
+BG_ShopBuff_Mech	Mech Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Mech_Ench	Mech Tavern Buffed
+BG_ShopBuff_MultiRace	MultiRace Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_MultiRace_Ench	Tavern Buffed
+BG_ShopBuff_Murloc	Murloc Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Murloc_Ench	Murloc Tavern Buffed
+BG_ShopBuff_Naga	Naga Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Naga_Ench	Naga Tavern Buffed
+BG_ShopBuff_Pirate	Pirate Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Pirate_Ench	Pirate Tavern Buffed
+BG_ShopBuff_Quilboar	Quilboar Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Quilboar_Ench	Quilboar Tavern Buffed
+BG_ShopBuff_Undead	Undead Shop Buff Player Enchantment (DNT)
+BG_ShopBuff_Undead_Ench	Undead Tavern Buffed
+BG_TB_006	Big Banana
+BG_TB_006e	Big Banana
+BG_TSC_069	Amalgam of the Deep
+BG_TSC_069_G	Amalgam of the Deep
+BG_TTN_401	Ancestral Automaton
+BG_TTN_401_G	Ancestral Automaton
+BG_TTN_401e	Ancestral Technology
+BG_TTN_401pe	Ancestral Automaton Player Enchant [DNT]
+BG_TTN_732	Invent-o-matic
+BG_TTN_732_G	Invent-o-matic
+BG_ULD_205	Candletaker
+BG_ULD_217	Micro Mummy
+BG_ULD_217e	Microwrapped
+BG_ULD_275	Bone Wraith
+BG_UNG_073	Rockpool Hunter
+TB_BaconShopBadsongE	Costs 0
+TB_BaconShopBob	Bartender Bob
+TB_BaconShopBob_SKIN_A	Ragnaros, Tikilord
+TB_BaconShopBob_SKIN_AA	Paparazzo Gro'kan
+TB_BaconShopBob_SKIN_AB	Soulciologist Malicia
+TB_BaconShopBob_SKIN_AC	Lillian Singh
+TB_BaconShopBob_SKIN_AD	Bartender Roberta
+TB_BaconShopBob_SKIN_AE	Announcer Gimblo
+TB_BaconShopBob_SKIN_AF	Lone Ranger Reno
+TB_BaconShopBob_SKIN_AG	Sparkle
+TB_BaconShopBob_SKIN_AH	Anniversary Zephrys
+TB_BaconShopBob_SKIN_AI	Kalecgos
+TB_BaconShopBob_SKIN_AJ	Narrator Hartly
+TB_BaconShopBob_SKIN_AK	Bulldog Bob
+TB_BaconShopBob_SKIN_AL	Griftah
+TB_BaconShopBob_SKIN_AM	Archimonde
+TB_BaconShopBob_SKIN_AN	Zeratul
+TB_BaconShopBob_SKIN_AO	Winter Queen
+TB_BaconShopBob_SKIN_AP	Magni Bronzebeard
+TB_BaconShopBob_SKIN_AQ	Alleria
+TB_BaconShopBob_SKIN_AR	Xal'atath
+TB_BaconShopBob_SKIN_B	Ve'nari
+TB_BaconShopBob_SKIN_BD	Murozond
+TB_BaconShopBob_SKIN_BH	Cho'gall
+TB_BaconShopBob_SKIN_BJ	Chi Hu Wrathion
+TB_BaconShopBob_SKIN_C	Dragonspeaker Bob
+TB_BaconShopBob_SKIN_D	Fizzy
+TB_BaconShopBob_SKIN_E	Mega Bob
+TB_BaconShopBob_SKIN_F	Gala Medivh
+TB_BaconShopBob_SKIN_G	Pirate Bob
+TB_BaconShopBob_SKIN_H	Flightmaster Dungar
+TB_BaconShopBob_SKIN_I	Alterac Bob
+TB_BaconShopBob_SKIN_J	Bartendotron
+TB_BaconShopBob_SKIN_K	Greatfather Boom
+TB_BaconShopBob_SKIN_L	Elder Starsong
+TB_BaconShopBob_SKIN_M	Algalon
+TB_BaconShopBob_SKIN_N	Headmaster Kel'thuzad
+TB_BaconShopBob_SKIN_N1	Neptulon
+TB_BaconShopBob_SKIN_O	Harth Stonebrew
+TB_BaconShopBob_SKIN_P2	Wrathion
+TB_BaconShopBob_SKIN_Q3	Butler Dribble
+TB_BaconShopBob_SKIN_R4	Tuxedo Bob
+TB_BaconShopBob_SKIN_S	Chef Nomi
+TB_BaconShopBob_SKIN_U	Murloc Bob
+TB_BaconShopBob_SKIN_V	Headless Horseman
+TB_BaconShopBob_SKIN_W	Macey Jinglepocket
+TB_BaconShopBob_SKIN_X	Lady Deathwhisper
+TB_BaconShopBob_SKIN_Y	Scorekeeper Bob
+TB_BaconShopBob_SKIN_Z	Radnar Shredaxe
+TB_BaconShopBob_TWT	Nozdormu
+TB_BaconShopLockAll_Button	Freeze
+TB_BaconShopTechUp02_Button	Tavern Tier 2
+TB_BaconShopTechUp03_Button	Tavern Tier 3
+TB_BaconShopTechUp04_Button	Tavern Tier 4
+TB_BaconShopTechUp05_Button	Tavern Tier 5
+TB_BaconShopTechUp06_Button	Tavern Tier 6
+TB_BaconShopTechUp07_Button	Tavern Tier 7
+TB_BaconShop_1P_PlayerE	BaconShop1PlayerEnchant
+TB_BaconShop_1p_Reroll_Button	Refresh
+TB_BaconShop_3ofKindChecke	3ofKindCheckPlayerEnchant
+TB_BaconShop_8P_PlayerE	BaconShop8PlayerEnchant
+TB_BaconShop_8p_Reroll_Button	Refresh
+TB_BaconShop_CheckTriples	Check Triples
+TB_BaconShop_DragBuy	Drag To Buy
+TB_BaconShop_DragBuy_Spell	Drag To Buy Spell
+TB_BaconShop_DragSell	Drag To Sell
+TB_BaconShop_FXWatcher	Leaderboard FX Watcher [DNT]
+TB_BaconShop_HERO_01	Edwin VanCleef
+TB_BaconShop_HERO_01_Buddy	SI:7 Scout
+TB_BaconShop_HERO_01_Buddy_G	SI:7 Scout
+TB_BaconShop_HERO_01_Buddy_e	Scouting
+TB_BaconShop_HERO_01_SKIN_A	Kingpin Edwin
+TB_BaconShop_HERO_01_SKIN_B	Edwin, the Dashing Scoundrel
+TB_BaconShop_HERO_01_SKIN_C	Edwin VanReef
+TB_BaconShop_HERO_01_SKIN_D	Enchanting Edwin
+TB_BaconShop_HERO_01_SKIN_E	Edwin the Fox
+TB_BaconShop_HERO_01_SKIN_F	Royal Edwin
+TB_BaconShop_HERO_01_SKIN_G	Time Heist Edwin
+TB_BaconShop_HERO_02	Galakrond
+TB_BaconShop_HERO_02_Buddy	Apostle of Galakrond
+TB_BaconShop_HERO_02_Buddy_G	Apostle of Galakrond
+TB_BaconShop_HERO_02_SKIN_A	Deep Sea Galakrond
+TB_BaconShop_HERO_02_SKIN_B	Rune Raised Galakrond
+TB_BaconShop_HERO_02_SKIN_C	Galakrond, Proto-Murloc
+TB_BaconShop_HERO_02_SKIN_D	"Neltharion" Galakrond
+TB_BaconShop_HERO_02_SKIN_E	Fel Mutant Galakrond
+TB_BaconShop_HERO_02_SKIN_F	End Time Galakrond
+TB_BaconShop_HERO_08	Illidan Stormrage
+TB_BaconShop_HERO_08_Buddy	Eclipsion Illidari
+TB_BaconShop_HERO_08_Buddy_G	Eclipsion Illidari
+TB_BaconShop_HERO_08_Buddy_e	Darkened Heart
+TB_BaconShop_HERO_08_SKIN_A	The Horned Devil
+TB_BaconShop_HERO_08_SKIN_B	Illidan of the Second Sight
+TB_BaconShop_HERO_08_SKIN_C	Maldraxxus Illidan
+TB_BaconShop_HERO_08_SKIN_D	Dragon Hunter Illidan
+TB_BaconShop_HERO_10	Trade Prince Gallywix
+TB_BaconShop_HERO_102_SKIN_F	Murloc Lord Saurfang
+TB_BaconShop_HERO_102_SKIN_G	Gladiator Saurfang
+TB_BaconShop_HERO_102_SKIN_H	Turtle Saurfang
+TB_BaconShop_HERO_103_SKIN_D	Hong Bao Blackthorn
+TB_BaconShop_HERO_103_SKIN_E	Balloon Blackthorn
+TB_BaconShop_HERO_10_Buddy	Bilgewater Mogul
+TB_BaconShop_HERO_10_Buddy_G	Bilgewater Mogul
+TB_BaconShop_HERO_10_SKIN_A	Moneyhogger Gallywix
+TB_BaconShop_HERO_10_SKIN_B	Dong Zhuo Gallywix
+TB_BaconShop_HERO_10_SKIN_C	Party Prince Gallywix
+TB_BaconShop_HERO_10_SKIN_D	Gifting Gallywix
+TB_BaconShop_HERO_10_SKIN_E	Gallywix Frog
+TB_BaconShop_HERO_10_SKIN_F	Darkfuse Gallywix
+TB_BaconShop_HERO_10_Tutorial	Trade Prince Gallywix
+TB_BaconShop_HERO_11	Ragnaros the Firelord
+TB_BaconShop_HERO_11_Buddy	Lucifron
+TB_BaconShop_HERO_11_Buddy_G	Lucifron
+TB_BaconShop_HERO_11_Buddy_G_e	Dark Magics
+TB_BaconShop_HERO_11_Buddy_e	Dark Magics
+TB_BaconShop_HERO_11_SKIN_A	Flamewarden Ragnaros
+TB_BaconShop_HERO_11_SKIN_B	Infernojet Ragnaros
+TB_BaconShop_HERO_11_SKIN_C	Abyssal Volcano Ragnaros
+TB_BaconShop_HERO_11_SKIN_D	The Wood-Fired Lord
+TB_BaconShop_HERO_11_SKIN_E	Nian Shou Ragnaros
+TB_BaconShop_HERO_11_SKIN_F	Ski Ragnaros
+TB_BaconShop_HERO_11_Tutorial	Ragnaros the Firelord
+TB_BaconShop_HERO_12	The Rat King
+TB_BaconShop_HERO_12_Buddy	Pigeon Lord
+TB_BaconShop_HERO_12_Buddy_G	Pigeon Lord
+TB_BaconShop_HERO_12_SKIN_A	The Martial Rat
+TB_BaconShop_HERO_12_SKIN_B	The Rat Prince
+TB_BaconShop_HERO_12_SKIN_C	Nutcracker King
+TB_BaconShop_HERO_12_SKIN_D	"Galewing" Rat King
+TB_BaconShop_HERO_12_SKIN_E	Piper King
+TB_BaconShop_HERO_12_SKIN_F	The Vile King
+TB_BaconShop_HERO_12_SKIN_G	The Wild King
+TB_BaconShop_HERO_12_SKIN_H	Infinite Rat King
+TB_BaconShop_HERO_14	Queen Wagtoggle
+TB_BaconShop_HERO_14_Buddy	Elder Taggawag
+TB_BaconShop_HERO_14_Buddy_G	Elder Taggawag
+TB_BaconShop_HERO_14_Buddye	Strength of the Elders
+TB_BaconShop_HERO_14_SKIN_A	Amalgamech Wagtoggle
+TB_BaconShop_HERO_14_SKIN_B	Princess Wagtoggle
+TB_BaconShop_HERO_14_SKIN_C	Queen Mrrglrrggle
+TB_BaconShop_HERO_14_SKIN_D	Dalaran Wagtoggle
+TB_BaconShop_HERO_14_SKIN_E	Dragonqueen Wagtoggle
+TB_BaconShop_HERO_14_Tutorial	Queen Wagtoggle
+TB_BaconShop_HERO_15	George the Fallen
+TB_BaconShop_HERO_15_Buddy	Karl the Lost
+TB_BaconShop_HERO_15_Buddy_G	Karl the Lost
+TB_BaconShop_HERO_15_Buddy_e	Lost and Found
+TB_BaconShop_HERO_15_SKIN_A	George the Ascended
+TB_BaconShop_HERO_15_SKIN_B	Light of the Naaru
+TB_BaconShop_HERO_15_SKIN_C	Battle Healer George
+TB_BaconShop_HERO_15_SKIN_D	George the Lightbringer
+TB_BaconShop_HERO_15_SKIN_E	George the Sunken
+TB_BaconShop_HERO_15_SKIN_F4	George the Fated
+TB_BaconShop_HERO_16	A. F. Kay
+TB_BaconShop_HERO_16_Buddy	Snack Vendor
+TB_BaconShop_HERO_16_Buddy_G	Snack Vendor
+TB_BaconShop_HERO_16_Buddy_e	Snack-Filled
+TB_BaconShop_HERO_16_SKIN_A	Sunlounger A. F. Kay
+TB_BaconShop_HERO_16_SKIN_B	A. F. Kay, the Tempest
+TB_BaconShop_HERO_16_SKIN_C4	AF Kitsune
+TB_BaconShop_HERO_16_SKIN_D	Off-Duty A. F. Kay
+TB_BaconShop_HERO_16_SKIN_E	Benchwarmer A. F. Kay
+TB_BaconShop_HERO_16_SKIN_F	Study Kay
+TB_BaconShop_HERO_16_SKIN_G	Spectator A. F. Kay
+TB_BaconShop_HERO_16_SKIN_H	"Nozdormu" A. F. Kay
+TB_BaconShop_HERO_16_SKIN_I	Ghost A. F. Kay
+TB_BaconShop_HERO_16_SKIN_J	"Murozond" A. F. Kay
+TB_BaconShop_HERO_17	Millificent Manastorm
+TB_BaconShop_HERO_17_Buddy	Elementium Squirrel Bomb
+TB_BaconShop_HERO_17_Buddy_G	Elementium Squirrel Bomb
+TB_BaconShop_HERO_17_SKIN_A	Missileshot
+TB_BaconShop_HERO_17_SKIN_B	Chauffeur Millificent
+TB_BaconShop_HERO_17_SKIN_C	Millificent Mrrglstorm
+TB_BaconShop_HERO_17_SKIN_D	Millificent the Marionette
+TB_BaconShop_HERO_17_SKIN_E	Millificent Mechastorm
+TB_BaconShop_HERO_17_SKIN_F	Timewalker Millificent
+TB_BaconShop_HERO_18	Patches the Pirate
+TB_BaconShop_HERO_18_Buddy	Tuskarr Raider
+TB_BaconShop_HERO_18_Buddy_G	Tuskarr Raider
+TB_BaconShop_HERO_18_SKIN_A	Salteye Patches
+TB_BaconShop_HERO_18_SKIN_B	Patches the Octopus
+TB_BaconShop_HERO_18_SKIN_C2	Patches the Pyrotechnician
+TB_BaconShop_HERO_18_SKIN_D	Pasta the Pirate
+TB_BaconShop_HERO_18_SKIN_E	Dead Hand Patches
+TB_BaconShop_HERO_19	Giantfin
+TB_BaconShop_HERO_201_SKIN_D	Vol'fin
+TB_BaconShop_HERO_201_SKIN_F	Elekk Vol'jin
+TB_BaconShop_HERO_21	The Great Akazamzarak
+TB_BaconShop_HERO_21_Buddy	Street Magician
+TB_BaconShop_HERO_21_Buddy_G	Street Magician
+TB_BaconShop_HERO_21_SKIN_A	Crashin' Thrashin' Akazamzarak
+TB_BaconShop_HERO_21_SKIN_B2	Grand Entertainer Akazamzarak
+TB_BaconShop_HERO_21_SKIN_C	Firecracker Akazamzarak
+TB_BaconShop_HERO_21_SKIN_D	Akazamzarak the Dragon Mage
+TB_BaconShop_HERO_22	The Lich King
+TB_BaconShop_HERO_22_Buddy	Arfus
+TB_BaconShop_HERO_22_Buddy_G	Arfus
+TB_BaconShop_HERO_22_Buddye	Doggoned It!
+TB_BaconShop_HERO_22_SKIN_A	Grill King Bolvar
+TB_BaconShop_HERO_22_SKIN_B	Invincible Lich King
+TB_BaconShop_HERO_22_SKIN_C	Lü Bu Arthas
+TB_BaconShop_HERO_22_SKIN_D	Greatfather Lich King
+TB_BaconShop_HERO_22_SKIN_E	The Scourgewar King
+TB_BaconShop_HERO_22_SKIN_F	The Future King
+TB_BaconShop_HERO_22_SKIN_G	Once and Future Lich King
+TB_BaconShop_HERO_22_Tutorial	The Lich King
+TB_BaconShop_HERO_23	Shudderwock
+TB_BaconShop_HERO_23_Buddy	Muckslinger
+TB_BaconShop_HERO_23_Buddy_G	Muckslinger
+TB_BaconShop_HERO_23_SKIN_A	Gentleman Shudderwock
+TB_BaconShop_HERO_23_SKIN_B	Shuddurloc
+TB_BaconShop_HERO_23_SKIN_C	Skellywock
+TB_BaconShop_HERO_23_SKIN_D	Storybook Shudderwock
+TB_BaconShop_HERO_23_SKIN_E	Hydra Shudderwock
+TB_BaconShop_HERO_23_SKIN_F	Starrywock
+TB_BaconShop_HERO_25	Lich Baz'hial
+TB_BaconShop_HERO_25_Buddy	Unearthed Underling
+TB_BaconShop_HERO_25_Buddy_G	Unearthed Underling
+TB_BaconShop_HERO_25_Buddy_e	Recovery
+TB_BaconShop_HERO_25_SKIN_A	Margrave Baz'hial
+TB_BaconShop_HERO_25_SKIN_B	Baz'hial, Unlife of the Party
+TB_BaconShop_HERO_25_SKIN_C4	Spellbound Baz'hial
+TB_BaconShop_HERO_25_SKIN_D	Icebinder Baz'hial
+TB_BaconShop_HERO_25_SKIN_E	Malevolent Baz'hial
+TB_BaconShop_HERO_25_SKIN_F	Time Travel Baz'hial
+TB_BaconShop_HERO_27	Sindragosa
+TB_BaconShop_HERO_27_Buddy	Thawed Champion
+TB_BaconShop_HERO_27_Buddy_G	Thawed Champion
+TB_BaconShop_HERO_27_SKIN_A	Sindragosa the Blue
+TB_BaconShop_HERO_27_SKIN_B	Spring Love Sindragosa
+TB_BaconShop_HERO_27_SKIN_C	Sindragosa of the Scourge
+TB_BaconShop_HERO_27_SKIN_D	Crystalsong Sindragosa
+TB_BaconShop_HERO_27_SKIN_E	Sindragosa the Restored
+TB_BaconShop_HERO_27_Tutorial	Sindragosa
+TB_BaconShop_HERO_28	Infinite Toki
+TB_BaconShop_HERO_28_Buddy	Clockwork Assistant
+TB_BaconShop_HERO_28_Buddy_G	Clockwork Assistant
+TB_BaconShop_HERO_28_SKIN_A	Toki the Clown
+TB_BaconShop_HERO_28_SKIN_B	Toki, Wings of the Infinite
+TB_BaconShop_HERO_28_SKIN_C4	Spellwinder Toki
+TB_BaconShop_HERO_28_SKIN_D	Tinker Town Toki
+TB_BaconShop_HERO_28_SKIN_E	Droid Toki
+TB_BaconShop_HERO_28_SKIN_F	Dragonfriend Toki
+TB_BaconShop_HERO_28_SKIN_L	Apocalypse Toki
+TB_BaconShop_HERO_29	C'Thun
+TB_BaconShop_HERO_29_Buddy	Tentacle of C'Thun
+TB_BaconShop_HERO_29_Buddy_G	Tentacle of C'Thun
+TB_BaconShop_HERO_29_Buddy_e	All Eyes On Me
+TB_BaconShop_HERO_29_SKIN_A	Cute'Thun
+TB_BaconShop_HERO_29_SKIN_B	Mecha'thun
+TB_BaconShop_HERO_29_SKIN_C	C'Thun, God of Aspics
+TB_BaconShop_HERO_29_SKIN_D	Globe of Chaos
+TB_BaconShop_HERO_29_SKIN_E	C'Thun Over Ahn'Qiraj
+TB_BaconShop_HERO_29_SKIN_F	Sunburned C'Thun
+TB_BaconShop_HERO_30	Nefarian
+TB_BaconShop_HERO_30_Tutorial	Nefarian
+TB_BaconShop_HERO_31	Bartendotron
+TB_BaconShop_HERO_33	The Curator
+TB_BaconShop_HERO_33_Buddy	Mishmash
+TB_BaconShop_HERO_33_Buddy_G	Mishmash
+TB_BaconShop_HERO_33_Buddy_e	Amalfam
+TB_BaconShop_HERO_33_SKIN_A	Cuddly Curator
+TB_BaconShop_HERO_33_SKIN_B	Curator, Abyssal Guardian
+TB_BaconShop_HERO_33_SKIN_D	Yeti Curator
+TB_BaconShop_HERO_33_SKIN_E	Catalogue Curator
+TB_BaconShop_HERO_33_SKIN_F	Golem Curator
+TB_BaconShop_HERO_33_SKIN_G	Immortal Curator
+TB_BaconShop_HERO_34	Patchwerk
+TB_BaconShop_HERO_34_Buddy	Weebomination
+TB_BaconShop_HERO_34_Buddy_G	Weebomination
+TB_BaconShop_HERO_34_Buddy_e	Patched Up
+TB_BaconShop_HERO_34_SKIN_A	Necrolord Patchwerk
+TB_BaconShop_HERO_34_SKIN_B	Gluthrider Patchwerk
+TB_BaconShop_HERO_34_SKIN_C	Plushwerk
+TB_BaconShop_HERO_34_SKIN_D	Humpty Patchwerk
+TB_BaconShop_HERO_34_SKIN_E	Shark Patchwerk
+TB_BaconShop_HERO_35	Yogg-Saron, Hope's End
+TB_BaconShop_HERO_35_Buddy	Acolyte of Yogg-Saron
+TB_BaconShop_HERO_35_Buddy_G	Acolyte of Yogg-Saron
+TB_BaconShop_HERO_35_Buddy_t1	Mysterybox
+TB_BaconShop_HERO_35_Buddy_t1e	Mysterybox
+TB_BaconShop_HERO_35_Buddy_t2	Hand of Fate
+TB_BaconShop_HERO_35_Buddy_t3	Curse of Flesh
+TB_BaconShop_HERO_35_Buddy_t3e	Fleshy
+TB_BaconShop_HERO_35_Buddy_t5	Devouring Hunger
+TB_BaconShop_HERO_35_Buddy_t6	Rod of Roasting
+TB_BaconShop_HERO_35_Buddy_t6e	Pyrobuffed
+TB_BaconShop_HERO_35_Buddy_t7	Mysterybox
+TB_BaconShop_HERO_35_Buddy_t8	Mindflayer Goggles
+TB_BaconShop_HERO_35_Buddy_t82	Mindflayer Goggles Player Enchant (DNT)
+TB_BaconShop_HERO_35_Buddy_t8e	Mindflayed
+TB_BaconShop_HERO_35_SKIN_A	Soggy Yoggy
+TB_BaconShop_HERO_35_SKIN_B	Yogg-Saron, Devourer of Stars
+TB_BaconShop_HERO_35_SKIN_C	Yogg-Saron, Punch Guardian
+TB_BaconShop_HERO_35_SKIN_D	Yogg-Ramen
+TB_BaconShop_HERO_35_SKIN_E	Yogg-Saron, Imprisoned
+TB_BaconShop_HERO_35_Tutorial	Yogg-Saron, Hope's End
+TB_BaconShop_HERO_36	Dancin' Deryl
+TB_BaconShop_HERO_36_Buddy	Asher the Haberdasher
+TB_BaconShop_HERO_36_Buddy_G	Asher the Haberdasher
+TB_BaconShop_HERO_36_Buddy_e	Dashing Hat
+TB_BaconShop_HERO_36_SKIN_A	The Invisible Murloc
+TB_BaconShop_HERO_36_SKIN_B	Prom King Deryl
+TB_BaconShop_HERO_36_SKIN_B1	Divin' Deryl
+TB_BaconShop_HERO_36_SKIN_C2	Firedancin’ Deryl
+TB_BaconShop_HERO_36_SKIN_E	Delivery Deryl
+TB_BaconShop_HERO_36_SKIN_F	Sideshow Deryl
+TB_BaconShop_HERO_36_SKIN_G	"Lich King" Deryl
+TB_BaconShop_HERO_37	Lord Jaraxxus
+TB_BaconShop_HERO_37_Buddy	Kil'rek
+TB_BaconShop_HERO_37_Buddy_G	Kil'rek
+TB_BaconShop_HERO_37_SKIN_A	Shado-pan Jaraxxus
+TB_BaconShop_HERO_37_SKIN_B	Malefic Jaraxxus
+TB_BaconShop_HERO_37_SKIN_C	Icelord Jaraxxus
+TB_BaconShop_HERO_37_SKIN_D	Oni Jaraxxus
+TB_BaconShop_HERO_37_SKIN_E	Tal'darim Jaraxxus
+TB_BaconShop_HERO_37_Tutorial	Lord Jaraxxus
+TB_BaconShop_HERO_38	King Mukla
+TB_BaconShop_HERO_38_Buddy	Crazy Monkey
+TB_BaconShop_HERO_38_Buddy_G	Crazy Monkey
+TB_BaconShop_HERO_38_SKIN_A	Banana Man Mukla
+TB_BaconShop_HERO_38_SKIN_B	Party Animal Mukla
+TB_BaconShop_HERO_38_SKIN_C	King Mrrkla
+TB_BaconShop_HERO_38_SKIN_D	Mister Mukla
+TB_BaconShop_HERO_38_SKIN_E	Boomfist Mukla
+TB_BaconShop_HERO_39	Pyramad
+TB_BaconShop_HERO_39_Buddy	Titanic Guardian
+TB_BaconShop_HERO_39_Buddy_G	Titanic Guardian
+TB_BaconShop_HERO_39_Buddy_e	Fractured, Focused
+TB_BaconShop_HERO_39_SKIN_A	Pyramellow
+TB_BaconShop_HERO_39_SKIN_B	Originator Pyramad
+TB_BaconShop_HERO_39_SKIN_C	Disco Pyramad
+TB_BaconShop_HERO_39_SKIN_D	Food Pyramad
+TB_BaconShop_HERO_39_SKIN_E	Pyramplifier
+TB_BaconShop_HERO_39_SKIN_F	Pyramasmius
+TB_BaconShop_HERO_40	Sir Finley Mrrgglton
+TB_BaconShop_HERO_40_Buddy	Maxwell, Mighty Steed
+TB_BaconShop_HERO_40_Buddy_G	Maxwell, Mighty Steed
+TB_BaconShop_HERO_40_SKIN_A	Finley of the Kyrian
+TB_BaconShop_HERO_40_SKIN_B	Fintastic Finley
+TB_BaconShop_HERO_40_SKIN_C	Finley & Metzen
+TB_BaconShop_HERO_40_SKIN_D	Sea Guide Finley
+TB_BaconShop_HERO_40_SKIN_E2	Flame Tamer Finley
+TB_BaconShop_HERO_40_SKIN_F	Specialist Finley
+TB_BaconShop_HERO_41	Reno Jackson
+TB_BaconShop_HERO_41_Buddy	Sr. Tomb Diver
+TB_BaconShop_HERO_41_Buddy_G	Sr. Tomb Diver
+TB_BaconShop_HERO_41_SKIN_A	Renogos
+TB_BaconShop_HERO_41_SKIN_B	Reno-man
+TB_BaconShop_HERO_41_SKIN_C	Tower-toppler Reno
+TB_BaconShop_HERO_41_SKIN_D	Grand Entrance Reno
+TB_BaconShop_HERO_41_SKIN_E	Adventure Beauty Reno
+TB_BaconShop_HERO_41_SKIN_F	Scrapper Reno
+TB_BaconShop_HERO_42	Elise Starseeker
+TB_BaconShop_HERO_42_Buddy	Jr. Navigator
+TB_BaconShop_HERO_42_Buddy_G	Jr. Navigator
+TB_BaconShop_HERO_42_Buddy_G_e	In The Distance
+TB_BaconShop_HERO_42_Buddy_e	In The Distance
+TB_BaconShop_HERO_42_SKIN_A	Starseeker
+TB_BaconShop_HERO_42_SKIN_B	Da Qiao Elise
+TB_BaconShop_HERO_42_SKIN_C	Nightsong Elise
+TB_BaconShop_HERO_42_SKIN_D	Magic Guardian Elise
+TB_BaconShop_HERO_42_SKIN_E	Snorkeler Elise
+TB_BaconShop_HERO_43	Dinotamer Brann
+TB_BaconShop_HERO_43_Buddy	Brann's Epic Egg
+TB_BaconShop_HERO_43_Buddy_G	Brann's Epic Egg
+TB_BaconShop_HERO_43_SKIN_A	Orgrimmar Grunt Brann
+TB_BaconShop_HERO_43_SKIN_B	Yetitamer Brann
+TB_BaconShop_HERO_43_SKIN_C	Gronnstalker Brann
+TB_BaconShop_HERO_43_SKIN_D	Brann Bronzegill
+TB_BaconShop_HERO_43_SKIN_E2	Flame Whip Brann
+TB_BaconShop_HERO_43_SKIN_F	Brawlin' Brann
+TB_BaconShop_HERO_43_SKIN_G	Liontamer Brann
+TB_BaconShop_HERO_43_SKIN_H	Delve Explorer Brann
+TB_BaconShop_HERO_43_SKIN_N	Timewalker Brann
+TB_BaconShop_HERO_44_SKIN_A	Ivory Queen Sylvanas
+TB_BaconShop_HERO_44_SKIN_B	Dart Huntress Sylvanas
+TB_BaconShop_HERO_44_SKIN_C	Sylvanas Breezerunner
+TB_BaconShop_HERO_44_SKIN_D	Moonwell Sylvanas
+TB_BaconShop_HERO_44_SKIN_E	Shadowlands Sylvanas
+TB_BaconShop_HERO_45	Arch-Villain Rafaam
+TB_BaconShop_HERO_45_Buddy	Loyal Henchman
+TB_BaconShop_HERO_45_Buddy_G	Loyal Henchman
+TB_BaconShop_HERO_45_SKIN_A	Rafaam, Supreme Villain
+TB_BaconShop_HERO_45_SKIN_B	Holofist Rafaam
+TB_BaconShop_HERO_45_SKIN_C	Cao Cao Rafaam
+TB_BaconShop_HERO_45_SKIN_D	Arch-Host Rafaam
+TB_BaconShop_HERO_45_SKIN_E	Prime Suspect Rafaam
+TB_BaconShop_HERO_45_SKIN_F	Jailbreak Rafaam
+TB_BaconShop_HERO_47	Tirion Fordring
+TB_BaconShop_HERO_49	Millhouse Manastorm
+TB_BaconShop_HERO_49_Buddy	Magnus Manastorm
+TB_BaconShop_HERO_49_Buddy_G	Magnus Manastorm
+TB_BaconShop_HERO_49_SKIN_A	Pyrospike Millhouse
+TB_BaconShop_HERO_49_SKIN_B	The Brute
+TB_BaconShop_HERO_49_SKIN_C	Prism Disc Millhouse
+TB_BaconShop_HERO_49_SKIN_D	Millhouse Mrrglstorm
+TB_BaconShop_HERO_49_SKIN_E	Scourgestorm Millhouse
+TB_BaconShop_HERO_49_SKIN_F	DJ Manastorm
+TB_BaconShop_HERO_50	Tess Greymane
+TB_BaconShop_HERO_50_Buddy	Hunter of Old
+TB_BaconShop_HERO_50_Buddy_G	Hunter of Old
+TB_BaconShop_HERO_50_SKIN_A	Venthyr Tess
+TB_BaconShop_HERO_50_SKIN_B	Tess, Stormpike Assassin
+TB_BaconShop_HERO_50_SKIN_C	Riddling Tempest Tess
+TB_BaconShop_HERO_50_SKIN_D	Princess Tess
+TB_BaconShop_HERO_50_SKIN_D4	Sorceress Greymane
+TB_BaconShop_HERO_50_SKIN_E	Veil Savior Tess
+TB_BaconShop_HERO_50_SKIN_F	Fanfic Tess
+TB_BaconShop_HERO_50_SKIN_G	Beast Tess
+TB_BaconShop_HERO_50_SKIN_H	Shivara Tess
+TB_BaconShop_HERO_52	Deathwing
+TB_BaconShop_HERO_52_Buddy	Sinestra
+TB_BaconShop_HERO_52_Buddy_G	Sinestra
+TB_BaconShop_HERO_52_Buddy_e	Draconic Blessing
+TB_BaconShop_HERO_52_SKIN_A	Deathwing the Black
+TB_BaconShop_HERO_52_SKIN_B2	Fire Breather Deathwing
+TB_BaconShop_HERO_52_SKIN_C	Deathwing, Risen
+TB_BaconShop_HERO_52_SKIN_D	Jailer Deathwing
+TB_BaconShop_HERO_52_SKIN_E	Deathwing the Dreamer
+TB_BaconShop_HERO_52_SKIN_F	Neltharion the Earth-Warder
+TB_BaconShop_HERO_53	Ysera
+TB_BaconShop_HERO_53_Buddy	Valithria Dreamwalker
+TB_BaconShop_HERO_53_Buddy_G	Valithria Dreamwalker
+TB_BaconShop_HERO_53_Buddye	Sweet Dreams
+TB_BaconShop_HERO_53_SKIN_A	Ysera of the Night Fae
+TB_BaconShop_HERO_53_SKIN_B	Ysera the Green
+TB_BaconShop_HERO_53_SKIN_C	Ysera, Embraced by Elune
+TB_BaconShop_HERO_53_SKIN_D	Entrancing Ysera
+TB_BaconShop_HERO_53_SKIN_E	Sleeping Ysera
+TB_BaconShop_HERO_53_SKIN_F	Ardenweald Ysera
+TB_BaconShop_HERO_55	Fungalmancer Flurgl
+TB_BaconShop_HERO_55_Buddy	Sparkfin Soothsayer
+TB_BaconShop_HERO_55_Buddy_G	Sparkfin Soothsayer
+TB_BaconShop_HERO_55_SKIN_A	Pyroloc
+TB_BaconShop_HERO_55_SKIN_B	Horsemaster Flurgl
+TB_BaconShop_HERO_55_SKIN_C	Flowmancer Flurgl
+TB_BaconShop_HERO_55_SKIN_D	Glutton Flurgl
+TB_BaconShop_HERO_55_SKIN_E	Zergl Flurgl
+TB_BaconShop_HERO_56	Alexstrasza
+TB_BaconShop_HERO_56_Buddy	Vaelastrasz
+TB_BaconShop_HERO_56_Buddy_G	Vaelastrasz
+TB_BaconShop_HERO_56_SKIN_A	Alexstrasza the Red
+TB_BaconShop_HERO_56_SKIN_B	Alexstrasza, Sea Dragon Queen
+TB_BaconShop_HERO_56_SKIN_C	Showstopper Alexstrasza
+TB_BaconShop_HERO_56_SKIN_D	Alexstrasza, Life's Flame
+TB_BaconShop_HERO_56_SKIN_E	Candlelight Alexstrasza
+TB_BaconShop_HERO_56_SKIN_F	Proto-Dragon Alexstrasza
+TB_BaconShop_HERO_57	Nozdormu
+TB_BaconShop_HERO_57_Buddy	Chromie
+TB_BaconShop_HERO_57_Buddy_G	Chromie
+TB_BaconShop_HERO_57_SKIN_A	Nozdormu the Bronze
+TB_BaconShop_HERO_57_SKIN_B	Captive Guest Nozdormu
+TB_BaconShop_HERO_57_SKIN_C4	Nozdormu, Time Warden
+TB_BaconShop_HERO_57_SKIN_D	Quicksand Nozdormu
+TB_BaconShop_HERO_57_SKIN_E	Future Vacation Nozdormu
+TB_BaconShop_HERO_57_SKIN_L	Tavern-Keeper Nozdormu
+TB_BaconShop_HERO_58	Malygos
+TB_BaconShop_HERO_58_Buddy	Nexus Lord
+TB_BaconShop_HERO_58_Buddy_G	Nexus Lord
+TB_BaconShop_HERO_58_SKIN_A	Malygos the Blue
+TB_BaconShop_HERO_58_SKIN_B	Twitterpated Malygos
+TB_BaconShop_HERO_58_SKIN_C4	Dark Flight Malygos
+TB_BaconShop_HERO_58_SKIN_D	Mrrlygos
+TB_BaconShop_HERO_58_SKIN_E	Magister Malygos
+TB_BaconShop_HERO_59	Aranna Starseeker
+TB_BaconShop_HERO_59_Buddy	Sklibb, Demon Hunter
+TB_BaconShop_HERO_59_Buddy_G	Sklibb, Demon Hunter
+TB_BaconShop_HERO_59_SKIN_A	Fury
+TB_BaconShop_HERO_59_SKIN_B	Warpfrenzy Aranna
+TB_BaconShop_HERO_59_SKIN_C	Xiao Qiao Aranna
+TB_BaconShop_HERO_59_SKIN_D	Dance-Off Aranna
+TB_BaconShop_HERO_59_SKIN_E	Secret Destiny Aranna
+TB_BaconShop_HERO_59_SKIN_F2	Fire Spinner Aranna
+TB_BaconShop_HERO_59_SKIN_F2t	Fire Spinner Aranna (Unleashed)
+TB_BaconShop_HERO_59t	Aranna, Unleashed
+TB_BaconShop_HERO_59t_SKIN_A	Fury, Unleashed
+TB_BaconShop_HERO_59t_SKIN_B	Warpfrenzy Aranna, Unleashed
+TB_BaconShop_HERO_59t_SKIN_Ct	Xiao Qiao Aranna, Unleashed
+TB_BaconShop_HERO_59t_SKIN_D	Dance-Off Aranna, Unleashed
+TB_BaconShop_HERO_59t_SKIN_E	Magic Guardian Aranna
+TB_BaconShop_HERO_60	Kael'thas Sunstrider
+TB_BaconShop_HERO_60_Buddy	Crimson Hand Centurion
+TB_BaconShop_HERO_60_Buddy_G	Crimson Hand Centurion
+TB_BaconShop_HERO_60_Buddy_e	Verdant
+TB_BaconShop_HERO_60_SKIN_A	Chained Kael'thas
+TB_BaconShop_HERO_60_SKIN_B	Winterflurry Kael'thas
+TB_BaconShop_HERO_60_SKIN_C2	Phoenix Bringer Kael’thas
+TB_BaconShop_HERO_60_SKIN_D	Savior Kael'thas
+TB_BaconShop_HERO_60_SKIN_E	Surfer Kael'thas
+TB_BaconShop_HERO_60_SKIN_F	Bronze Kael'thas
+TB_BaconShop_HERO_61	Lady Vashj
+TB_BaconShop_HERO_62	Maiev Shadowsong
+TB_BaconShop_HERO_62_Buddy	Shadow Warden
+TB_BaconShop_HERO_62_Buddy_G	Shadow Warden
+TB_BaconShop_HERO_62_Buddy_e	Next Hero Power Goldens
+TB_BaconShop_HERO_62_SKIN_A	Pool Party Maiev
+TB_BaconShop_HERO_62_SKIN_B	The Warden
+TB_BaconShop_HERO_62_SKIN_C	Saberrider Maiev
+TB_BaconShop_HERO_62_SKIN_D	Diao Chan Maiev
+TB_BaconShop_HERO_62_SKIN_E	Trapper Maiev
+TB_BaconShop_HERO_62_SKIN_F	Faerie Maiev
+TB_BaconShop_HERO_64	Captain Eudora
+TB_BaconShop_HERO_64_Buddy	Dagwik Stickytoe
+TB_BaconShop_HERO_64_Buddy_G	Dagwik Stickytoe
+TB_BaconShop_HERO_64_Buddy_e	Gold Abound
+TB_BaconShop_HERO_64_SKIN_A	Blasterfox
+TB_BaconShop_HERO_64_SKIN_B	Snowblast Eudora
+TB_BaconShop_HERO_64_SKIN_C4	Moonlight Familiar Eudora
+TB_BaconShop_HERO_64_SKIN_D	Coach Eudora
+TB_BaconShop_HERO_64_SKIN_E	Smuggler Eudora
+TB_BaconShop_HERO_64_SKIN_F	Space Pirate Eudora
+TB_BaconShop_HERO_67	Captain Hooktusk
+TB_BaconShop_HERO_67_Buddy	Raging Contender
+TB_BaconShop_HERO_67_Buddy_G	Raging Contender
+TB_BaconShop_HERO_67_SKIN_A	Snowball Hooktusk
+TB_BaconShop_HERO_67_SKIN_B	Sharkwrangler Hooktusk
+TB_BaconShop_HERO_67_SKIN_C	Sunken Raider Hooktusk
+TB_BaconShop_HERO_67_SKIN_D	Captain Party-Crasher
+TB_BaconShop_HERO_67_SKIN_E	Confetti Hooktusk
+TB_BaconShop_HERO_68	Skycap'n Kragg
+TB_BaconShop_HERO_68_Buddy	Sharkbait
+TB_BaconShop_HERO_68_Buddy_G	Sharkbait
+TB_BaconShop_HERO_68_SKIN_A	Undercap'n Kragg
+TB_BaconShop_HERO_68_SKIN_B	Skycap’n Mrrg
+TB_BaconShop_HERO_68_SKIN_C	Phoenix-flight Kragg
+TB_BaconShop_HERO_68_SKIN_D	Country Kragg
+TB_BaconShop_HERO_70	Mr. Bigglesworth
+TB_BaconShop_HERO_702	The Jailer
+TB_BaconShop_HERO_702_Buddy	Mawsworn Soulkeeper
+TB_BaconShop_HERO_702_Buddy_G	Mawsworn Soulkeeper
+TB_BaconShop_HERO_702_SKIN_A	Kabal Jailer
+TB_BaconShop_HERO_702_SKIN_B	Old Town Jailer
+TB_BaconShop_HERO_702_SKIN_C	Malevolent Jailer
+TB_BaconShop_HERO_702_SKIN_D	Zovaal
+TB_BaconShop_HERO_702_SKIN_E	Proto-Dragon Zovaal
+TB_BaconShop_HERO_70_Buddy	Lil' K.T.
+TB_BaconShop_HERO_70_Buddy_G	Lil' K.T.
+TB_BaconShop_HERO_70_SKIN_A	Pet Salon Bigglesworth
+TB_BaconShop_HERO_70_SKIN_B	Gifted Bigglesworth
+TB_BaconShop_HERO_70_SKIN_C	Cosmic Bigglesworth
+TB_BaconShop_HERO_70_SKIN_D3	Mr. Jigglesworth
+TB_BaconShop_HERO_70_SKIN_E4	Bigglesworth, Feline Guide
+TB_BaconShop_HERO_70_SKIN_F	Cozy Cat Bigglesworth
+TB_BaconShop_HERO_70_SKIN_G	"Mukla" Bigglesworth
+TB_BaconShop_HERO_70_SKIN_H	Cat Burglar Bigglesworth
+TB_BaconShop_HERO_70_SKIN_I	Mr. Bigglesbot
+TB_BaconShop_HERO_71	Jandice Barov
+TB_BaconShop_HERO_71_Buddy	Jandice's Apprentice
+TB_BaconShop_HERO_71_Buddy_G	Jandice's Apprentice
+TB_BaconShop_HERO_71_Buddy_e	Spinning
+TB_BaconShop_HERO_71_SKIN_A	Mirrorgrin
+TB_BaconShop_HERO_71_SKIN_B	Shadowpanther Jandice
+TB_BaconShop_HERO_71_SKIN_C	Glamorous Jandice
+TB_BaconShop_HERO_71_SKIN_D4	Little Witch Jandice
+TB_BaconShop_HERO_71_SKIN_E	Jandice Murlov
+TB_BaconShop_HERO_71_SKIN_F	Stand-off Jandice
+TB_BaconShop_HERO_71_SKIN_G	Moody Jandice
+TB_BaconShop_HERO_71_SKIN_H	Time Travel Jandice
+TB_BaconShop_HERO_72	Lord Barov
+TB_BaconShop_HERO_72_Buddy	Barov's Apprentice
+TB_BaconShop_HERO_72_Buddy_G	Barov's Apprentice
+TB_BaconShop_HERO_72_SKIN_A	Stouthoof Barov
+TB_BaconShop_HERO_72_SKIN_B	Chaperone Barov
+TB_BaconShop_HERO_72_SKIN_C	Lord Murlov
+TB_BaconShop_HERO_72_SKIN_D	Bookie Barov
+TB_BaconShop_HERO_74	Forest Warden Omu
+TB_BaconShop_HERO_74_Buddy	Evergreen Botani
+TB_BaconShop_HERO_74_Buddy_G	Evergreen Botani
+TB_BaconShop_HERO_74_SKIN_A	Faewarden Omu
+TB_BaconShop_HERO_74_SKIN_B	Pugilist Omu
+TB_BaconShop_HERO_74_SKIN_C	Gingerbread Omu
+TB_BaconShop_HERO_74_SKIN_D	Sapling Omu
+TB_BaconShop_HERO_74_SKIN_D1	Coral Keeper Omu
+TB_BaconShop_HERO_74_SKIN_F	Tirnenn Omu
+TB_BaconShop_HERO_75	Rakanishu
+TB_BaconShop_HERO_75_Buddy	Lantern Tender
+TB_BaconShop_HERO_75_Buddy_G	Lantern Tender
+TB_BaconShop_HERO_75_SKIN_A	Deckwatch Rakanishu
+TB_BaconShop_HERO_75_SKIN_B2	Bonfire Rakanishu
+TB_BaconShop_HERO_75_SKIN_C	Hibachi Rakanishu
+TB_BaconShop_HERO_75_SKIN_D	Jack-O-Nishu
+TB_BaconShop_HERO_75_SKIN_E	Sunfed Rakanishu
+TB_BaconShop_HERO_75_SKIN_F	Candle Rakanishu
+TB_BaconShop_HERO_75_SKIN_G	Orgrimmar Rakanishu
+TB_BaconShop_HERO_76	Al'Akir
+TB_BaconShop_HERO_76_Buddy	Spirit of Air
+TB_BaconShop_HERO_76_Buddy_G	Spirit of Air
+TB_BaconShop_HERO_76_Buddy_e	Blessing of Air
+TB_BaconShop_HERO_76_SKIN_A	Mechastorm Al'Akir
+TB_BaconShop_HERO_76_SKIN_B	Al'Akir the Skybreaker
+TB_BaconShop_HERO_76_SKIN_C	Al'Akir the Whirlpool
+TB_BaconShop_HERO_76_SKIN_D	Al'Akir the Sweetlord
+TB_BaconShop_HERO_76_SKIN_E	Bulletstorm Al'Akir
+TB_BaconShop_HERO_78	Chenvaala
+TB_BaconShop_HERO_78_Buddy	Snow Elemental
+TB_BaconShop_HERO_78_Buddy_G	Snow Elemental
+TB_BaconShop_HERO_78_SKIN_A	Volcanic Chenvaala
+TB_BaconShop_HERO_78_SKIN_B	Ice Sculptor Chenvaala
+TB_BaconShop_HERO_78_SKIN_C	Scourgewind Chenvaala
+TB_BaconShop_HERO_78_SKIN_D	Infernal Chenvaala
+TB_BaconShop_HERO_78_SKIN_E	Beach Chenvaala
+TB_BaconShop_HERO_90	Silas Darkmoon
+TB_BaconShop_HERO_90_Buddy	Burth
+TB_BaconShop_HERO_90_Buddy_G	Burth
+TB_BaconShop_HERO_90_Buddye	Burthed
+TB_BaconShop_HERO_90_SKIN_A	Port Authority Silas
+TB_BaconShop_HERO_90_SKIN_B	Jinglepocket Silas
+TB_BaconShop_HERO_90_SKIN_C	Skating Silas
+TB_BaconShop_HERO_90_SKIN_D	Merch Manager Silas
+TB_BaconShop_HERO_90_SKIN_E	Festival Silas
+TB_BaconShop_HERO_90_SKIN_F	Redcap Silas
+TB_BaconShop_HERO_91	Zephrys, the Great
+TB_BaconShop_HERO_91_Buddy	Phyresz
+TB_BaconShop_HERO_91_Buddy_G	Phyresz
+TB_BaconShop_HERO_91_SKIN_A	Agent Z
+TB_BaconShop_HERO_91_SKIN_B	Stockingstuffer Zephrys
+TB_BaconShop_HERO_91_SKIN_C	Zhuge Liang Zephrys
+TB_BaconShop_HERO_91_SKIN_D	Goldenstar Zephrys
+TB_BaconShop_HERO_91_SKIN_E	Zephrys the Tide-Turner
+TB_BaconShop_HERO_91_SKIN_F	Dune Dweller Zephrys
+TB_BaconShop_HERO_92	Y'Shaarj
+TB_BaconShop_HERO_92_Buddy	Baby Y'Shaarj
+TB_BaconShop_HERO_92_Buddy_G	Baby Y'Shaarj
+TB_BaconShop_HERO_92_Buddy_e	Rage Unbound
+TB_BaconShop_HERO_92_SKIN_A	Maw of Y'Shaarj
+TB_BaconShop_HERO_92_SKIN_B	Mur’shrrgj
+TB_BaconShop_HERO_92_SKIN_C	Y'Shaarj the Corrupt
+TB_BaconShop_HERO_93	N'Zoth
+TB_BaconShop_HERO_93_Buddy	Baby N'Zoth
+TB_BaconShop_HERO_93_Buddy_G	Baby N'Zoth
+TB_BaconShop_HERO_93_SKIN_A	Cowboy N'Zoth
+TB_BaconShop_HERO_93_SKIN_B	Mixmaster N'Zoth
+TB_BaconShop_HERO_93_SKIN_C	Oil Guzzler N'Zoth
+TB_BaconShop_HERO_93_SKIN_D	Xel'naga N'Zoth
+TB_BaconShop_HERO_93_SKIN_E	Aerial N'Zoth
+TB_BaconShop_HERO_94	Tickatus
+TB_BaconShop_HERO_94_Buddy	Ticket Collector
+TB_BaconShop_HERO_94_Buddy_G	Ticket Collector
+TB_BaconShop_HERO_94_SKIN_A	Flexfire Tickatus
+TB_BaconShop_HERO_94_SKIN_B	Felblaze Tickatus
+TB_BaconShop_HERO_94_SKIN_C	Prom Queen Tickatus
+TB_BaconShop_HERO_94_SKIN_D	Naughty List Tickatus
+TB_BaconShop_HERO_94_SKIN_E	Scalper Tickatus
+TB_BaconShop_HERO_94_SKIN_F	Tockatus
+TB_BaconShop_HERO_95	Greybough
+TB_BaconShop_HERO_95_Buddy	Wandering Treant
+TB_BaconShop_HERO_95_Buddy_G	Wandering Treant
+TB_BaconShop_HERO_95_Buddy_e	Happy Little Tree
+TB_BaconShop_HERO_95_SKIN_A	Winterbough
+TB_BaconShop_HERO_95_SKIN_B	Traybough
+TB_BaconShop_HERO_95_SKIN_C	Hallow's Greybough
+TB_BaconShop_HERO_95_SKIN_D	Frostbitten Greybough
+TB_BaconShop_HERO_95_SKIN_E	Fairytown Greybough
+TB_BaconShop_HERO_95_SKIN_F	Dream Tree Greybough
+TB_BaconShop_HERO_Deathwhisper	Lady Deathwhisper
+TB_BaconShop_HERO_KelThuzad	Kel'Thuzad
+TB_BaconShop_HERO_PH	BaconPHhero
+TB_BaconShop_HP_001	Sharpen Blades
+TB_BaconShop_HP_001e	Sharpened Blades
+TB_BaconShop_HP_008	Smart Savings
+TB_BaconShop_HP_008a	Gold Coin
+TB_BaconShop_HP_009	Skilled Bartender
+TB_BaconShop_HP_010	Boon of Light
+TB_BaconShop_HP_010e	Boon of Light
+TB_BaconShop_HP_011	Galakrond's Greed
+TB_BaconShop_HP_014	Stay Frosty
+TB_BaconShop_HP_015	Tinker
+TB_BaconShop_HP_017	Murloc King
+TB_BaconShop_HP_017e	Murloc King
+TB_BaconShop_HP_018	Rage Potion
+TB_BaconShop_HP_018e2	Rage Potion
+TB_BaconShop_HP_019	DIE, INSECTS!
+TB_BaconShop_HP_020	Prestidigitation
+TB_BaconShop_HP_022	Snicker-snack
+TB_BaconShop_HP_022e	Double Next Battlecry
+TB_BaconShop_HP_022t	Shudderling
+TB_BaconShop_HP_022t_G	Shudderling
+TB_BaconShop_HP_022t_SKIN_C	Shudderskull
+TB_BaconShop_HP_022t_SKIN_C_G	Shudderskull
+TB_BaconShop_HP_024	Reborn Rites
+TB_BaconShop_HP_024e2	Reborn Rite
+TB_BaconShop_HP_027	Fire the Cannons!
+TB_BaconShop_HP_028	Temporal Tavern
+TB_BaconShop_HP_033	Menagerist
+TB_BaconShop_HP_033t	Amalgam
+TB_BaconShop_HP_033t_G	Amalgam
+TB_BaconShop_HP_033t_SKIN_A	Cuddlgam
+TB_BaconShop_HP_033t_SKIN_A_G	Cuddlgam
+TB_BaconShop_HP_033t_SKIN_B	Book-eating Amalgam
+TB_BaconShop_HP_033t_SKIN_B_G	Book-eating Amalgam
+TB_BaconShop_HP_033t_SKIN_D	Abominable Amalgam
+TB_BaconShop_HP_033t_SKIN_D_G	Abominable Amalgam
+TB_BaconShop_HP_035	All Patched Up
+TB_BaconShop_HP_036	Bloodfury
+TB_BaconShop_HP_036e2	Demonic Draught
+TB_BaconShop_HP_036e3	Demonic Draught
+TB_BaconShop_HP_036t	Nether Portal
+TB_BaconShop_HP_037a	Wax Warband
+TB_BaconShop_HP_037te	Waxed
+TB_BaconShop_HP_037te2	Waxed
+TB_BaconShop_HP_038	Bananarama
+TB_BaconShop_HP_038e	Banana Watcher
+TB_BaconShop_HP_038t	Wild Banana
+TB_BaconShop_HP_038te	Wild Banana
+TB_BaconShop_HP_039e	Puzzled
+TB_BaconShop_HP_039t	Puzzle Box
+TB_BaconShop_HP_040	Brick by Brick
+TB_BaconShop_HP_040e	Built Up
+TB_BaconShop_HP_041	A Tale of Kings
+TB_BaconShop_HP_041a	King of Beasts
+TB_BaconShop_HP_041b	King of Mechs
+TB_BaconShop_HP_041c	King of Murlocs
+TB_BaconShop_HP_041d	King of Demons
+TB_BaconShop_HP_041e	Rat Follower
+TB_BaconShop_HP_041f	King of Dragons
+TB_BaconShop_HP_041g	King of Pirates
+TB_BaconShop_HP_041h	King of Elementals
+TB_BaconShop_HP_041i	King of Quilboar
+TB_BaconShop_HP_041j	King of Naga
+TB_BaconShop_HP_041k	King of Undead
+TB_BaconShop_HP_042	Hat Trick
+TB_BaconShop_HP_042e	Hats
+TB_BaconShop_HP_043	Nefarious Fire
+TB_BaconShop_HP_044	Procrastinate
+TB_BaconShop_HP_045e	Powered Up!
+TB_BaconShop_HP_046	Gonna Be Rich!
+TB_BaconShop_HP_047	Lead Explorer
+TB_BaconShop_HP_047t	Recruitment Map
+TB_BaconShop_HP_048	Battle Brand
+TB_BaconShop_HP_049	Graveyard Shift
+TB_BaconShop_HP_050	Banshee's Blessing
+TB_BaconShop_HP_050e	Banshee Blessing
+TB_BaconShop_HP_051	Honorable Warband
+TB_BaconShop_HP_051e	Honorable
+TB_BaconShop_HP_052	Arcane Alteration
+TB_BaconShop_HP_053	I'll Take That!
+TB_BaconShop_HP_054	Manastorm
+TB_BaconShop_HP_056	Gone Fishing
+TB_BaconShop_HP_057	Adventure!
+TB_BaconShop_HP_061	ALL Will Burn!
+TB_BaconShop_HP_061e	ALL Will Burn!
+TB_BaconShop_HP_062	Dream Portal
+TB_BaconShop_HP_063	Clairvoyance
+TB_BaconShop_HP_064	Queen of Dragons
+TB_BaconShop_HP_065	Demon Hunter Training
+TB_BaconShop_HP_065pe	Aranna Watcher
+TB_BaconShop_HP_065t2	Spectral Sight
+TB_BaconShop_HP_065t2e	See The Value
+TB_BaconShop_HP_066	Verdant Spheres
+TB_BaconShop_HP_068	Imprison
+TB_BaconShop_HP_068e	Imprisoned
+TB_BaconShop_HP_068e2	Awakened
+TB_BaconShop_HP_068e3	Unplayable
+TB_BaconShop_HP_068pe	ImprisonedWatcher
+TB_BaconShop_HP_069	Wingmen
+TB_BaconShop_HP_069e	Wingmen
+TB_BaconShop_HP_072	Pirate Parrrrty!
+TB_BaconShop_HP_074	Buried Treasure
+TB_BaconShop_HP_075	Trash for Treasure
+TB_BaconShop_HP_076	Piggy Bank
+TB_BaconShop_HP_076_e	Piggy Bank Fraud
+TB_BaconShop_HP_077	Bob's Burgles
+TB_BaconShop_HP_080	Kel'Thuzad's Kitty
+TB_BaconShop_HP_080t	Consolation Coin
+TB_BaconShop_HP_081	Friendly Wager
+TB_BaconShop_HP_082	Everbloom
+TB_BaconShop_HP_084	Swap, Lock, & Shop It
+TB_BaconShop_HP_085	Tavern Lighting
+TB_BaconShop_HP_085e	Tavern Lights
+TB_BaconShop_HP_085t	Tavern Lighting
+TB_BaconShop_HP_086	Swatting Insects
+TB_BaconShop_HP_087	BUY, INSECT!
+TB_BaconShop_HP_087t	Sulfuras
+TB_BaconShop_HP_087te	Hand of Ragnaros
+TB_BaconShop_HP_088	Avalanche
+TB_BaconShop_HP_101	Come One, Come All!
+TB_BaconShop_HP_101e	Darkmoon Ticket
+TB_BaconShop_HP_101t2	Prize
+TB_BaconShop_HP_102	Three Wishes
+TB_BaconShop_HP_103	Embrace Your Rage
+TB_BaconShop_HP_104	Saturday C'Thuns!
+TB_BaconShop_HP_104e	Saturday C'Thuns!
+TB_BaconShop_HP_105	Avatar of N'Zoth
+TB_BaconShop_HP_105t	Fish of N'Zoth
+TB_BaconShop_HP_105t_SKIN_A	Cattlecarp of N'Zoth
+TB_BaconShop_HP_105t_SKIN_A_G	Cattlecarp of N'Zoth
+TB_BaconShop_HP_106	Prize Wall
+TB_BaconShop_HP_107	Sprout It Out!
+TB_BaconShop_HP_107e	Sprout It Out!
+TB_BaconShop_HP_702	Runic Empowerment
+TB_BaconShop_HP_702t	Rune of Damnation
+TB_BaconShop_IncreasedStats	Increased Stats for Triple
+TB_BaconShop_Triples_01	Triple Reward
+TB_BaconShop_UpdateDmgCap	Update Damage Cap [DNT]
+TB_BaconUps_002	Mecharoo
+TB_BaconUps_002t	Jo-E Bot
+TB_BaconUps_004	Kindly Grandmother
+TB_BaconUps_004t	Big Bad Wolf
+TB_BaconUps_006	Harvest Golem
+TB_BaconUps_006t	Damaged Golem
+TB_BaconUps_008	Murloc Warleader
+TB_BaconUps_008e	Mrgglaargl!
+TB_BaconUps_014	Selfless Hero
+TB_BaconUps_025	Spawn of N'Zoth
+TB_BaconUps_025e	Slimed
+TB_BaconUps_027	Rat Pack
+TB_BaconUps_027t	Rat
+TB_BaconUps_028	Kaboom Bot
+TB_BaconUps_030	Imp Gang Boss
+TB_BaconUps_030t	Imp
+TB_BaconUps_032	Replicating Menace
+TB_BaconUps_032e	Replicating Menace
+TB_BaconUps_032t	Microbot
+TB_BaconUps_034	Khadgar
+TB_BaconUps_039	Mechano-Egg
+TB_BaconUps_039t	Robosaur
+TB_BaconUps_041	Security Rover
+TB_BaconUps_041t	Guard Bot
+TB_BaconUps_042	The Beast
+TB_BaconUps_043	Scavenging Hyena
+TB_BaconUps_043e	Well Fed
+TB_BaconUps_044	Iron Sensei
+TB_BaconUps_044e	Ironed Out
+TB_BaconUps_045	Brann Bronzebeard
+TB_BaconUps_045e	Bronzebeard Battlecry
+TB_BaconUps_045t	Brann Bronzebeard [Murloc/Dragon]
+TB_BaconUps_049	Savannah Highmane
+TB_BaconUps_049t	Hyena
+TB_BaconUps_057	Ghastcoiler
+TB_BaconUps_059	Voidlord
+TB_BaconUps_059t	Voidwalker
+TB_BaconUps_061	Rockpool Hunter
+TB_BaconUps_061e	Trained
+TB_BaconUps_062	Nathrezim Overseer
+TB_BaconUps_062e	Impish
+TB_BaconUps_064	Coldlight Seer
+TB_BaconUps_066	Metaltooth Leaper
+TB_BaconUps_066e	Metal Teeth
+TB_BaconUps_068	Houndmaster
+TB_BaconUps_068e	Master's Presence
+TB_BaconUps_072	Strongshell Scavenger
+TB_BaconUps_072e	Strongshell
+TB_BaconUps_075	Soul Juggler
+TB_BaconUps_077	Pogo-Hopper
+TB_BaconUps_077e	Kinetic Energy
+TB_BaconUps_079	Wrath Weaver
+TB_BaconUps_082	Lightfang Enforcer
+TB_BaconUps_084	Gentle Megasaur
+TB_BaconUps_085	Goldrinn, the Great Wolf
+TB_BaconUps_086	Pack Leader
+TB_BaconUps_086e	Feral Calling
+TB_BaconUps_087	Kangor's Apprentice
+TB_BaconUps_089	Primalfin Lookout
+TB_BaconUps_090	Mama Bear
+TB_BaconUps_091	Zapp Slywick
+TB_BaconUps_093	Alleycat
+TB_BaconUps_093t	Tabbycat
+TB_BaconUps_094	Micro Machine
+TB_BaconUps_094e	Pistons
+TB_BaconUps_095	Shifter Zerus
+TB_BaconUps_095e	Shifting
+TB_BaconUps_099	Annoy-o-Module
+TB_BaconUps_099e	Annoy-o-Module
+TB_BaconUps_100	King Bagurgle
+TB_BaconUps_101	Floating Watcher
+TB_BaconUps_106	Razorgore, the Untamed
+TB_BaconUps_108	Twilight Emissary
+TB_BaconUps_108e	Twilight Embrace
+TB_BaconUps_109	Kalecgos, Arcane Aspect
+TB_BaconUps_110	Murozond
+TB_BaconUps_112	Fiendish Servant
+TB_BaconUps_113	Imprisoner
+TB_BaconUps_116	Imp Mama
+TB_BaconUps_119	Soul Devourer
+TB_BaconUps_123	Deflect-o-Bot
+TB_BaconUps_125	Rabid Saurolisk
+TB_BaconUps_125e	Rabid
+TB_BaconUps_126	Deck Swabbie
+TB_BaconUps_127	Freedealing Gambler
+TB_BaconUps_130	Goldgrubber
+TB_BaconUps_133	Cap'n Hoggarr
+TB_BaconUps_135	Monstrous Macaw
+TB_BaconUps_136	Southsea Captain
+TB_BaconUps_136e	Yarrr!
+TB_BaconUps_138	Bloodsail Cannoneer
+TB_BaconUps_138e	Pirate Life!
+TB_BaconUps_139	Ripsnarl Captain
+TB_BaconUps_139e	Snarled
+TB_BaconUps_140	Southsea Strongarm
+TB_BaconUps_141	Scallywag
+TB_BaconUps_141t	Sky Pirate
+TB_BaconUps_143	Salty Looter
+TB_BaconUps_144	Menagerie Mug
+TB_BaconUps_144e	Sip of Tea
+TB_BaconUps_145	Menagerie Jug
+TB_BaconUps_145e	Gulp of Tea
+TB_BaconUps_149	Bronze Warden
+TB_BaconUps_151	Cave Hydra
+TB_BaconUps_152	Toxfin
+TB_BaconUps_153	Foe Reaper 4000
+TB_BaconUps_154	Nadina the Red
+TB_BaconUps_156	Sellemental
+TB_BaconUps_159	Crackling Cyclone
+TB_BaconUps_160	Party Elemental
+TB_BaconUps_162	Tavern Tempest
+TB_BaconUps_163	Lieutenant Garr
+TB_BaconUps_165	Gentle Djinni
+TB_BaconUps_166	Wildfire Elemental
+TB_BaconUps_167	Refreshing Anomaly
+TB_BaconUps_200	Lil' Rag
+TB_BaconUps_201	Nomi, Kitchen Nightmare
+TB_BaconUps_207	Majordomo Executus
+TB_BaconUps_250	Micro Mummy
+TB_BaconUps_251	Deadly Spore
+TB_BaconUps_256	Warden of Old
+TB_BaconUps_256t	Warden's Treasure
+TB_BaconUps_258	Mythrax the Unraveler
+TB_BaconUps_302	Arm of the Empire
+TB_BaconUps_307	Fish of N'Zoth
+TB_BaconUps_308	Argent Braggart
+TB_BaconUps_309	Ring Matron
+TB_BaconUps_309t	Fiery Imp
+TB_Bacon_Secrets_01	Venomstrike Trap
+TB_Bacon_Secrets_01b	Better Venomstrike Trap
+TB_Bacon_Secrets_01be	Better Venomstrike
+TB_Bacon_Secrets_02	Snake Trap
+TB_Bacon_Secrets_04	Splitting Image
+TB_Bacon_Secrets_05	Effigy
+TB_Bacon_Secrets_07	Autodefense Matrix
+TB_Bacon_Secrets_07b	Better Autodefense Matrix
+TB_Bacon_Secrets_07e	Autodefense Matrix
+TB_Bacon_Secrets_08	Avenge
+TB_Bacon_Secrets_10	Redemption
+TB_Bacon_Secrets_10b	Better Redemption
+TB_Bacon_Secrets_11	Hand of Salvation
+TB_Bacon_Secrets_12	Ice Block
+TB_Bacon_Secrets_13	Competitive Spirit
+TB_Bacon_Secrets_13e	Competitive Spirit
+TB_Bacon_Secrets_14	Reckoning
+TB_Bacon_Secrets_15	Pack Tactics
+TB_Bacon_Secrets_15b	Better Pack Tactics
+TB_Bacon_Secrets_15e	Packmate
+TB_Baconshop_HP_054e	Manastormed
+TB_Baconshop_HP_054e2	Cost 1 more
+TB_Baconups_202	Molten Rock
+TB_Baconups_203e	Elemental Energy
